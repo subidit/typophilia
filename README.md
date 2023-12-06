@@ -49,16 +49,16 @@ Awesome list of free fonts and curated typographic resources. 💝
 | Common            | by WEIGHT             | by WIDTH       |
 | ----------------- | --------------------- | -------------- |
 | Bold              | Thin                  | Condensed      |
-| Italics (Slanted) | ExtraLight/UltraLight | SemiCondensed  |
+| Italics (Slanted) | Extra/UltraLight | SemiCondensed  |
 | Small Caps (SC)   | Light                 | Normal/Regular |
-|                   | Regular/Normal/Book   | SemiExpanded   |
+|                   | Regular/Book   | SemiExpanded   |
 |                   | Medium/Text           | Expanded       |
-|                   | SemiBold/Demibold     |                |
+|                   | Semi/DemiBold     |                |
 |                   | Bold                  |                |
-|                   | ExtraBold/UltraBold   |                |
+|                   | Extra/UltraBold   |                |
 |                   | Black/Heavy           |                |
 
-## Notable Free Fonts
+## More Free Fonts
 
 1. [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
 2. [Public Sans](https://public-sans.digital.gov/) by USWDS
@@ -219,18 +219,8 @@ In typography, a font superfamily or typeface superfamily is a font family conta
  7. Schola (Century Schoolbook)
  8. Termes (Times New Roman)
 
-- Linux Libertine (Times New Roman) (Wikipedia Logo)
-  - Libertinus Serif
-  - Common Serif
-- Linux Biolinum (Optima)
-  - Libertinus Serif
 
-### [DejaVu fonts](https://dejavu-fonts.github.io/) (based on the Vera Fonts)
-   * Sans: Book, Bold, Oblique, Bold Oblique, Condensed, Condensed Bold, Condensed Oblique and Condensed Bold Oblique, Extralight
-   * Serif: Book, Bold, Italic, Bold Italic, Condensed, Condensed Bold, Condensed Italic and Condensed Bold Italic
-   * Mono: Book, Bold, Oblique, Bold Oblique
-
-### Bitstream (BT) (Matthew Carter)
+### Bitstream (BT) Vera (by Matthew Carter)
   - Bitstream Vera (repackaged as Bera, for LaTeX)
     - serif 
     - sans-serif (Verdana)
@@ -239,17 +229,28 @@ In typography, a font superfamily or typeface superfamily is a font family conta
     - XCharter
     - Charis SIL
 
+#### [DejaVu fonts](https://dejavu-fonts.github.io/) (based on the Vera Fonts)
+   * Sans: Book, Bold, Oblique, Bold Oblique, Condensed, Condensed Bold, Condensed Oblique and Condensed Bold Oblique, Extralight
+   * Serif: Book, Bold, Italic, Bold Italic, Condensed, Condensed Bold, Condensed Italic and Condensed Bold Italic
+   * Mono: Book, Bold, Oblique, Bold Oblique
+
 ### Nimbus Fonts (URW++)
-  - Nimbus Sans L, which emulates Helvetica and Arial
-  - Nimbus Roman No9 L, which emulates Times and Times New Roman very closely
-  - Nimbus Mono, which emulates Courier and Courier New fairly closely
+  - Nimbus Sans L, emulates Helvetica and Arial
+  - Nimbus Roman No9 L, emulates Times and Times New Roman very closely
+  - Nimbus Mono, emulates Courier and Courier New fairly closely
 
 ### Liberation Fonts
 Originally distributed by Red Hat in 2007, there are three flavors:
-  - Liberation Sans, which emulates Arial, Helvetica, Nimbus Sans L, and to a lesser extent Bitstream Vera Sans/DejaVu Sans
-  - Liberation Serif, which emulates Times New Roman, Nimbus Roman, and to a lesser extent Bitstream Vera Serif/DejaVu Serif
-  - Liberation Mono, which emulates Courier New, Nimbus Mono L, and the Bitstream Vera/DejaVu monospace fonts
+  - Liberation Sans, emulates Arial, Helvetica, Nimbus Sans L, and to a lesser extent Bitstream Vera Sans/DejaVu Sans
+  - Liberation Serif, emulates Times New Roman, Nimbus Roman, and to a lesser extent Bitstream Vera Serif/DejaVu Serif
+  - Liberation Mono, emulates Courier New, Nimbus Mono L, and the Bitstream Vera/DejaVu monospace fonts
 
+### Linux Libertine
+- Linux Libertine (Times New Roman) (Wikipedia Logo)
+  - Libertinus Serif
+  - Common Serif
+- Linux Biolinum (Optima)
+  - Libertinus Serif
 
 ## Notable Type Foundries
 
