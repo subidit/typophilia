@@ -49,16 +49,16 @@ Awesome list of free fonts and curated typographic resources. 💝
 | Common            | by WEIGHT             | by WIDTH       |
 | ----------------- | --------------------- | -------------- |
 | Bold              | Thin                  | Condensed      |
-| Italics (Slanted) | ExtraLight/UltraLight | SemiCondensed  |
+| Italics (Slanted) | Extra/UltraLight | SemiCondensed  |
 | Small Caps (SC)   | Light                 | Normal/Regular |
-|                   | Regular/Normal/Book   | SemiExpanded   |
+|                   | Regular/Book   | SemiExpanded   |
 |                   | Medium/Text           | Expanded       |
-|                   | SemiBold/Demibold     |                |
+|                   | Semi/DemiBold     |                |
 |                   | Bold                  |                |
-|                   | ExtraBold/UltraBold   |                |
+|                   | Extra/UltraBold   |                |
 |                   | Black/Heavy           |                |
 
-## Notable Free Fonts
+## More Free Fonts
 
 1. [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
 2. [Public Sans](https://public-sans.digital.gov/) by USWDS
@@ -67,13 +67,8 @@ Awesome list of free fonts and curated typographic resources. 💝
 5. [London Underground Dot-Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
 6. [Canada1500](http://typodermicfonts.com/canada1500/)
 7. [Sweden Sans](https://identity.sweden.se/en/design-elements/typography)
-8. [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - censors bad language automatically
-9. [Averia](http://iotic.com/averia/) - the average font
-10. [B612](https://b612-font.com/) - Aeronautical Font by Airbus for cockpit screens
-11. [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/) - lettering style found on technical drawings (More links to other fonts)
-12. [OpenDyslexic](https://opendyslexic.org/) - A typeface for Dyslexia
-13. [Shake](https://writewithparkinsons.com/) - A Typeface with Parkinson's
-14. [Geist](https://vercel.com/font/sans) - by Vercel, also has Monospace variant
+8. [B612](https://b612-font.com/) - Aeronautical Font by Airbus for cockpit screens
+9. [Geist](https://vercel.com/font/sans) - by Vercel, also has Monospace variant
 15. [Redaction](https://www.redaction.us/)
 16. [Luciole](https://www.luciole-vision.com/luciole-en.html) - for visually impaired people
 17. [Cantarell](https://cantarell.gnome.org/)
@@ -86,6 +81,12 @@ Awesome list of free fonts and curated typographic resources. 💝
 3. [QCMU](https://quantum-village.github.io/QCMU-font.html) - to make diagrams of quantum circuits!
 4. FE-Schrift - forgery-impeding typeface for licence plates.
 5. [LAIKA](https://laikafont.ch/) – a dynamic typeface
+6. [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - censors bad language automatically
+7. [Averia](http://iotic.com/averia/) - the average font
+8. [OpenDyslexic](https://opendyslexic.org/) - A typeface for Dyslexia
+9. [Shake](https://writewithparkinsons.com/) - A Typeface with Parkinson's
+10. [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/) - lettering style found on technical drawings (More links to other fonts)
+
 
 
 
@@ -224,18 +225,8 @@ In typography, a font superfamily or typeface superfamily is a font family conta
  7. Schola (Century Schoolbook)
  8. Termes (Times New Roman)
 
-- Linux Libertine (Times New Roman) (Wikipedia Logo)
-  - Libertinus Serif
-  - Common Serif
-- Linux Biolinum (Optima)
-  - Libertinus Serif
 
-### [DejaVu fonts](https://dejavu-fonts.github.io/) (based on the Vera Fonts)
-   * Sans: Book, Bold, Oblique, Bold Oblique, Condensed, Condensed Bold, Condensed Oblique and Condensed Bold Oblique, Extralight
-   * Serif: Book, Bold, Italic, Bold Italic, Condensed, Condensed Bold, Condensed Italic and Condensed Bold Italic
-   * Mono: Book, Bold, Oblique, Bold Oblique
-
-### Bitstream (BT) (Matthew Carter)
+### Bitstream (BT) Vera (by Matthew Carter)
   - Bitstream Vera (repackaged as Bera, for LaTeX)
     - serif 
     - sans-serif (Verdana)
@@ -244,17 +235,28 @@ In typography, a font superfamily or typeface superfamily is a font family conta
     - XCharter
     - Charis SIL
 
+#### [DejaVu fonts](https://dejavu-fonts.github.io/) (based on the Vera Fonts)
+   * Sans: Book, Bold, Oblique, Bold Oblique, Condensed, Condensed Bold, Condensed Oblique and Condensed Bold Oblique, Extralight
+   * Serif: Book, Bold, Italic, Bold Italic, Condensed, Condensed Bold, Condensed Italic and Condensed Bold Italic
+   * Mono: Book, Bold, Oblique, Bold Oblique
+
 ### Nimbus Fonts (URW++)
-  - Nimbus Sans L, which emulates Helvetica and Arial
-  - Nimbus Roman No9 L, which emulates Times and Times New Roman very closely
-  - Nimbus Mono, which emulates Courier and Courier New fairly closely
+  - Nimbus Sans L, emulates Helvetica and Arial
+  - Nimbus Roman No9 L, emulates Times and Times New Roman very closely
+  - Nimbus Mono, emulates Courier and Courier New fairly closely
 
 ### Liberation Fonts
 Originally distributed by Red Hat in 2007, there are three flavors:
-  - Liberation Sans, which emulates Arial, Helvetica, Nimbus Sans L, and to a lesser extent Bitstream Vera Sans/DejaVu Sans
-  - Liberation Serif, which emulates Times New Roman, Nimbus Roman, and to a lesser extent Bitstream Vera Serif/DejaVu Serif
-  - Liberation Mono, which emulates Courier New, Nimbus Mono L, and the Bitstream Vera/DejaVu monospace fonts
+  - Liberation Sans, emulates Arial, Helvetica, Nimbus Sans L, and to a lesser extent Bitstream Vera Sans/DejaVu Sans
+  - Liberation Serif, emulates Times New Roman, Nimbus Roman, and to a lesser extent Bitstream Vera Serif/DejaVu Serif
+  - Liberation Mono, emulates Courier New, Nimbus Mono L, and the Bitstream Vera/DejaVu monospace fonts
 
+### Linux Libertine
+- Linux Libertine (Times New Roman) (Wikipedia Logo)
+  - Libertinus Serif
+  - Common Serif
+- Linux Biolinum (Optima)
+  - Libertinus Serif
 
 ## Notable Type Foundries
 
