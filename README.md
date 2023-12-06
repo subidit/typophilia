@@ -105,6 +105,7 @@ Awesome list of free fonts and curated typographic resources. 💝
 12. [Victor Mono](https://rubjo.github.io/victor-mono/)
 13. [MonoLisa](https://www.monolisa.dev/)
 
+
 ## WebApps
 
 1. [ProgrammingFonts](https://www.programmingfonts.org/) - test drive 138 programming fonts
@@ -144,33 +145,33 @@ Awesome list of free fonts and curated typographic resources. 💝
 
 ## Aggregators
 
-[1001 Free Fonts](https://www.1001freefonts.com/)
-[Abstract Fonts](https://www.abstractfonts.com/). 10,000+ fonts.
-[BeFonts](https://befonts.com/)
-[Collletttivo](https://www.collletttivo.it/). 12 typefaces.
-[creativetacos](https://creativetacos.com/category/free-fonts/). 3300 fonts
-[DaFont](https://www.dafont.com/). 82,320 fonts.
-[Font Library](https://fontlibrary.org/en/catalogue). 1,366 fonts.
-[Fontasy](http://fontasy.org/)
-[FontBundles](https://fontbundles.net/free-fonts)
-[FontCubes](http://www.fontcubes.com/)
-[Fontfabric](https://www.fontfabric.com/free-fonts/)
-[FontM](https://fontm.com/)
-[FontPalace](https://www.fontpalace.com/)
-[FontPark](https://fontpark.com/)
-[FontReach](https://www.fontreach.com/). 2,700 fonts.
-[FontRiver](https://www.fontriver.com/). 60,000 fonts.
-[fonts.com](https://www.fonts.com/browse?priceMax=family:pricing:free) Free section
-[Fontsly](https://fontsly.com/)
-[FontSpace](https://www.fontspace.com/)
-[FontSpring](https://www.fontspring.com/)
-[FontSquirrel](https://www.fontsquirrel.com/)
-[FontStruct](https://fontstruct.com/gallery)
-[FontZone](https://fontzone.net/)
-[FreebiesBug](https://freebiesbug.com/free-fonts/) 
-[GitHub](https://github.com/topics/font)
-[The Velvetyne Type Foundry (VTF)](https://velvetyne.fr/)
-[Urban Fonts](https://www.urbanfonts.com/free-fonts.htm)
+- [1001 Free Fonts](https://www.1001freefonts.com/)
+- [Abstract Fonts](https://www.abstractfonts.com/). 10,000+ fonts.
+- [BeFonts](https://befonts.com/)
+- [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
+- [creativetacos](https://creativetacos.com/category/free-fonts/). 3300 fonts
+- [DaFont](https://www.dafont.com/). 82,320 fonts.
+- [Font Library](https://fontlibrary.org/en/catalogue). 1,366 fonts.
+- [Fontasy](http://fontasy.org/)
+- [FontBundles](https://fontbundles.net/free-fonts)
+- [FontCubes](http://www.fontcubes.com/)
+- [Fontfabric](https://www.fontfabric.com/free-fonts/)
+- [FontM](https://fontm.com/)
+- [FontPalace](https://www.fontpalace.com/)
+- [FontPark](https://fontpark.com/)
+- [FontReach](https://www.fontreach.com/). 2,700 fonts.
+- [FontRiver](https://www.fontriver.com/). 60,000 fonts.
+- [fonts.com](https://www.fonts.com/browse?priceMax=family:pricing:free) Free section
+- [Fontsly](https://fontsly.com/)
+- [FontSpace](https://www.fontspace.com/)
+- [FontSpring](https://www.fontspring.com/)
+- [FontSquirrel](https://www.fontsquirrel.com/)
+- [FontStruct](https://fontstruct.com/gallery)
+- [FontZone](https://fontzone.net/)
+- [FreebiesBug](https://freebiesbug.com/free-fonts/) 
+- [GitHub](https://github.com/topics/font)
+- [The Velvetyne Type Foundry (VTF)](https://velvetyne.fr/)
+- [Urban Fonts](https://www.urbanfonts.com/free-fonts.htm)
 
 
 ## Default Fonts
