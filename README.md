@@ -11,8 +11,7 @@ Awesome list of free fonts and curated typographic resources. 💝
 6. [The League Of Moveable Type](https://www.theleagueofmoveabletype.com/). 17 typefaces.
 7. [Free Faces](https://www.freefaces.gallery/). 77 typefaces.
 8. [UNCUT.wtf](https://uncut.wtf/). 150 typefaces.
-9. [Velvetyne](https://velvetyne.fr/). 36 typefaces.
-10. [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
+9. [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
 
 
 ## Typefaces by Tech Companies
@@ -42,6 +41,7 @@ Awesome list of free fonts and curated typographic resources. 💝
 * Red Hat
   * Overpass
   * Liberation fonts (Liberation Sans, Liberation Sans Narrow, Liberation Serif, Liberation Mono)
+  * [Red Hat fonts](https://www.redhat.com/en/about/brand/standards/typography) (Red Hat Display, Red Hat Text, Red Hat Mono)
 
 
 ## Typeface Variants (Fonts)
@@ -67,16 +67,12 @@ Awesome list of free fonts and curated typographic resources. 💝
 5. [London Underground Dot-Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
 6. [Canada1500](http://typodermicfonts.com/canada1500/)
 7. [Sweden Sans](https://identity.sweden.se/en/design-elements/typography)
-8. [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - censors bad language automatically
-9. [Averia](http://iotic.com/averia/) - the average font
-10. [B612](https://b612-font.com/) - Aeronautical Font by Airbus for cockpit screens
-11. [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/) - lettering style found on technical drawings (More links to other fonts)
-12. [OpenDyslexic](https://opendyslexic.org/) - A typeface for Dyslexia
-13. [Shake](https://writewithparkinsons.com/) - A Typeface with Parkinson's
-14. [Geist](https://vercel.com/font/sans) - by Vercel, also has Monospace variant
-15. [Redaction](https://www.redaction.us/)
-16. [Luciole](https://www.luciole-vision.com/luciole-en.html) - for visually impaired people
-17. [Cantarell](https://cantarell.gnome.org/)
+8. [Averia](http://iotic.com/averia/) - the average font
+9. [B612](https://b612-font.com/) - Aeronautical Font by Airbus for cockpit screens
+10. [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/) - lettering style found on technical drawings (More links to other fonts)
+11. [Geist](https://vercel.com/font/sans) - by Vercel, also has Monospace variant
+12. [Redaction](https://www.redaction.us/)
+13. [Cantarell](https://cantarell.gnome.org/)
 
 
 ## Clever Typefaces
@@ -84,8 +80,12 @@ Awesome list of free fonts and curated typographic resources. 💝
 1. One Night Sans by Durex
 2. [ZXX](https://www.librarystack.org/zxx/) - Illagible to OCR
 3. [QCMU](https://quantum-village.github.io/QCMU-font.html) - to make diagrams of quantum circuits!
-4. FE-Schrift - forgery-impeding typeface for licence plates.
-5. [LAIKA](https://laikafont.ch/) – a dynamic typeface
+4. [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - censors bad language automatically
+5. [OpenDyslexic](https://opendyslexic.org/) - A typeface for Dyslexia
+6. [Shake](https://writewithparkinsons.com/) - A Typeface with Parkinson's
+7. FE-Schrift - forgery-impeding typeface for licence plates.
+8. [LAIKA](https://laikafont.ch/) – a dynamic typeface
+9. [Luciole](https://www.luciole-vision.com/luciole-en.html) - for visually impaired people
 
 
 
@@ -144,38 +144,33 @@ Awesome list of free fonts and curated typographic resources. 💝
 
 ## Aggregators
 
-1. [The LaTeX Font Catalogue](https://tug.org/FontCatalogue/)
-2. [Font Squirrel](https://www.fontsquirrel.com/)
-3. [DaFont](https://www.dafont.com/)
-4. [GitHub](https://github.com/topics/font)
-5. [Nerd Fonts](https://www.nerdfonts.com/) - Iconic font aggregator, collection, and patcher
-6. [Fontshare](https://www.fontshare.com/) by Indian Type Foundry (ITF)
-7. [The League of Movable Type](https://www.theleagueofmoveabletype.com/)
-9. [FontShop](https://www.fontshop.com/free-fonts)
-10. [uncut.wtf](https://uncut.wtf/)
-11. [FontSpace](https://www.fontspace.com/)
-12. [BeFonts](https://befonts.com/)
-13. [FontSpring](https://www.fontspring.com/)
-14. [Abstract Fonts](https://www.abstractfonts.com/)
-15. [1001 Free Fonts](https://www.1001freefonts.com/)
-16. [FontStruct](https://fontstruct.com/gallery)
-17. [Urban Fonts](https://www.urbanfonts.com/free-fonts.htm)
-18. [FontBundles](https://fontbundles.net/free-fonts)
-19. [fonts.com](https://www.fonts.com/browse?priceMax=family:pricing:free) Free section
-20. [Fontsly](https://fontsly.com/)
-21. [creativetacos](https://creativetacos.com/category/free-fonts/)
-22. [Open Foundry](https://open-foundry.com/fonts)
-23. [Fontasy](http://fontasy.org/)
-24. [FontZone](https://fontzone.net/)
-25. [FontPark](https://fontpark.com/)
-26. [FontM](https://fontm.com/)
-27. [Font River](https://www.fontriver.com/)
-28. [FontCubes](http://www.fontcubes.com/)
-29. [FontPalace](https://www.fontpalace.com/)
-30. [Fontfabric](https://www.fontfabric.com/free-fonts/)
-31. [The Velvetyne Type Foundry (VTF)](https://velvetyne.fr/)
-32. [FreebiesBug](https://freebiesbug.com/free-fonts/) 
-33. [Font Reach](https://www.fontreach.com/)
+[1001 Free Fonts](https://www.1001freefonts.com/)
+[Abstract Fonts](https://www.abstractfonts.com/). 10,000+ fonts.
+[BeFonts](https://befonts.com/)
+[Collletttivo](https://www.collletttivo.it/). 12 typefaces.
+[creativetacos](https://creativetacos.com/category/free-fonts/). 3300 fonts
+[DaFont](https://www.dafont.com/). 82,320 fonts.
+[Font Library](https://fontlibrary.org/en/catalogue). 1,366 fonts.
+[Fontasy](http://fontasy.org/)
+[FontBundles](https://fontbundles.net/free-fonts)
+[FontCubes](http://www.fontcubes.com/)
+[Fontfabric](https://www.fontfabric.com/free-fonts/)
+[FontM](https://fontm.com/)
+[FontPalace](https://www.fontpalace.com/)
+[FontPark](https://fontpark.com/)
+[FontReach](https://www.fontreach.com/). 2,700 fonts.
+[FontRiver](https://www.fontriver.com/). 60,000 fonts.
+[fonts.com](https://www.fonts.com/browse?priceMax=family:pricing:free) Free section
+[Fontsly](https://fontsly.com/)
+[FontSpace](https://www.fontspace.com/)
+[FontSpring](https://www.fontspring.com/)
+[FontSquirrel](https://www.fontsquirrel.com/)
+[FontStruct](https://fontstruct.com/gallery)
+[FontZone](https://fontzone.net/)
+[FreebiesBug](https://freebiesbug.com/free-fonts/) 
+[GitHub](https://github.com/topics/font)
+[The Velvetyne Type Foundry (VTF)](https://velvetyne.fr/)
+[Urban Fonts](https://www.urbanfonts.com/free-fonts.htm)
 
 
 ## Default Fonts
