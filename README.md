@@ -58,7 +58,8 @@ Awesome list of free fonts and curated typographic resources. 💝
 |                   | Extra/UltraBold   |                |
 |                   | Black/Heavy           |                |
 
-## More Free Fonts
+
+## Interesting Free Fonts
 
 1. [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
 2. [Public Sans](https://public-sans.digital.gov/) by USWDS
@@ -73,19 +74,15 @@ Awesome list of free fonts and curated typographic resources. 💝
 11. [Geist](https://vercel.com/font/sans) - by Vercel, also has Monospace variant
 12. [Redaction](https://www.redaction.us/)
 13. [Cantarell](https://cantarell.gnome.org/)
-
-
-## Clever Typefaces
-
-1. One Night Sans by Durex
-2. [ZXX](https://www.librarystack.org/zxx/) - Illagible to OCR
-3. [QCMU](https://quantum-village.github.io/QCMU-font.html) - to make diagrams of quantum circuits!
-4. [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - censors bad language automatically
-5. [OpenDyslexic](https://opendyslexic.org/) - A typeface for Dyslexia
-6. [Shake](https://writewithparkinsons.com/) - A Typeface with Parkinson's
-7. FE-Schrift - forgery-impeding typeface for licence plates.
-8. [LAIKA](https://laikafont.ch/) – a dynamic typeface
-9. [Luciole](https://www.luciole-vision.com/luciole-en.html) - for visually impaired people
+14. One Night Sans by Durex
+15. [ZXX](https://www.librarystack.org/zxx/) - Illagible to OCR
+16. [QCMU](https://quantum-village.github.io/QCMU-font.html) - to make diagrams of quantum circuits!
+17. [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - censors bad language automatically
+18. [OpenDyslexic](https://opendyslexic.org/) - A typeface for Dyslexia
+19. [Shake](https://writewithparkinsons.com/) - A Typeface with Parkinson's
+20. FE-Schrift - forgery-impeding typeface for licence plates.
+21. [LAIKA](https://laikafont.ch/) – a dynamic typeface
+22. [Luciole](https://www.luciole-vision.com/luciole-en.html) - for visually impaired people
 
 
 
@@ -292,9 +289,9 @@ The common typeface classifications are:
 This is the official way of classification. It categorises fonts as follows:
 
 1. Classicals (*Oldstyle Serif*)
-   1. Humanist
-   2. Garalde
-   3. Transitional
+   1. Humanist: These typefaces sought to imitate the formal hands found in the humanistic (renaissance) manuscripts of the time (15th century, Venetian printers).
+   2. Garalde: (Aldine) have finer proportions than the humanists, and a stronger contrast between downstroke and upstroke.
+   3. Transitional: (Realist)
 
 2. Moderns
    1. Didone
@@ -306,11 +303,35 @@ This is the official way of classification. It categorises fonts as follows:
       4. Humanist
 
 3. Calligraphics
-   1. Glyphic (Incised)
-   2. Script
-   3. Graphic
-   4. Blackletter
+   1. Glyphic: (Incised) incised, or incise are typefaces which evoke the engraving or chiseling of characters in stone or metal, as opposed to calligraphic handwriting.
+   2. Script: typefaces which evoke the formal penmanship of cursive writing. They seem to be written with a quill and have a strong slope.
+   3. Graphic: are based on hand-drawn originals which are slowly written with either a brush, pen, pencil, or other writing instrument. 
+   4. Blackletter: are characterized by pointed and angular forms, and are modeled on late medieval hands written with a broad-nibbed pen.
    5. Gaelic (Insular script)
 
 4. Non-Latin
 
+## Examples
+
+Classicals
+- Humanist: Centaur, Cloister, Jenson
+- Garalde: Bembo, Garamond
+- Transitional: Caslon, Baskerville, Times Roman
+
+Moderns
+- Didone: Bodoni, Walbaum
+- Mechanistic: Clarendon, Egyptienne, Ionic No. 5, Rockwell
+- Lineal
+
+Lineal
+- Grotesque: Headline, Monotype 215, and Grot no. 6
+- Neo-grotesque: Helvetica and Univers
+- Geometric: Century Gothic and Futura
+- Humanist: Gill Sans and Optima
+
+Calligraphics
+- Glyphic: Albertus, Copperplate Gothic, and Trajan
+- Script: Shelley, Mistral and Francesca
+- Graphic: Banco and Klang 
+- Blackletter: Fette Fraktur
+- Gaelic: Duibhlinn, Uncial
