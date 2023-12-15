@@ -1,7 +1,8 @@
-# FreeFontGuide
+# FONTS HANDBOOK
+
 Awesome list of free fonts and curated typographic resources. 💝
 
-## Quality Font Catalogues
+## Free Typeface Catalogues
 
 1. [FontShop](https://www.fontshop.com/free-fonts) by Monotype. 1430 families.
 2. [Beautiful Web Type](https://beautifulwebtype.com/). 39 typaces. Pairings, features.
@@ -12,6 +13,7 @@ Awesome list of free fonts and curated typographic resources. 💝
 7. [Free Faces](https://www.freefaces.gallery/). 77 typefaces.
 8. [UNCUT.wtf](https://uncut.wtf/). 150 typefaces.
 9. [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
+10. [Fontsource](https://fontsource.org/) 1656 families
 
 
 ## Typefaces by Tech Companies
@@ -46,17 +48,20 @@ Awesome list of free fonts and curated typographic resources. 💝
 
 ## Typeface Variants (Fonts)
 
-| Common            | by WEIGHT             | by WIDTH       |
-| ----------------- | --------------------- | -------------- |
-| Bold              | Thin                  | Condensed      |
-| Italics (Slanted) | Extra/UltraLight | SemiCondensed  |
-| Small Caps (SC)   | Light                 | Normal/Regular |
-|                   | Regular/Book   | SemiExpanded   |
-|                   | Medium/Text           | Expanded       |
-|                   | Semi/DemiBold     |                |
-|                   | Bold                  |                |
-|                   | Extra/UltraBold   |                |
-|                   | Black/Heavy           |                |
+- Italics / Slanted
+- Small Caps (SC)
+
+| by WEIGHT        | by WIDTH       |
+| ---------------- | -------------- |
+| Thin             | Condensed      |
+| Extra/UltraLight | SemiCondensed  |
+| Light            | Normal/Regular |
+| Regular/Book     | SemiExpanded   |
+| Medium/Text      | Expanded       |
+| Semi/DemiBold    |                |
+| Bold             |                |
+| Extra/UltraBold  |                |
+| Black/Heavy      |                |
 
 
 ## Interesting Free Fonts
@@ -75,7 +80,7 @@ Awesome list of free fonts and curated typographic resources. 💝
 12. [Redaction](https://www.redaction.us/)
 13. [Cantarell](https://cantarell.gnome.org/)
 14. One Night Sans by Durex
-15. [ZXX](https://www.librarystack.org/zxx/) - Illagible to OCR
+15. [ZXX](https://www.librarystack.org/zxx/) - Illegible to OCR
 16. [QCMU](https://quantum-village.github.io/QCMU-font.html) - to make diagrams of quantum circuits!
 17. [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - censors bad language automatically
 18. [OpenDyslexic](https://opendyslexic.org/) - A typeface for Dyslexia
@@ -105,24 +110,25 @@ Awesome list of free fonts and curated typographic resources. 💝
 
 ## WebApps
 
-1. [ProgrammingFonts](https://www.programmingfonts.org/) - test drive 138 programming fonts
-2. [Coding Font](https://www.codingfont.com/) - find your favorite coding font
-3. [Wakamai Fondue](https://wakamaifondue.com/beta/) - What can my font do?
-4. [Golden Ratio Typography Calculator](https://grtcalculator.com/)
-5. [Modular Scale](https://www.modularscale.com/)
-6. [Typescale](https://typescale.com/)
-7. [Archetype](https://archetypeapp.com/) - Font pairing and size
-8. [Fontjoy](https://fontjoy.com/) - Font pairing made simple
-9. [FontPair](https://www.fontpair.co/all)
-10. [WordMark](https://wordmark.it/) - Compare multiple fonts in a visual grid.
-11. [Kern Type](https://type.method.ac/) - a letter spacing / kerning game.
-12. [TypeWar](https://typewar.com/) - Identify font game.
-13. [Font Meme](https://fontmeme.com/) - Discover fonts used in popular culture.
-14. [FontBolt](https://www.fontbolt.com/) - Generate your text from pop culture fonts. 
-15. [Beautiful Web Type](https://beautifulwebtype.com/)
-16. [Standard Font List](https://www.impactsigns.com/standard-font-list/)
-17. [Modern Font Stacks](https://modernfontstacks.com/)
-18. [System Font Stacks](https://systemfontstack.com/)
+1. [Identifont](http://www.identifont.com/index.html) - Fonts by appearance, name, similarity, designer or publisher.
+2. [ProgrammingFonts](https://www.programmingfonts.org/) - test drive 138 programming fonts
+3. [Coding Font](https://www.codingfont.com/) - find your favorite coding font
+4. [Wakamai Fondue](https://wakamaifondue.com/beta/) - What can my font do?
+5. [Golden Ratio Typography Calculator](https://grtcalculator.com/)
+6. [Modular Scale](https://www.modularscale.com/)
+7. [Typescale](https://typescale.com/)
+8. [Archetype](https://archetypeapp.com/) - Font pairing and size
+9. [Fontjoy](https://fontjoy.com/) - Font pairing made simple
+10. [FontPair](https://www.fontpair.co/all)
+11. [WordMark](https://wordmark.it/) - Compare multiple fonts in a visual grid.
+12. [Kern Type](https://type.method.ac/) - a letter spacing / kerning game.
+13. [TypeWar](https://typewar.com/) - Identify font game.
+14. [Font Meme](https://fontmeme.com/) - Discover fonts used in popular culture.
+15. [FontBolt](https://www.fontbolt.com/) - Generate your text from pop culture fonts. 
+16. [Beautiful Web Type](https://beautifulwebtype.com/)
+17. [Standard Font List](https://www.impactsigns.com/standard-font-list/)
+18. [Modern Font Stacks](https://modernfontstacks.com/)
+19. [System Font Stacks](https://systemfontstack.com/)
 
 
 ## Learning
@@ -135,7 +141,7 @@ Awesome list of free fonts and curated typographic resources. 💝
 
 ## Inspiration
 
-2. [Discover Typograpgy](https://discover.typography.com/) - From the designers at H&Co.
+2. [Discover Typography](https://discover.typography.com/) - From the designers at H&Co.
 2. [Fonts in use](https://fontsinuse.com/)
 3. [Typewolf](https://www.typewolf.com/)
 4. [I Love Typography](https://ilovetypography.com/font-inspiration/)
@@ -173,15 +179,15 @@ Awesome list of free fonts and curated typographic resources. 💝
 
 ## Default Fonts
 
-| Application    | Font Name       |
-| -------------- | --------------- |
-| Windows        | Segoe UI        |
-| MacOS          | San Francisco   |
-| iOS            | San Francisco   |
-| Android        | Roboto          |
-| MS Office      | Aptos           |
-| Google Docs    | Arial           |
-| LaTeX          | Computer Modern |
+| Application | Font Name       |
+| ----------- | --------------- |
+| Windows     | Segoe UI        |
+| MacOS       | San Francisco   |
+| iOS         | San Francisco   |
+| Android     | Roboto          |
+| MS Office   | Aptos           |
+| Google Docs | Arial           |
+| LaTeX       | Computer Modern |
 
 
 
@@ -256,7 +262,7 @@ Originally distributed by Red Hat in 2007, there are three flavors:
   * Linotype  
   * International Typeface Corporation (ITC)
   * Bitstream
-  * FontShop (formar FF)
+  * FontShop (former FF)
   * URW Type Foundry 
   * Hoefler & Co.
 * Adobe Originals
@@ -335,3 +341,52 @@ Calligraphics
 - Graphic: Banco and Klang 
 - Blackletter: Fette Fraktur
 - Gaelic: Duibhlinn, Uncial
+
+
+## Notable free super-families
+
+- Alegreya - Serif, sans serif, and samll caps
+- Bespoke - Sans, serif, slab, and stencil styes
+- DejaVu - Serif, sans serif, and mono
+- IBM Plex - Serif, sans serif, and mono
+- Inria - Serif and sans serif, also swashes.
+- Merriweather + Sans
+- Noto - Serif, sans serif, mono, and emoji
+- PT Sans & PT Serif - Serif, sans serif, and mono
+- Roboto - Sans,serif, slab serif, condensed, and mono
+- Source by Adobe - Serif, sans serif, and mono
+- Fira - Sans, mono, and code ligatures
+- Gandhi - Serif and sans
+- KP Serif & KP Sans-Serif
+- Nimbus Core - URW++ clones of Courier, Helvetica and Times
+- Quattrocento + Quattrocento Sans
+
+
+## Free sans serif font families
+
+- Archivo
+- Clear Sans
+- Inter
+- Jost*
+- Lato
+- Open Sans
+- Cabin
+- GoSans
+- Montserrat
+- Raleway
+- Work Sans
+
+## Serif typefaces
+
+- Crimson Pro
+- Vollkorn
+- Literata
+- Charis SIL
+- Bona Nova
+
+### Links
+
+- [Typography Guru](https://typography.guru/list/)
+- [Huerta Tipografica](https://www.huertatipografica.com/en/fonts/alegreya-ht-pro) Argentina
+- [Font Library](https://fontlibrary.dev/?) - Google fonts by tags
+- [GooFonts](https://goofonts.com/) - Google fonts tagged
