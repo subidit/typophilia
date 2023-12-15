@@ -2,35 +2,19 @@
 
 Awesome list of free fonts and curated typographic resources. 💝
 
-## Free Typeface Catalogues
-
-1. [FontShop](https://www.fontshop.com/free-fonts) by Monotype. 1430 families.
-2. [Beautiful Web Type](https://beautifulwebtype.com/). 39 typaces. Pairings, features.
-3. [indestructible type*](https://indestructibletype.com/Home.html) by Owen Earl. 7 typefaces.
-4. [Fontshare](https://www.fontshare.com/) by Indian Type Foundry. 100 fonts, 59 pairs.
-5. [Open Foundry](https://open-foundry.com/fonts). 31 variable fonts.
-6. [The League Of Moveable Type](https://www.theleagueofmoveabletype.com/). 17 typefaces.
-7. [Free Faces](https://www.freefaces.gallery/). 77 typefaces.
-8. [UNCUT.wtf](https://uncut.wtf/). 150 typefaces.
-9. [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
-10. [Fontsource](https://fontsource.org/) 1656 families
-
 
 ## Typefaces by Tech Companies
 
-* Adobe
-  * Source (Source Code Pro, Source Sans Pro, Source Serif Pro)
+* Adobe Source (Source Code Pro, Source Sans Pro, Source Serif Pro)
 * Apple
   * San Francisco (SF Pro, SF Compact, SF Mono)
   * New York (Serif companion)
-* IBM
-  * Plex (IBM Plex Sans, IBM Plex Serif, IBM Plex Mono, IBM Plex Condensed)
+* IBM Plex (IBM Plex Sans, IBM Plex Serif, IBM Plex Mono, IBM Plex Condensed)
 * Google
   * Droid
   * Noto
   * Roboto
-* Mozilla
-  * Fira (Fira Code (ligatures), Fira Sans, Fira Math (serif))
+* Mozilla Fira (Fira Code (ligatures), Fira Sans, Fira Math (serif))
 * GitHub
   * Monaspace
     * Neon - Neo-grotesque sans
@@ -38,8 +22,7 @@ Awesome list of free fonts and curated typographic resources. 💝
     * Xenon - Slab serif
     * Radon - Handwriting
     * Krypton - Mechanical sans
-  * Mona Sans  
-    * Hubot Sans
+  * Mona Sans & Hubot Sans
 * Red Hat
   * Overpass
   * Liberation fonts (Liberation Sans, Liberation Sans Narrow, Liberation Serif, Liberation Mono)
@@ -63,118 +46,6 @@ Awesome list of free fonts and curated typographic resources. 💝
 | Extra/UltraBold  |                |
 | Black/Heavy      |                |
 
-
-## Interesting Free Fonts
-
-1. [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
-2. [Public Sans](https://public-sans.digital.gov/) by USWDS
-3. [Inter](https://rsms.me/inter/)
-4. [National Park Typeface](https://nationalparktypeface.com/)
-5. [London Underground Dot-Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
-6. [Canada1500](http://typodermicfonts.com/canada1500/)
-7. [Sweden Sans](https://identity.sweden.se/en/design-elements/typography)
-8. [Averia](http://iotic.com/averia/) - the average font
-9. [B612](https://b612-font.com/) - Aeronautical Font by Airbus for cockpit screens
-10. [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/) - lettering style found on technical drawings (More links to other fonts)
-11. [Geist](https://vercel.com/font/sans) - by Vercel, also has Monospace variant
-12. [Redaction](https://www.redaction.us/)
-13. [Cantarell](https://cantarell.gnome.org/)
-14. One Night Sans by Durex
-15. [ZXX](https://www.librarystack.org/zxx/) - Illegible to OCR
-16. [QCMU](https://quantum-village.github.io/QCMU-font.html) - to make diagrams of quantum circuits!
-17. [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - censors bad language automatically
-18. [OpenDyslexic](https://opendyslexic.org/) - A typeface for Dyslexia
-19. [Shake](https://writewithparkinsons.com/) - A Typeface with Parkinson's
-20. FE-Schrift - forgery-impeding typeface for licence plates.
-21. [LAIKA](https://laikafont.ch/) – a dynamic typeface
-22. [Luciole](https://www.luciole-vision.com/luciole-en.html) - for visually impaired people
-
-
-
-## Fonts for code
-
-1. [NerdFonts](https://www.nerdfonts.com/font-downloads)
-2. [Monaspace](https://monaspace.githubnext.com/)
-3. [Input](https://input.djr.com/)
-4. [Iosevka](https://typeof.net/Iosevka/)
-5. [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
-6. [Hack](https://sourcefoundry.org/hack/)
-7. [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/)
-8. [Intel One Mono](https://github.com/intel/intel-one-mono)
-9. [Monocraft](https://github.com/IdreesInc/Monocraft) - Minecraft typeface
-10. [Commint Mono](https://commitmono.com/)
-11. [Comic Code](https://tosche.net/fonts/comic-code)
-12. [Victor Mono](https://rubjo.github.io/victor-mono/)
-13. [MonoLisa](https://www.monolisa.dev/)
-
-
-## WebApps
-
-1. [Identifont](http://www.identifont.com/index.html) - Fonts by appearance, name, similarity, designer or publisher.
-2. [ProgrammingFonts](https://www.programmingfonts.org/) - test drive 138 programming fonts
-3. [Coding Font](https://www.codingfont.com/) - find your favorite coding font
-4. [Wakamai Fondue](https://wakamaifondue.com/beta/) - What can my font do?
-5. [Golden Ratio Typography Calculator](https://grtcalculator.com/)
-6. [Modular Scale](https://www.modularscale.com/)
-7. [Typescale](https://typescale.com/)
-8. [Archetype](https://archetypeapp.com/) - Font pairing and size
-9. [Fontjoy](https://fontjoy.com/) - Font pairing made simple
-10. [FontPair](https://www.fontpair.co/all)
-11. [WordMark](https://wordmark.it/) - Compare multiple fonts in a visual grid.
-12. [Kern Type](https://type.method.ac/) - a letter spacing / kerning game.
-13. [TypeWar](https://typewar.com/) - Identify font game.
-14. [Font Meme](https://fontmeme.com/) - Discover fonts used in popular culture.
-15. [FontBolt](https://www.fontbolt.com/) - Generate your text from pop culture fonts. 
-16. [Beautiful Web Type](https://beautifulwebtype.com/)
-17. [Standard Font List](https://www.impactsigns.com/standard-font-list/)
-18. [Modern Font Stacks](https://modernfontstacks.com/)
-19. [System Font Stacks](https://systemfontstack.com/)
-
-
-## Learning
-1. [Butterick's Practical Typography](https://practicaltypography.com/)
-2. [Typekit Practice](https://practice.typekit.com/)
-3. [Typography Resources](https://www.typewolf.com/resources) by Typewolf
-4. [Periodic Table of Popular Typefaces](https://olypress.com/periodic-table-of-popular-typefaces/)
-
-  
-
-## Inspiration
-
-2. [Discover Typography](https://discover.typography.com/) - From the designers at H&Co.
-2. [Fonts in use](https://fontsinuse.com/)
-3. [Typewolf](https://www.typewolf.com/)
-4. [I Love Typography](https://ilovetypography.com/font-inspiration/)
-
-## Aggregators
-
-- [1001 Free Fonts](https://www.1001freefonts.com/)
-- [Abstract Fonts](https://www.abstractfonts.com/). 10,000+ fonts.
-- [BeFonts](https://befonts.com/)
-- [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
-- [creativetacos](https://creativetacos.com/category/free-fonts/). 3300 fonts
-- [DaFont](https://www.dafont.com/). 82,320 fonts.
-- [Font Library](https://fontlibrary.org/en/catalogue). 1,366 fonts.
-- [Fontasy](http://fontasy.org/)
-- [FontBundles](https://fontbundles.net/free-fonts)
-- [FontCubes](http://www.fontcubes.com/)
-- [Fontfabric](https://www.fontfabric.com/free-fonts/)
-- [FontM](https://fontm.com/)
-- [FontPalace](https://www.fontpalace.com/)
-- [FontPark](https://fontpark.com/)
-- [FontReach](https://www.fontreach.com/). 2,700 fonts.
-- [FontRiver](https://www.fontriver.com/). 60,000 fonts.
-- [fonts.com](https://www.fonts.com/browse?priceMax=family:pricing:free) Free section
-- [Fontsly](https://fontsly.com/)
-- [FontSpace](https://www.fontspace.com/)
-- [FontSpring](https://www.fontspring.com/)
-- [FontSquirrel](https://www.fontsquirrel.com/)
-- [FontStruct](https://fontstruct.com/gallery)
-- [FontZone](https://fontzone.net/)
-- [FreebiesBug](https://freebiesbug.com/free-fonts/) 
-- [GitHub](https://github.com/topics/font)
-- [The Velvetyne Type Foundry (VTF)](https://velvetyne.fr/)
-- [Urban Fonts](https://www.urbanfonts.com/free-fonts.htm)
 
 
 ## Default Fonts
@@ -255,6 +126,18 @@ Originally distributed by Red Hat in 2007, there are three flavors:
   - Common Serif
 - Linux Biolinum (Optima)
   - Libertinus Serif
+
+
+## Open-source Unicode typefaces
+
+- Nimbus Core - URW++ clones of Courier, Helvetica and Times
+- Liberation Fonts - metrically compatible with Arial, Arial Narrow, Times New Roman and Courier New
+- GNU FreeFont or Free UCS Outline Fonts - The family includes three faces: FreeMono, FreeSans, and FreeSerif, each in four styles (Regular, Italic/Oblique, Bold, and Bold Italic/Oblique). Based on URW++ Nimbus, similar to Times, Helvetica and Courier.
+- Bitstream Vera 
+- DejaVu fonts - derived from Bitstream Vera (sans-serif) and Bitstream Charter (serif).
+- Linux Libertine - similar to Times (serif) and Optima (sans-serif)
+- STIX Fonts project - visually compatible with the Times New Roman family
+
 
 ## Notable Type Foundries
 
@@ -358,8 +241,7 @@ Calligraphics
 - Fira - Sans, mono, and code ligatures
 - Gandhi - Serif and sans
 - KP Serif & KP Sans-Serif
-- Nimbus Core - URW++ clones of Courier, Helvetica and Times
-- Quattrocento + Quattrocento Sans
+- Quattrocento + Sans
 
 
 ## Free sans serif font families
@@ -390,3 +272,128 @@ Calligraphics
 - [Huerta Tipografica](https://www.huertatipografica.com/en/fonts/alegreya-ht-pro) Argentina
 - [Font Library](https://fontlibrary.dev/?) - Google fonts by tags
 - [GooFonts](https://goofonts.com/) - Google fonts tagged
+
+## Interesting Free Fonts
+
+1. [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
+2. [Public Sans](https://public-sans.digital.gov/) by USWDS
+3. [Inter](https://rsms.me/inter/)
+4. [National Park Typeface](https://nationalparktypeface.com/)
+5. [London Underground Dot-Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
+1. [Canada1500](http://typodermicfonts.com/canada1500/)
+7. [Sweden Sans](https://identity.sweden.se/en/design-elements/typography)
+8. [Averia](http://iotic.com/averia/) - the average font
+1. [B612](https://b612-font.com/) - Aeronautical Font by Airbus for cockpit screens
+1.  [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/) - lettering style found on technical drawings (More links to other fonts)
+2.  [Geist](https://vercel.com/font/sans) - by Vercel, also has Monospace variant
+3.  [Redaction](https://www.redaction.us/)
+4.  [Cantarell](https://cantarell.gnome.org/)
+5.  One Night Sans by Durex
+6.  [ZXX](https://www.librarystack.org/zxx/) - Illegible to OCR
+7.  [QCMU](https://quantum-village.github.io/QCMU-font.html) - to make diagrams of quantum circuits!
+8.  [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - censors bad language automatically
+9.  [OpenDyslexic](https://opendyslexic.org/) - A typeface for Dyslexia
+10. [Shake](https://writewithparkinsons.com/) - A Typeface with Parkinson's
+11. FE-Schrift - forgery-impeding typeface for licence plates.
+12. [LAIKA](https://laikafont.ch/) – a dynamic typeface
+13. [Luciole](https://www.luciole-vision.com/luciole-en.html) - for visually impaired people
+
+
+
+## Fonts for code
+
+1. [NerdFonts](https://www.nerdfonts.com/font-downloads)
+2. [Monaspace](https://monaspace.githubnext.com/)
+3. [Input](https://input.djr.com/)
+4. [Iosevka](https://typeof.net/Iosevka/)
+5. [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+1. [Hack](https://sourcefoundry.org/hack/)
+7. [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/)
+1. [Intel One Mono](https://github.com/intel/intel-one-mono)
+9. [Monocraft](https://github.com/IdreesInc/Monocraft) - Minecraft typeface
+1.  [Commint Mono](https://commitmono.com/)
+2.  [Comic Code](https://tosche.net/fonts/comic-code)
+3.  [Victor Mono](https://rubjo.github.io/victor-mono/)
+4.  [MonoLisa](https://www.monolisa.dev/)
+
+
+## WebApps
+
+1. [Identifont](http://www.identifont.com/index.html) - Fonts by appearance, name, similarity, designer or publisher.
+2. [ProgrammingFonts](https://www.programmingfonts.org/) - test drive 138 programming fonts
+3. [Coding Font](https://www.codingfont.com/) - find your favorite coding font
+4. [Wakamai Fondue](https://wakamaifondue.com/beta/) - What can my font do?
+5. [Golden Ratio Typography Calculator](https://grtcalculator.com/)
+6. [Modular Scale](https://www.modularscale.com/)
+7. [Typescale](https://typescale.com/)
+8. [Archetype](https://archetypeapp.com/) - Font pairing and size
+9. [Fontjoy](https://fontjoy.com/) - Font pairing made simple
+10. [FontPair](https://www.fontpair.co/all)
+11. [WordMark](https://wordmark.it/) - Compare multiple fonts in a visual grid.
+12. [Kern Type](https://type.method.ac/) - a letter spacing / kerning game.
+13. [TypeWar](https://typewar.com/) - Identify font game.
+14. [Font Meme](https://fontmeme.com/) - Discover fonts used in popular culture.
+15. [FontBolt](https://www.fontbolt.com/) - Generate your text from pop culture fonts. 
+16. [Beautiful Web Type](https://beautifulwebtype.com/)
+17. [Standard Font List](https://www.impactsigns.com/standard-font-list/)
+18. [Modern Font Stacks](https://modernfontstacks.com/)
+19. [System Font Stacks](https://systemfontstack.com/)
+
+
+## Learning
+1. [Butterick's Practical Typography](https://practicaltypography.com/)
+2. [Typekit Practice](https://practice.typekit.com/)
+3. [Typography Resources](https://www.typewolf.com/resources) by Typewolf
+4. [Periodic Table of Popular Typefaces](https://olypress.com/periodic-table-of-popular-typefaces/)
+
+  
+
+## Inspiration
+
+2. [Discover Typography](https://discover.typography.com/) - From the designers at H&Co.
+3. [Fonts in use](https://fontsinuse.com/)
+1. [Typewolf](https://www.typewolf.com/)
+2. [I Love Typography](https://ilovetypography.com/font-inspiration/)
+
+## Aggregators
+
+- [1001 Free Fonts](https://www.1001freefonts.com/)
+- [Abstract Fonts](https://www.abstractfonts.com/). 10,000+ fonts.
+- [BeFonts](https://befonts.com/)
+- [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
+- [creativetacos](https://creativetacos.com/category/free-fonts/). 3300 fonts
+- [DaFont](https://www.dafont.com/). 82,320 fonts.
+- [Font Library](https://fontlibrary.org/en/catalogue). 1,366 fonts.
+- [Fontasy](http://fontasy.org/)
+- [FontBundles](https://fontbundles.net/free-fonts)
+- [FontCubes](http://www.fontcubes.com/)
+- [Fontfabric](https://www.fontfabric.com/free-fonts/)
+- [FontM](https://fontm.com/)
+- [FontPalace](https://www.fontpalace.com/)
+- [FontPark](https://fontpark.com/)
+- [FontReach](https://www.fontreach.com/). 2,700 fonts.
+- [FontRiver](https://www.fontriver.com/). 60,000 fonts.
+- [fonts.com](https://www.fonts.com/browse?priceMax=family:pricing:free) Free section
+- [Fontsly](https://fontsly.com/)
+- [FontSpace](https://www.fontspace.com/)
+- [FontSpring](https://www.fontspring.com/)
+- [FontSquirrel](https://www.fontsquirrel.com/)
+- [FontStruct](https://fontstruct.com/gallery)
+- [FontZone](https://fontzone.net/)
+- [FreebiesBug](https://freebiesbug.com/free-fonts/) 
+- [GitHub](https://github.com/topics/font)
+- [The Velvetyne Type Foundry (VTF)](https://velvetyne.fr/)
+- [Urban Fonts](https://www.urbanfonts.com/free-fonts.htm)
+
+## Free Typeface Catalogues
+
+1. [FontShop](https://www.fontshop.com/free-fonts) by Monotype. 1430 families.
+1. [Beautiful Web Type](https://beautifulwebtype.com/). 39 typaces. Pairings, features.
+3. [indestructible type*](https://indestructibletype.com/Home.html) by Owen Earl. 7 typefaces.
+4. [Fontshare](https://www.fontshare.com/) by Indian Type Foundry. 100 fonts, 59 pairs.
+5. [Open Foundry](https://open-foundry.com/fonts). 31 variable fonts.
+6. [The League Of Moveable Type](https://www.theleagueofmoveabletype.com/). 17 typefaces.
+1. [Free Faces](https://www.freefaces.gallery/). 77 typefaces.
+1. [UNCUT.wtf](https://uncut.wtf/). 150 typefaces.
+1. [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
+2.  [Fontsource](https://fontsource.org/) 1656 families
