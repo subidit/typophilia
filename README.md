@@ -17,31 +17,197 @@ Awesome list of free fonts and curated typographic resources. 💝
 - **Typeface**: the specific design of the letters, say Times New Roman or Baskerville.
 - **Glyph**: individual symbols of the typeface, say  letter, number, punctuation mark, accented variations, emoji etc. 
 - Baseline, Cap Line, x-Height
-- Tracking / Letter-Spacing, Kerning (LT, VA or To), Leading / Line-Spacing
-- **Grotesk**: The common German name for sans serif faces, as opposed to “Antiqua” which means serif face.
-- **Antiqua**: The common German and Scandinavian names for serif faces, as opposed to “Grotesk” which means sans serif face. The Scandinavian name is “Antikva”.
-- **Roman**: Standard type style or regular weight of an upright typeface
-- **Letter Anatomy**: Ascender (‘b’, ‘d’, ‘f’, ‘h’, ‘k’, etc.), Descender (g, j, p, q, y, etc.), Axis / Stress, Stem, Ball / Teardrop Terminal (‘f’), Beak, Arm, Leg (‘K’, ‘k’ and ‘R’), Shoulder (‘h’, ‘m’, ‘n’), Crotch (V/W/Y), [ Ear, Eye, Tail, Tittle], Finial / Taper, Spur, Crossbar (A/H), Cross Stroke (f/t), Ink trap, Counter, Bowl (d,b,o,D,B), Aperture (n, c, C, s, S, e), Gadzook, Ligature (‘fi’, ‘fl’, ‘ff’, ‘ffl’), and Swash.
-  - *Apex* in the capital ‘A’.
-  - *Double-storey*: A double-story ‘a’ or ‘g’ has two counters, as opposed to their single-storey variants which only have one counter.
-  - *Ear* Typically found on the lower case ‘g’, an ear is a finishing stroke  usually on the upper right side of the bowl.
-  - *Eye*: Enclosed space in a lowercase ‘e’. 
-  - *Flag*: The horizontal stroke at the top of the numeral ‘5’.
-  - *Hook* of a ‘f’,‘J’ and ‘j’. 
-  - *Link / Neck*: The link connecting the top and bottom bowls of some lowercase ‘g’. 
-  - *Loop/Lobe*: In some double-storey ‘g’,
-  - *Spine* The main curve in ‘S’ and ‘s’. 
-  - *Spur*: Small protruding part on uppercase ‘G’.
-  - *Tail* of an uppercase ‘Q’. 
-  - *Tittle*: The dot on the ‘i’ and the ‘j’.
-  - *Vertex*: The point at the bottom (or top) of a character where two strokes meet, for example the ‘v’, ‘V’, ‘w’, ‘W’ etc.
-- **Diacritics**: A diacritic is an ancillary mark or sign added to a letter. Accents are one type of diacritics. 
-- **Dingbats**: Decorative symbols and characters that are generally not included in a font or character set, including boxes, bullets, arrows, pointers, and other characters. Often made up into their own font.
+- Tracking == Letter-Spacing 
+- Kerning between two specific letters, eg. LT, VA or To.
+- Leading == Line-Spacing
 - Fixed-width is Monospaced.
 - Italics != Slanted == Oblique
+- **Grotesk**: The common German name for sans serif faces, as opposed to “Antiqua” which means serif face.
+- **Antiqua**: The common German and Scandinavian names for serif faces, The Scandinavian name is “Antikva”.
+- **Roman**: Standard type style or regular weight of an upright typeface
+- **Diacritics**: A diacritic is an ancillary mark or sign added to a letter. Accents are one type of diacritics. 
+- **Dingbats**: Decorative symbols and characters that are generally not included in a font or character set, including boxes, bullets, arrows, pointers, and other characters. Often made up into their own font.
 - **Oldstyle figures**: Numbers that have different heights, some aligning to the baseline, some below. Oldstyle figures harmonize well with lowercase letters. Using oldstyle figures helps keep the numbers from standing out too much and disturbing the overall flow of the typography on the page. Oldstyle figures can be *proportional* or *tabular*.
 - **Lining figures (LF)**: Numbers that rest on the baseline, and are usually the same height as capital letters. Lining figures can be tabular or proportional.
 
+## Anatomy
+
+- Arm 
+- Crotch (V/W/Y) 
+- Ear Typically found on the lower case ‘g’, an ear is a finishing stroke  usually on the upper right side of the bowl.
+- Eye: Enclosed space in a lowercase ‘e’. 
+- Leg (‘K’, ‘k’ and ‘R’) 
+- Neck / Link: The link connecting the top and bottom bowls of some lowercase ‘g’. 
+- Shoulder (‘h’, ‘m’, ‘n’) 
+- Spine The main curve in ‘S’ and ‘s’. 
+- Tail of an uppercase ‘Q’. 
+- Beak
+- Aperture (n, c, C, s, S, e) 
+- Apex in the capital ‘A’.
+- Ascender (‘b’, ‘d’, ‘f’, ‘h’, ‘k’, etc.) 
+- Axis / Stress 
+- Ball / Teardrop Terminal (‘f’) 
+- Bowl (d,b,o,D,B) 
+- Counter 
+- Cross Stroke (f/t) 
+- Crossbar (A/H) 
+- Descender (g, j, p, q, y, etc.) 
+- Double-storey: A double-story ‘a’ or ‘g’ has two counters, as opposed to their single-storey variants which only have one counter.
+- Finial / Taper 
+- Flag: The horizontal stroke at the top of the numeral ‘5’.
+- Gadzook 
+- Hook of a ‘f’,‘J’ and ‘j’. 
+- Ink trap 
+- Ligature (‘fi’, ‘fl’, ‘ff’, ‘ffl’) 
+- Loop/Lobe: In some double-storey ‘g’
+- Spur: Small protruding part on uppercase ‘G’.
+- Stem
+- Swash
+- Tittle: The dot on the ‘i’ and the ‘j’.
+- Vertex: The point at the bottom (or top) of a character where two strokes meet, for example the ‘v’, ‘V’, ‘w’, ‘W’ etc.
+
+## Typeface Variants (Fonts)
+
+- Bold
+- Italics 
+- Small Caps (SC)
+
+| by WEIGHT        | by WIDTH       |
+| ---------------- | -------------- |
+| Thin             | Condensed      |
+| Extra/UltraLight | SemiCondensed  |
+| Light            | Normal/Regular |
+| Regular/Book     | SemiExpanded   |
+| Medium/Text      | Expanded       |
+| Semi/DemiBold    |                |
+| Bold             |                |
+| Extra/UltraBold  |                |
+| Black/Heavy      |                |
+
+
+## Default Fonts
+
+| Application | Font Name       |
+| ----------- | --------------- |
+| Windows     | Segoe UI        |
+| MacOS       | San Francisco   |
+| iOS         | San Francisco   |
+| Android     | Roboto          |
+| MS Office   | Aptos           |
+| Google Docs | Arial           |
+| LaTeX       | Computer Modern |
+
+
+
+## Classification
+
+The common typeface classifications are:
+
+1. Serif
+2. Sans serif
+3. Monospaced
+4. Display
+5. Script
+
+
+### Vox-ATypI classification 
+
+1. Classicals (*Oldstyle Serif*)
+   1. Humanist: imitates the formal hands found in the humanistic (renaissance) manuscripts (15th century, Venetian printers).
+   2. Garalde: (Aldine) have finer proportions than the humanists, and a stronger contrast between downstroke and upstroke.
+   3. Transitional: (Realist) Even more contrast between main and connecting strokes.
+
+2. Moderns
+   1. Didone: hairline serifs.  
+   2. Mechanistic: Slab-Serif.
+   3. Lineal: Sans-Serif
+      1. Grotesque: some degree of contrast between thick and thin strokes.
+      2. Neo-grotesque: less stroke contrast and a more regular design. 
+      3. Geometric: constructed from simple geometric shapes, circles or rectangles.
+      4. Humanist: relate to the earlier, classical handwritten monumental Roman capitals and a lowercase similar in form to the Carolingian script. 
+
+3. Calligraphics
+   1. Glyphic: (Incised) incised, or incise are typefaces which evoke the engraving or chiseling of characters in stone or metal, as opposed to calligraphic handwriting.
+   2. Script: typefaces which evoke the formal penmanship of cursive writing. They seem to be written with a quill and have a strong slope.
+   3. Graphic: are based on hand-drawn originals which are slowly written with either a brush, pen, pencil, or other writing instrument. 
+   4. Blackletter: are characterized by pointed and angular forms, and are modeled on late medieval hands written with a broad-nibbed pen.
+   5. Gaelic (Insular script)
+
+4. Non-Latin
+
+## Examples
+
+Classicals
+- Humanist: Centaur, Cloister, Jenson
+- Garalde: Bembo, Garamond
+- Transitional: Caslon, Baskerville, Times Roman
+
+Moderns
+- Didone: Bodoni, Walbaum
+- Mechanistic: Clarendon, Egyptienne, Ionic No. 5, Rockwell
+- Lineal
+
+Lineal
+- Grotesque: Headline, Monotype 215, and Grot no. 6
+- Neo-grotesque: Helvetica and Univers
+- Geometric: Century Gothic and Futura
+- Humanist: Gill Sans and Optima
+
+Calligraphics
+- Glyphic: Albertus, Copperplate Gothic, and Trajan
+- Script: Shelley, Mistral and Francesca
+- Graphic: Banco and Klang 
+- Blackletter: Fette Fraktur
+- Gaelic: Duibhlinn, Uncial
+
+
+## Font superfamily
+
+Computer Modern
+by Donald E. Knuth, comprising cmr (antiqua), cmss (grotesque) and cmtt (monospaced)
+
+DejaVu and Bitstream Vera
+comprising DejaVu Sans, DejaVu Sans Mono and DejaVu Serif.
+
+Droid
+by Steve Matteson, comprising Droid Sans, Droid Serif and Droid Sans Mono.
+
+IBM Plex
+by Mike Abbink, comprising IBM Plex Sans, IBM Plex Sans Condensed, IBM Plex Serif and IBM Plex Mono
+
+Noto fonts
+by Google, comprising Noto Sans, Noto Serif and Noto Mono, an expansion of the Droid family. It supports a wide range of languages.
+
+Roboto
+by Christian Robertson, comprising Roboto, Roboto Slab and Roboto Mono
+
+Corporate ASE
+by Kurt Weidemann, comprising antiqua, sans and Egyptienne
+
+Liberation
+by Steve Matteson, comprising Liberation Sans, Liberation Serif and Liberation Mono
+
+<hr>
+
+PT Fonts (ParaType Russia)
+by Alexandra Korolkova et al, comprising PT Serif, PT Sans and PT Mono.
+
+Rotis
+by Otl Aicher, comprising rotis serif, rotis semi-serif, rotis semi-sans and rotis sans
+
+Sassoon
+by Rosemary Sassoon and Adrian William, comprising Sassoon Sans, Sassoon Book, Sassoon Primary, Sassoon Infant and Sassoon Sans Slope
+
+Source (Adobe)
+by Paul D. Hunt and Frank Grießhammer, comprising Source Sans Pro, Source Serif Pro and Source Code Pro
+
+Stone
+by Sumner Stone, comprising Stone Serif, Stone Sans and Stone Informal
+
+Thesis
+by Lucas de Groot, comprising TheSans, TheSerif, TheMix and TheAntiqua
+
+<!--
 ## Typefaces by Tech Companies
 
 * Adobe Source (Source Code Pro, Source Sans Pro, Source Serif Pro)
@@ -66,38 +232,6 @@ Awesome list of free fonts and curated typographic resources. 💝
   * Overpass
   * Liberation fonts (Liberation Sans, Liberation Sans Narrow, Liberation Serif, Liberation Mono)
   * [Red Hat fonts](https://www.redhat.com/en/about/brand/standards/typography) (Red Hat Display, Red Hat Text, Red Hat Mono)
-
-
-## Typeface Variants (Fonts)
-
-- Italics / Slanted
-- Small Caps (SC)
-
-| by WEIGHT        | by WIDTH       |
-| ---------------- | -------------- |
-| Thin             | Condensed      |
-| Extra/UltraLight | SemiCondensed  |
-| Light            | Normal/Regular |
-| Regular/Book     | SemiExpanded   |
-| Medium/Text      | Expanded       |
-| Semi/DemiBold    |                |
-| Bold             |                |
-| Extra/UltraBold  |                |
-| Black/Heavy      |                |
-
-
-
-## Default Fonts
-
-| Application | Font Name       |
-| ----------- | --------------- |
-| Windows     | Segoe UI        |
-| MacOS       | San Francisco   |
-| iOS         | San Francisco   |
-| Android     | Roboto          |
-| MS Office   | Aptos           |
-| Google Docs | Arial           |
-| LaTeX       | Computer Modern |
 
 
 
@@ -166,6 +300,7 @@ Originally distributed by Red Hat in 2007, there are three flavors:
 - Linux Biolinum (Optima)
   - Libertinus Serif
 
+-->
 
 ## Open-source Unicode typefaces
 
@@ -201,68 +336,6 @@ Originally distributed by Red Hat in 2007, there are three flavors:
 * Typotheque
 
 
-## Classification
-
-The common typeface classifications are:
-
-1. Serif
-2. Sans serif
-3. Monospaced
-4. Display
-5. Script
-
-
-### Vox-ATypI classification 
-
-This is the official way of classification. It categorises fonts as follows:
-
-1. Classicals (*Oldstyle Serif*)
-   1. Humanist: These typefaces sought to imitate the formal hands found in the humanistic (renaissance) manuscripts of the time (15th century, Venetian printers).
-   2. Garalde: (Aldine) have finer proportions than the humanists, and a stronger contrast between downstroke and upstroke.
-   3. Transitional: (Realist)
-
-2. Moderns
-   1. Didone
-   2. Mechanistic (Slab-Serif)
-   3. **Lineal (Sans-Serif)**
-      1. Grotesque
-      2. Neo-grotesque
-      3. Geometric
-      4. Humanist
-
-3. Calligraphics
-   1. Glyphic: (Incised) incised, or incise are typefaces which evoke the engraving or chiseling of characters in stone or metal, as opposed to calligraphic handwriting.
-   2. Script: typefaces which evoke the formal penmanship of cursive writing. They seem to be written with a quill and have a strong slope.
-   3. Graphic: are based on hand-drawn originals which are slowly written with either a brush, pen, pencil, or other writing instrument. 
-   4. Blackletter: are characterized by pointed and angular forms, and are modeled on late medieval hands written with a broad-nibbed pen.
-   5. Gaelic (Insular script)
-
-4. Non-Latin
-
-## Examples
-
-Classicals
-- Humanist: Centaur, Cloister, Jenson
-- Garalde: Bembo, Garamond
-- Transitional: Caslon, Baskerville, Times Roman
-
-Moderns
-- Didone: Bodoni, Walbaum
-- Mechanistic: Clarendon, Egyptienne, Ionic No. 5, Rockwell
-- Lineal
-
-Lineal
-- Grotesque: Headline, Monotype 215, and Grot no. 6
-- Neo-grotesque: Helvetica and Univers
-- Geometric: Century Gothic and Futura
-- Humanist: Gill Sans and Optima
-
-Calligraphics
-- Glyphic: Albertus, Copperplate Gothic, and Trajan
-- Script: Shelley, Mistral and Francesca
-- Graphic: Banco and Klang 
-- Blackletter: Fette Fraktur
-- Gaelic: Duibhlinn, Uncial
 
 
 ## Notable free super-families
