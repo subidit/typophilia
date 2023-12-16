@@ -1,7 +1,46 @@
-# FONTS HANDBOOK
+# Typeface Trivia
 
 Awesome list of free fonts and curated typographic resources. 💝
 
+## Key rules 
+
+- The typographic quality of your document is determined largely by how the body text looks.
+- The appearance of the body text is determined primarily by these four typographic choices:
+  1. Font choice - avoid default fonts.
+  2. Point size - 10–12 pt for print. 15–25 px on web.
+  3. Line spacing - 120–145% of the point size.
+  4. Line length - 45–90 characters per line. 
+
+## Glossary 
+
+- **Font**: particular size or style of a typeface, say 10 point regular or 24 point italic.
+- **Typeface**: the specific design of the letters, say Times New Roman or Baskerville.
+- **Glyph**: individual symbols of the typeface, say  letter, number, punctuation mark, accented variations, emoji etc. 
+- Baseline, Cap Line, x-Height
+- Tracking / Letter-Spacing, Kerning (LT, VA or To), Leading / Line-Spacing
+- **Grotesk**: The common German name for sans serif faces, as opposed to “Antiqua” which means serif face.
+- **Antiqua**: The common German and Scandinavian names for serif faces, as opposed to “Grotesk” which means sans serif face. The Scandinavian name is “Antikva”.
+- **Roman**: Standard type style or regular weight of an upright typeface
+- **Letter Anatomy**: Ascender (‘b’, ‘d’, ‘f’, ‘h’, ‘k’, etc.), Descender (g, j, p, q, y, etc.), Axis / Stress, Stem, Ball / Teardrop Terminal (‘f’), Beak, Arm, Leg (‘K’, ‘k’ and ‘R’), Shoulder (‘h’, ‘m’, ‘n’), Crotch (V/W/Y), [ Ear, Eye, Tail, Tittle], Finial / Taper, Spur, Crossbar (A/H), Cross Stroke (f/t), Ink trap, Counter, Bowl (d,b,o,D,B), Aperture (n, c, C, s, S, e), Gadzook, Ligature (‘fi’, ‘fl’, ‘ff’, ‘ffl’), and Swash.
+  - *Apex* in the capital ‘A’.
+  - *Double-storey*: A double-story ‘a’ or ‘g’ has two counters, as opposed to their single-storey variants which only have one counter.
+  - *Ear* Typically found on the lower case ‘g’, an ear is a finishing stroke  usually on the upper right side of the bowl.
+  - *Eye*: Enclosed space in a lowercase ‘e’. 
+  - *Flag*: The horizontal stroke at the top of the numeral ‘5’.
+  - *Hook* of a ‘f’,‘J’ and ‘j’. 
+  - *Link / Neck*: The link connecting the top and bottom bowls of some lowercase ‘g’. 
+  - *Loop/Lobe*: In some double-storey ‘g’,
+  - *Spine* The main curve in ‘S’ and ‘s’. 
+  - *Spur*: Small protruding part on uppercase ‘G’.
+  - *Tail* of an uppercase ‘Q’. 
+  - *Tittle*: The dot on the ‘i’ and the ‘j’.
+  - *Vertex*: The point at the bottom (or top) of a character where two strokes meet, for example the ‘v’, ‘V’, ‘w’, ‘W’ etc.
+- **Diacritics**: A diacritic is an ancillary mark or sign added to a letter. Accents are one type of diacritics. 
+- **Dingbats**: Decorative symbols and characters that are generally not included in a font or character set, including boxes, bullets, arrows, pointers, and other characters. Often made up into their own font.
+- Fixed-width is Monospaced.
+- Italics != Slanted == Oblique
+- **Oldstyle figures**: Numbers that have different heights, some aligning to the baseline, some below. Oldstyle figures harmonize well with lowercase letters. Using oldstyle figures helps keep the numbers from standing out too much and disturbing the overall flow of the typography on the page. Oldstyle figures can be *proportional* or *tabular*.
+- **Lining figures (LF)**: Numbers that rest on the baseline, and are usually the same height as capital letters. Lining figures can be tabular or proportional.
 
 ## Typefaces by Tech Companies
 
