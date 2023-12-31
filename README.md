@@ -34,23 +34,23 @@ source: [practicaltypography.com](https://practicaltypography.com/typography-in-
 
 ## Anatomy
 
-- Arm 
-- Crotch (V/W/Y) 
-- Ear Typically found on the lower case ‘g’, an ear is a finishing stroke  usually on the upper right side of the bowl.
+- Arm - A horizontal or upward, sloping stroke that does not connect to a stroke or stem on one or both ends. (r,E,F,T,V)
+- Crotch (V/W/Y) - where two strokes meet and form an interior angle.
+- Ear Typically found on the lower case double story ‘g’, an ear is a finishing stroke  usually on the upper right side of the bowl.
 - Eye: Enclosed space in a lowercase ‘e’. 
 - Leg (‘K’, ‘k’ and ‘R’) 
 - Neck / Link: The link connecting the top and bottom bowls of some lowercase ‘g’. 
 - Shoulder (‘h’, ‘m’, ‘n’) 
 - Spine The main curve in ‘S’ and ‘s’. 
 - Tail of an uppercase ‘Q’. 
-- Beak
+- Beak - decorative stroke at the end of the arm (More pronounced serifs of E, F)
 - Aperture (n, c, C, s, S, e) 
 - Apex in the capital ‘A’.
 - Ascender (‘b’, ‘d’, ‘f’, ‘h’, ‘k’, etc.) 
 - Axis / Stress 
 - Ball / Teardrop Terminal (‘f’) 
 - Bowl (d,b,o,D,B) 
-- Counter 
+- Counter - The open space in a fully or partly closed area within a letter. Bowl + Aperture letters.
 - Cross Stroke (f/t) 
 - Crossbar (A/H) 
 - Descender (g, j, p, q, y, etc.) 
@@ -164,7 +164,7 @@ Calligraphics
 
 
 
-## Open-source Unicode typefaces
+## Open-source clone typefaces 
 
 - Nimbus Core - URW++ clones of Courier, Helvetica and Times
 - Liberation Fonts - metrically compatible with Arial, Arial Narrow, Times New Roman and Courier New
@@ -238,66 +238,29 @@ Calligraphics
 
 ## Font superfamily
 
-Computer Modern
-by Donald E. Knuth, comprising cmr (antiqua), cmss (grotesque) and cmtt (monospaced)
-
-DejaVu and Bitstream Vera
-comprising DejaVu Sans, DejaVu Sans Mono and DejaVu Serif.
-
-Droid
-by Steve Matteson, comprising Droid Sans, Droid Serif and Droid Sans Mono.
-
-IBM Plex
-by Mike Abbink, comprising IBM Plex Sans, IBM Plex Sans Condensed, IBM Plex Serif and IBM Plex Mono
-
-Noto fonts
-by Google, comprising Noto Sans, Noto Serif and Noto Mono, an expansion of the Droid family. It supports a wide range of languages.
-
-Roboto
-by Christian Robertson, comprising Roboto, Roboto Slab and Roboto Mono
-
-Corporate ASE
-by Kurt Weidemann, comprising antiqua, sans and Egyptienne
-
-Liberation
-by Steve Matteson, comprising Liberation Sans, Liberation Serif and Liberation Mono
-
-<hr>
-
-PT Fonts (ParaType Russia)
-by Alexandra Korolkova et al, comprising PT Serif, PT Sans and PT Mono.
-
-Rotis
-by Otl Aicher, comprising rotis serif, rotis semi-serif, rotis semi-sans and rotis sans
-
-Sassoon
-by Rosemary Sassoon and Adrian William, comprising Sassoon Sans, Sassoon Book, Sassoon Primary, Sassoon Infant and Sassoon Sans Slope
-
-Source (Adobe)
-by Paul D. Hunt and Frank Grießhammer, comprising Source Sans Pro, Source Serif Pro and Source Code Pro
-
-Stone
-by Sumner Stone, comprising Stone Serif, Stone Sans and Stone Informal
-
-Thesis
-by Lucas de Groot, comprising TheSans, TheSerif, TheMix and TheAntiqua
-
-## Notable free super-families
-
 - Alegreya - Serif, sans serif, and samll caps
 - Bespoke - Sans, serif, slab, and stencil styes
-- DejaVu - Serif, sans serif, and mono
-- IBM Plex - Serif, sans serif, and mono
-- Inria - Serif and sans serif, also swashes.
-- Merriweather + Sans
-- Noto - Serif, sans serif, mono, and emoji
-- PT Sans & PT Serif - Serif, sans serif, and mono
-- Roboto - Sans,serif, slab serif, condensed, and mono
-- Source by Adobe - Serif, sans serif, and mono
+- Computer Modern (by Donald E. Knuth for TeX default) cmr (antiqua), cmss (grotesque) and cmtt (monospaced)
+- Corporate ASE (by Kurt Weidemann) antiqua, sans and Egyptienne
+- Bitstream Vera - Serif, sans serif, and mono
+- DejaVu - DejaVu Sans, DejaVu Sans Mono and DejaVu Serif.
+- Droid (by Steve Matteson) Droid Sans, Droid Serif and Droid Sans Mono.
 - Fira - Sans, mono, and code ligatures
 - Gandhi - Serif and sans
+- IBM Plex (by Mike Abbink) IBM Plex Sans, IBM Plex Sans Condensed, IBM Plex Serif and IBM Plex Mono
+- Inria - Serif and sans serif, also swashes.
 - KP Serif & KP Sans-Serif
+- Liberation (by Steve Matteson) Liberation Sans, Liberation Serif and Liberation Mono
+- Merriweather + Sans
+- Noto fonts (by Google) comprising Noto Sans, Noto Serif and Noto Mono, an expansion of the Droid family. It supports a wide range of languages.
+- PT Fonts (ParaType Russia) by Alexandra Korolkova et al, comprising PT Serif, PT Sans and PT Mono.
 - Quattrocento + Sans
+- Roboto (by Christian Robertson) Roboto, condensed, Roboto Slab and Roboto Mono
+- Rotis (by Otl Aicher) rotis serif, rotis semi-serif, rotis semi-sans and rotis sans
+- Sassoon (by Rosemary Sassoon and Adrian William) Sassoon Sans, Sassoon Book, Sassoon Primary, Sassoon Infant and Sassoon Sans Slope
+- Source (Adobe) by Paul D. Hunt and Frank Grießhammer, comprising Source Sans Pro, Source Serif Pro and Source Code Pro
+- Stone by Sumner Stone, comprising Stone Serif, Stone Sans and Stone Informal
+- Thesis by Lucas de Groot, comprising TheSans, TheSerif, TheMix and TheAntiqua
 
 
 ## Free sans serif font families
@@ -343,7 +306,7 @@ by Lucas de Groot, comprising TheSans, TheSerif, TheMix and TheAntiqua
 
 ## Interesting Free Fonts
 
-1. [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
+1. [Atkinson Hyperlegible](https://brailleinstitute.org/freefont)
 2. [Public Sans](https://public-sans.digital.gov/) by USWDS
 3. [Inter](https://rsms.me/inter/)
 4. [National Park Typeface](https://nationalparktypeface.com/)
@@ -365,8 +328,6 @@ by Lucas de Groot, comprising TheSans, TheSerif, TheMix and TheAntiqua
 20. FE-Schrift - forgery-impeding typeface for licence plates.
 21. [LAIKA](https://laikafont.ch/) – a dynamic typeface
 22. [Luciole](https://www.luciole-vision.com/luciole-en.html) - for visually impaired people
-
-
 
 ## Fonts for code
 
@@ -398,23 +359,20 @@ by Lucas de Groot, comprising TheSans, TheSerif, TheMix and TheAntiqua
 9. [Fontjoy](https://fontjoy.com/) - Font pairing made simple
 10. [FontPair](https://www.fontpair.co/all)
 11. [WordMark](https://wordmark.it/) - Compare multiple fonts in a visual grid.
-12. [Kern Type](https://type.method.ac/) - a letter spacing / kerning game.
-13. [TypeWar](https://typewar.com/) - Identify font game.
-14. [Font Meme](https://fontmeme.com/) - Discover fonts used in popular culture.
-15. [FontBolt](https://www.fontbolt.com/) - Generate your text from pop culture fonts. 
-16. [Beautiful Web Type](https://beautifulwebtype.com/)
-17. [Standard Font List](https://www.impactsigns.com/standard-font-list/)
-18. [Modern Font Stacks](https://modernfontstacks.com/)
-19. [System Font Stacks](https://systemfontstack.com/)
+12. [Font Meme](https://fontmeme.com/) - Discover fonts used in popular culture.
+13. [FontBolt](https://www.fontbolt.com/) - Generate your text from pop culture fonts. 
+14. [Standard Font List](https://www.impactsigns.com/standard-font-list/)
+15. [Modern Font Stacks](https://modernfontstacks.com/)
+16. [System Font Stacks](https://systemfontstack.com/)
+17. [TypeWar](https://typewar.com/) - Identify font game.
+18. [Shape Type](https://shape.method.ac/) - Adjust letter shape
+19. [Kern Type](https://type.method.ac/) - a letter spacing / kerning game.
 
 
 ## Learning
 1. [Butterick's Practical Typography](https://practicaltypography.com/)
 2. [Typekit Practice](https://practice.typekit.com/)
 3. [Typography Resources](https://www.typewolf.com/resources) by Typewolf
-4. [Periodic Table of Popular Typefaces](https://olypress.com/periodic-table-of-popular-typefaces/)
-
-  
 
 ## Inspiration
 
@@ -429,7 +387,7 @@ by Lucas de Groot, comprising TheSans, TheSerif, TheMix and TheAntiqua
 - [Abstract Fonts](https://www.abstractfonts.com/). 10,000+ fonts.
 - [BeFonts](https://befonts.com/)
 - [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
-- [creativetacos](https://creativetacos.com/category/free-fonts/). 3300 fonts
+- [CreativeTacos](https://creativetacos.com/category/free-fonts/). 3300 fonts
 - [DaFont](https://www.dafont.com/). 82,320 fonts.
 - [Font Library](https://fontlibrary.org/en/catalogue). 1,366 fonts.
 - [Fontasy](http://fontasy.org/)
@@ -453,6 +411,11 @@ by Lucas de Groot, comprising TheSans, TheSerif, TheMix and TheAntiqua
 - [The Velvetyne Type Foundry (VTF)](https://velvetyne.fr/)
 - [Urban Fonts](https://www.urbanfonts.com/free-fonts.htm)
 
+
+## Reference
+
+- [Typography terms and definitions.](https://www.monotype.com/resources/studio/typography-terms)
+- [Periodic Table of Popular Typefaces](https://olypress.com/periodic-table-of-popular-typefaces/)
 
 
 <!--
