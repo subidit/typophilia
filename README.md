@@ -11,19 +11,18 @@ Awesome list of free fonts and curated typographic resources. 💝
   3. Line spacing - 120–145% of the point size.
   4. Line length - 45–90 characters per line. 
 
-source: [practicaltypography.com](https://practicaltypography.com/typography-in-ten-minutes.html)
 
 ## Glossary 
 
 - **Font**: particular size or style of a typeface, say 10 point regular or 24 point italic.
 - **Typeface**: the specific design of the letters, say Times New Roman or Baskerville.
-- **Glyph**: individual symbols of the typeface, say  letter, number, punctuation mark, accented variations, emoji etc. 
+- **Glyph**: individual symbols of the typeface, say  letter, number, punctuation mark, accented variations, etc. 
 - Baseline, Cap Line, x-Height
-- Tracking == Letter-Spacing 
-- Kerning between two specific letters, eg. LT, VA or To.
-- Leading == Line-Spacing
+- Tracking is Letter-Spacing. 
+- Kerning is special tracking between two specific letters, eg. LT, VA or To.
+- Leading is Line-Spacing.
 - Fixed-width is Monospaced.
-- Italics != Slanted == Oblique
+- Italics is *not* same as Slanted or Oblique.
 - **Grotesk**: The common German name for sans serif faces, as opposed to “Antiqua” which means serif face.
 - **Antiqua**: The common German and Scandinavian names for serif faces, The Scandinavian name is “Antikva”.
 - **Roman**: Standard type style or regular weight of an upright typeface
@@ -34,45 +33,47 @@ source: [practicaltypography.com](https://practicaltypography.com/typography-in-
 
 ## Anatomy
 
-- Arm - A horizontal or upward, sloping stroke that does not connect to a stroke or stem on one or both ends. (r,E,F,T,V)
-- Crotch (V/W/Y) - where two strokes meet and form an interior angle.
-- Ear Typically found on the lower case double story ‘g’, an ear is a finishing stroke  usually on the upper right side of the bowl.
-- Eye: Enclosed space in a lowercase ‘e’. 
-- Leg (‘K’, ‘k’ and ‘R’) 
-- Neck / Link: The link connecting the top and bottom bowls of some lowercase ‘g’. 
-- Shoulder (‘h’, ‘m’, ‘n’) 
-- Spine The main curve in ‘S’ and ‘s’. 
-- Tail of an uppercase ‘Q’. 
-- Beak - decorative stroke at the end of the arm (More pronounced serifs of E, F)
 - Aperture (n, c, C, s, S, e) 
 - Apex in the capital ‘A’.
+- Arm - A horizontal or upward, sloping stroke that does not connect to a stroke or stem on one or both ends. (r,E,F,T,V)
 - Ascender (‘b’, ‘d’, ‘f’, ‘h’, ‘k’, etc.) 
 - Axis / Stress 
 - Ball / Teardrop Terminal (‘f’) 
+- Beak - decorative stroke at the end of the arm (More pronounced serifs of E, F)
 - Bowl (d,b,o,D,B) 
 - Counter - The open space in a fully or partly closed area within a letter. Bowl + Aperture letters.
 - Cross Stroke (f/t) 
 - Crossbar (A/H) 
+- Crotch (V/W/Y) - where two strokes meet and form an interior angle.
 - Descender (g, j, p, q, y, etc.) 
-- Double-storey: A double-story ‘a’ or ‘g’ has two counters, as opposed to their single-storey variants which only have one counter.
+- Double-storey: A double-story ‘a’ or ‘g’ has two counters.
+- Ear: Typically found on the lower case double story ‘g’, an ear is a finishing stroke usually on the upper right side of the bowl.
+- Eye: Enclosed space in a lowercase ‘e’. 
 - Finial / Taper 
 - Flag: The horizontal stroke at the top of the numeral ‘5’.
-- Gadzook 
-- Hook of a ‘f’,‘J’ and ‘j’. 
+- Gadzook: An embellishment that connects the letters in a ligature but is not originally part of either letter. 
+- Hook of ‘f’,‘J’ and ‘j’. 
 - Ink trap 
+- Leg (‘K’, ‘k’ and ‘R’) 
 - Ligature (‘fi’, ‘fl’, ‘ff’, ‘ffl’) 
 - Loop/Lobe: In some double-storey ‘g’
+- Neck / Link: The link connecting the top and bottom bowls of some lowercase ‘g’. 
+- Shoulder (‘h’, ‘m’, ‘n’) 
+- Spine The main curve in ‘S’ and ‘s’. 
 - Spur: Small protruding part on uppercase ‘G’.
 - Stem
 - Swash
+- Tail of an uppercase ‘Q’. 
 - Tittle: The dot on the ‘i’ and the ‘j’.
 - Vertex: The point at the bottom (or top) of a character where two strokes meet, for example the ‘v’, ‘V’, ‘w’, ‘W’ etc.
 
-## Typeface Variants (Fonts)
+## Variants 
 
 - Bold
 - Italics 
 - Small Caps (SC)
+- Condensed
+- Display
 
 | by WEIGHT        | by WIDTH       |
 | ---------------- | -------------- |
@@ -87,17 +88,19 @@ source: [practicaltypography.com](https://practicaltypography.com/typography-in-
 | Black/Heavy      |                |
 
 
-## Default Fonts
+## Defaults
 
-| Application | Font Name       |
-| ----------- | --------------- |
-| Windows     | Segoe UI        |
-| MacOS       | San Francisco   |
-| iOS         | San Francisco   |
-| Android     | Roboto          |
-| MS Office   | Aptos           |
-| Google Docs | Arial           |
-| LaTeX       | Computer Modern |
+| Application | Font Name         |
+| ----------- | ----------------- |
+| Windows     | Segoe UI          |
+| MacOS       | San Francisco     |
+| iOS         | San Francisco     |
+| Android     | Roboto            |
+| MS Office   | Aptos, Calibri    |
+| Google Docs | Arial             |
+| LaTeX       | Computer Modern   |
+| Bookerly    | Kindle            |
+| Literata    | Google Play Books |
 
 
 
@@ -140,39 +143,29 @@ The common typeface classifications are:
 ## Examples
 
 Classicals
-- Humanist: Centaur, Cloister, Jenson
-- Garalde: Bembo, Garamond
-- Transitional: Caslon, Baskerville, Times Roman
+- Humanist: Jenson, Centaur, Adobe Jenson, Cloister, Guardi, Lutetia, Lynton, Stempel Schneidler
+- Garalde: Garamond, Bembo, Caslon, Janson, Palatino, Galliard, FS Brabo
+- Transitional: Baskerville, Times, Fournier, FS Neruda, FS Sally, Joanna, Melior
 
 Moderns
-- Didone: Bodoni, Walbaum
-- Mechanistic: Clarendon, Egyptienne, Ionic No. 5, Rockwell
+- Didone: Bodoni, Didot, Walbaum, Ambroise, Arepo, FS Ostro, Scotch Roman 
+- Mechanistic: Clarendon, Egyptienne, Ionic No. 5, Rockwell, Memphis, Sentinel, FS Silas Slab, FS Clerkenwell, FS Rufus
 - Lineal
 
 Lineal
-- Grotesque: Headline, Monotype 215, and Grot no. 6
-- Neo-grotesque: Helvetica and Univers
-- Geometric: Century Gothic and Futura
-- Humanist: Gill Sans and Optima
+- Grotesque: Headline, Monotype 215, and Grot no. 6, Bureau Grot, Franklin Gothic, FS Meridian, Ideal Grotesk, Knockout, Schelter Grotesk, Venus
+- Neo-grotesque: Helvetica, Univers, DIN, Bell Centennial, FS Elliot, FS Industrie, Folio
+- Geometric: Century Gothic and Futura, Bank Gothic, Erbar, Eurostyle, FS Lucas, FS Dillon, Kabel
+- Humanist: Gill Sans and Optima, FS Millbank, FS Irwin, FS Siena, Johnston, Optia, Scala Sans
 
 Calligraphics
-- Glyphic: Albertus, Copperplate Gothic, and Trajan
-- Script: Shelley, Mistral and Francesca
-- Graphic: Banco and Klang 
-- Blackletter: Fette Fraktur
+- Glyphic: Albertus, Copperplate Gothic, and Trajan, FS Rome, Fritz Quadrata, FS Benjamin, Lithos, Exocet
+- Script: Shelley, Mistral and Francesca, Bello, Bickham Script, FS Shepton, FS Sammy, Snell Roundhand, Zapfino
+- Graphic: Banco and Klang, Calypso, Fournier Le Jeune, FS Kitty, FS Pele, FS Pimlico Glow, FS Conrad
+- Blackletter: Fette Fraktur, Canterbury, Goudy Text, Linotype Textur, Notre Dame, Old English
 - Gaelic: Duibhlinn, Uncial
 
 
-
-## Open-source clone typefaces 
-
-- Nimbus Core - URW++ clones of Courier, Helvetica and Times
-- Liberation Fonts - metrically compatible with Arial, Arial Narrow, Times New Roman and Courier New
-- GNU FreeFont or Free UCS Outline Fonts - The family includes three faces: FreeMono, FreeSans, and FreeSerif, each in four styles (Regular, Italic/Oblique, Bold, and Bold Italic/Oblique). Based on URW++ Nimbus, similar to Times, Helvetica and Courier.
-- Bitstream Vera 
-- DejaVu fonts - derived from Bitstream Vera (sans-serif) and Bitstream Charter (serif).
-- Linux Libertine - similar to Times (serif) and Optima (sans-serif)
-- STIX Fonts project - visually compatible with the Times New Roman family
 
 
 ## Notable Type Foundries
@@ -202,7 +195,7 @@ Calligraphics
 * Typotheque
 
 
-## Type Designers / typographers
+## Type Designers / Typographers
 
 - Adrian Frutiger (Swiss) Univers, Frutiger, Avenir
 - Albert-Jan Pool (Dutch) FF DIN, DIN 1451
@@ -235,6 +228,33 @@ Calligraphics
 - Tobias Frere-Jones (American) Gotham, Interstate, Archer (with Jonathan Hoefler)
 - Zuzana Licko (Slovak-born American) Mrs Eaves (based on Baskerville) and Filosofia (based on Bodoni).
 
+## Clones
+
+Frutiger clone
+- Segoe UI - used in Microsoft Win 7 and many MS product logos.
+- Myriad Pro - used as Adobe CC default font and by Apple before introducing SF.
+
+FF Meta clone
+- Trebuchet MS - Win XP
+
+
+| Apple       | Microsoft       |
+| ----------- | --------------- |
+| Linotype    | Monotype        |
+| Helvetica   | Arial           |
+| Times Roman | Times New Roman |
+| Courier     | Courier New     |
+
+
+## Open-source clone typefaces 
+
+- Bitstream Vera 
+- DejaVu fonts - derived from Bitstream Vera (sans-serif) and Bitstream Charter (serif).
+- GNU FreeFont or Free UCS Outline Fonts - The family includes three faces: FreeMono, FreeSans, and FreeSerif, each in four styles (Regular, Italic/Oblique, Bold, and Bold Italic/Oblique). Based on URW++ Nimbus, similar to Times, Helvetica and Courier.
+- Liberation Fonts - metrically compatible with Arial, Arial Narrow, Times New Roman and Courier New
+- Linux Libertine - similar to Times (serif) and Optima (sans-serif)
+- Nimbus Core - URW++ clones of Courier, Helvetica and Times
+- STIX Fonts project - visually compatible with the Times New Roman family
 
 ## Font superfamily
 
@@ -414,6 +434,7 @@ Calligraphics
 
 ## Reference
 
+- [A guide to type styles.](https://www.monotype.com/resources/guide-type-styles)
 - [Typography terms and definitions.](https://www.monotype.com/resources/studio/typography-terms)
 - [Periodic Table of Popular Typefaces](https://olypress.com/periodic-table-of-popular-typefaces/)
 
