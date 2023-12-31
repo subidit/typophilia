@@ -187,6 +187,7 @@ Calligraphics
   * Hoefler & Co. - September 2021
   * Berthold - August 2022
   * International Typeface Corporation (ITC)
+  * Colophon - December 2023
 * Adobe Originals
 * Apple Inc.
 * Blambot
@@ -321,6 +322,18 @@ by Lucas de Groot, comprising TheSans, TheSerif, TheMix and TheAntiqua
 - Charis SIL
 - Bona Nova
 
+## Free Typeface Catalogues
+
+1. [Beautiful Web Type](https://beautifulwebtype.com/). 39 typaces. Pairings, features.
+2. [indestructible type*](https://indestructibletype.com/Home.html) by Owen Earl. 7 typefaces.
+3. [Fontshare](https://www.fontshare.com/) by Indian Type Foundry. 100 fonts, 59 pairs.
+4. [Open Foundry](https://open-foundry.com/fonts). 31 variable fonts.
+5. [The League Of Moveable Type](https://www.theleagueofmoveabletype.com/). 17 typefaces.
+6. [Free Faces](https://www.freefaces.gallery/). 77 typefaces.
+7. [UNCUT.wtf](https://uncut.wtf/). 150 typefaces.
+8. [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
+9. [Fontsource](https://fontsource.org/) 1656 families
+
 ### Links
 
 - [Typography Guru](https://typography.guru/list/)
@@ -440,18 +453,6 @@ by Lucas de Groot, comprising TheSans, TheSerif, TheMix and TheAntiqua
 - [The Velvetyne Type Foundry (VTF)](https://velvetyne.fr/)
 - [Urban Fonts](https://www.urbanfonts.com/free-fonts.htm)
 
-## Free Typeface Catalogues
-
-1. [FontShop](https://www.fontshop.com/free-fonts) by Monotype. 1430 families.
-2. [Beautiful Web Type](https://beautifulwebtype.com/). 39 typaces. Pairings, features.
-3. [indestructible type*](https://indestructibletype.com/Home.html) by Owen Earl. 7 typefaces.
-4. [Fontshare](https://www.fontshare.com/) by Indian Type Foundry. 100 fonts, 59 pairs.
-5. [Open Foundry](https://open-foundry.com/fonts). 31 variable fonts.
-6. [The League Of Moveable Type](https://www.theleagueofmoveabletype.com/). 17 typefaces.
-7. [Free Faces](https://www.freefaces.gallery/). 77 typefaces.
-8. [UNCUT.wtf](https://uncut.wtf/). 150 typefaces.
-9.  [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
-10. [Fontsource](https://fontsource.org/) 1656 families
 
 
 <!--
