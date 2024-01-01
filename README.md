@@ -72,16 +72,19 @@ Awesome list of free fonts and curated typographic resources. 💝
 - Bold
 - Italics 
 - Small Caps (SC)
-- Condensed
-- Display
+- Normal/Roman/Medium/Text
+- Condensed / Narrow
+- Display / Titling
 - Rounded
-- Mono
+- Outline / Inline
+- Shadowed
+- Mono / Code
 
 | by WEIGHT        | by WIDTH       |
 | ---------------- | -------------- |
-| Thin             | Condensed      |
+| Thin/Hairline    | Condensed      |
 | Extra/UltraLight | SemiCondensed  |
-| Light            | Normal/Regular |
+| Light            | Normal/Roman   |
 | Regular/Book     | SemiExpanded   |
 | Medium/Text      | Expanded       |
 | Semi/DemiBold    |                |
