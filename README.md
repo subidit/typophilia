@@ -74,6 +74,8 @@ Awesome list of free fonts and curated typographic resources. 💝
 - Small Caps (SC)
 - Condensed
 - Display
+- Rounded
+- Mono
 
 | by WEIGHT        | by WIDTH       |
 | ---------------- | -------------- |
