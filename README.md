@@ -94,17 +94,17 @@ Become a Type Snob in 10 minutes. 💝
 
 ## Defaults
 
-| Application | Font Name         |
-| ----------- | ----------------- |
-| Windows     | Segoe UI          |
-| MacOS       | San Francisco     |
-| iOS         | San Francisco     |
-| Android     | Roboto            |
-| MS Office   | Aptos, Calibri    |
-| Google Docs | Arial             |
-| LaTeX       | Computer Modern   |
-| Bookerly    | Kindle            |
-| Literata    | Google Play Books |
+| Application       | Font Name       |
+| ----------------- | --------------- |
+| Windows           | Segoe UI        |
+| MacOS             | San Francisco   |
+| iOS               | San Francisco   |
+| Android           | Roboto          |
+| MS Office         | Aptos, Calibri  |
+| Google Docs       | Arial           |
+| TeX               | Computer Modern |
+| Kindle            | Bookerly        |
+| Google Play Books | Literata        |
 
 
 
@@ -264,8 +264,6 @@ FF Meta clone
 - Bespoke - Sans, serif, slab, and stencil styes
 - Computer Modern (by Donald E. Knuth for TeX default) cmr (antiqua), cmss (grotesque) and cmtt (monospaced)
 - Corporate ASE (by Kurt Weidemann) antiqua, sans and Egyptienne
-- Bitstream Vera - Serif, sans serif, and mono
-- DejaVu - DejaVu Sans, DejaVu Sans Mono and DejaVu Serif.
 - Droid (by Steve Matteson) Droid Sans, Droid Serif and Droid Sans Mono.
 - Fira - Sans, mono, and code ligatures
 - Gandhi - Serif and sans
@@ -382,18 +380,6 @@ FF Meta clone
 21. [GooFonts](https://goofonts.com/) - Google fonts tagged
 
 
-
-## Learning
-1. [Butterick's Practical Typography](https://practicaltypography.com/)
-2. [Typekit Practice](https://practice.typekit.com/)
-3. [Typewolf Resources](https://www.typewolf.com/resources)
-
-## Inspiration
-1. [Discover Typography](https://discover.typography.com/) - From the designers at H&Co.
-2. [Fonts in use](https://fontsinuse.com/)
-3. [Typewolf](https://www.typewolf.com/)
-4. [I Love Typography](https://ilovetypography.com/font-inspiration/)
-
 ## Aggregators
 - [1001 Free Fonts](https://www.1001freefonts.com/)
 - [Abstract Fonts](https://www.abstractfonts.com/). 10,000+ fonts.
@@ -430,108 +416,13 @@ FF Meta clone
 
 
 ## Reference
-- [A guide to type styles.](https://www.monotype.com/resources/guide-type-styles)
-- [Typography terms and definitions.](https://www.monotype.com/resources/studio/typography-terms)
-- [Periodic Table of Popular Typefaces](https://olypress.com/periodic-table-of-popular-typefaces/)
-- [Typography Guru](https://typography.guru/list/)
-- [Huerta Tipografica - Alegreya](https://www.huertatipografica.com/en/fonts/alegreya-ht-pro) Argentina
 - [Butterick's Practical Typography](https://practicaltypography.com/)
+- [A guide to type styles.](https://www.monotype.com/resources/guide-type-styles)
+- [Huerta Tipografica - Alegreya](https://www.huertatipografica.com/en/fonts/alegreya-ht-pro) Argentina
+- [Periodic Table of Popular Typefaces](https://olypress.com/periodic-table-of-popular-typefaces/)
 - [Typekit Practice](https://practice.typekit.com/)
 - [Typewolf Resources](https://www.typewolf.com/resources)
+- [Typography Guru](https://typography.guru/list/)
+- [Typography terms and definitions.](https://www.monotype.com/resources/studio/typography-terms)
   
 
-
-<!--
-## Typefaces by Tech Companies
-
-* Adobe Source (Source Code Pro, Source Sans Pro, Source Serif Pro)
-* Apple
-  * San Francisco (SF Pro, SF Compact, SF Mono)
-  * New York (Serif companion)
-* IBM Plex (IBM Plex Sans, IBM Plex Serif, IBM Plex Mono, IBM Plex Condensed)
-* Google
-  * Droid
-  * Noto
-  * Roboto
-* Mozilla Fira (Fira Code (ligatures), Fira Sans, Fira Math (serif))
-* GitHub
-  * Monaspace
-    * Neon - Neo-grotesque sans
-    * Argon - Humanist sans
-    * Xenon - Slab serif
-    * Radon - Handwriting
-    * Krypton - Mechanical sans
-  * Mona Sans & Hubot Sans
-* Red Hat
-  * Overpass
-  * Liberation fonts (Liberation Sans, Liberation Sans Narrow, Liberation Serif, Liberation Mono)
-  * [Red Hat fonts](https://www.redhat.com/en/about/brand/standards/typography) (Red Hat Display, Red Hat Text, Red Hat Mono)
-
-
-
-## Font Superfamilies
-
-The norm in a superfamily is to start from an identical character shape then adding class-specific features such as serifs to that shape. The result is a set of fonts with a similar appearance that belong to different classes such as sans, serif, slab serif, rounded.
-In typography, a font superfamily or typeface superfamily is a font family containing fonts that fall into multiple classifications.
-
-* **GNU FreeFont** - FreeSans, FreeSerif, FreeMono
-* **Meta** - comprising FF Meta (sans), FF Meta Serif and FF Meta Headline
-* **Scala** - comprising FF Scala (serif) and FF Scala Sans
-* **Merriweather** - comprising Merriweather and Merriweather Sans
-* **PT Fonts** - The Public Type or PT Fonts comprises of PT Serif, PT Sans and PT Mono.
-* **Source** - comprising Source Sans Pro, Source Serif Pro and Source Code Pro
-* **Thesis** - comprising TheSans, TheSerif, TheMix and TheAntiqua
-* **Computer Modern** - comprising cmr (antiqua), cmss (grotesque) and cmtt (monospaced)
-* **DejaVu** and **Bitstream Vera** - comprising DejaVu Sans, DejaVu Sans Mono and DejaVu Serif.
-* **IBM Plex** - comprising IBM Plex Sans, IBM Plex Sans Condensed, IBM Plex Serif and IBM Plex Mono
-* **Noto** fonts - comprising Noto Sans, Noto Serif and Noto Mono, an expansion of the Droid family. It supports a wide range of languages.
-* **Droid** - comprising Droid Sans, Droid Serif and Droid Sans Mono.
-* **Roboto** - comprising Roboto, Roboto Slab and Roboto Mono
-
-
-## Free alternatives to proprietary typefaces
-
-### The [TeX Gyre](https://www.gust.org.pl/projects/e-foundry/tex-gyre) (TG) Collection of Fonts
- 1. Adventor (ITC Avant Garde Gothic)
- 2. Bonum (ITC Bookman)
- 3. Chorus (ITC Zapf Chancery) 
- 4. Cursor (Courier) 
- 2. Heros (Helvetica)
- 3. Pagella (Palatino)
- 4. Schola (Century Schoolbook)
- 3. Termes (Times New Roman)
-
-
-### Bitstream (BT) Vera (by Matthew Carter)
-  - Bitstream Vera (repackaged as Bera, for LaTeX)
-    - serif 
-    - sans-serif (Verdana)
-    - monospace
-  - Bitstream Charter (Transitional Slab-Serif)
-    - XCharter
-    - Charis SIL
-
-#### [DejaVu fonts](https://dejavu-fonts.github.io/) (based on the Vera Fonts)
-   * Sans: Book, Bold, Oblique, Bold Oblique, Condensed, Condensed Bold, Condensed Oblique and Condensed Bold Oblique, Extralight
-   * Serif: Book, Bold, Italic, Bold Italic, Condensed, Condensed Bold, Condensed Italic and Condensed Bold Italic
-   * Mono: Book, Bold, Oblique, Bold Oblique
-
-### Nimbus Fonts (URW++)
-  - Nimbus Sans L, emulates Helvetica and Arial
-  - Nimbus Roman No9 L, emulates Times and Times New Roman very closely
-  - Nimbus Mono, emulates Courier and Courier New fairly closely
-
-### Liberation Fonts
-Originally distributed by Red Hat in 2007, there are three flavors:
-  - Liberation Sans, emulates Arial, Helvetica, Nimbus Sans L, and to a lesser extent Bitstream Vera Sans/DejaVu Sans
-  - Liberation Serif, emulates Times New Roman, Nimbus Roman, and to a lesser extent Bitstream Vera Serif/DejaVu Serif
-  - Liberation Mono, emulates Courier New, Nimbus Mono L, and the Bitstream Vera/DejaVu monospace fonts
-
-### Linux Libertine
-- Linux Libertine (Times New Roman) (Wikipedia Logo)
-  - Libertinus Serif
-  - Common Serif
-- Linux Biolinum (Optima)
-  - Libertinus Serif
-
--->

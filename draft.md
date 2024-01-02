@@ -220,15 +220,15 @@
 
 ## Default Fonts
 
-| Application    | Font Name       |
-| -------------- | --------------- |
-| Windows        | Segoe UI        |
-| MacOS          | San Francisco   |
-| iOS            | San Francisco   |
-| Android        | Roboto          |
-| MS Office      | Aptos           |
-| Google Docs    | Arial           |
-| LaTeX          | Computer Modern |
+| Application | Font Name       |
+| ----------- | --------------- |
+| Windows     | Segoe UI        |
+| MacOS       | San Francisco   |
+| iOS         | San Francisco   |
+| Android     | Roboto          |
+| MS Office   | Aptos           |
+| Google Docs | Arial           |
+| LaTeX       | Computer Modern |
 
 
 
@@ -597,3 +597,98 @@ Variable fonts are a relatively recent innovation in font technology that differ
 | 100  | Mistral                   | 1953 | Roger Excoffon                 | Script                             | Casual                                    | ITC                                        |
 
 
+
+<!--
+## Typefaces by Tech Companies
+
+* Adobe Source (Source Code Pro, Source Sans Pro, Source Serif Pro)
+* Apple
+  * San Francisco (SF Pro, SF Compact, SF Mono)
+  * New York (Serif companion)
+* IBM Plex (IBM Plex Sans, IBM Plex Serif, IBM Plex Mono, IBM Plex Condensed)
+* Google
+  * Droid
+  * Noto
+  * Roboto
+* Mozilla Fira (Fira Code (ligatures), Fira Sans, Fira Math (serif))
+* GitHub
+  * Monaspace
+    * Neon - Neo-grotesque sans
+    * Argon - Humanist sans
+    * Xenon - Slab serif
+    * Radon - Handwriting
+    * Krypton - Mechanical sans
+  * Mona Sans & Hubot Sans
+* Red Hat
+  * Overpass
+  * Liberation fonts (Liberation Sans, Liberation Sans Narrow, Liberation Serif, Liberation Mono)
+  * [Red Hat fonts](https://www.redhat.com/en/about/brand/standards/typography) (Red Hat Display, Red Hat Text, Red Hat Mono)
+
+
+
+## Font Superfamilies
+
+The norm in a superfamily is to start from an identical character shape then adding class-specific features such as serifs to that shape. The result is a set of fonts with a similar appearance that belong to different classes such as sans, serif, slab serif, rounded.
+In typography, a font superfamily or typeface superfamily is a font family containing fonts that fall into multiple classifications.
+
+* **GNU FreeFont** - FreeSans, FreeSerif, FreeMono
+* **Meta** - comprising FF Meta (sans), FF Meta Serif and FF Meta Headline
+* **Scala** - comprising FF Scala (serif) and FF Scala Sans
+* **Merriweather** - comprising Merriweather and Merriweather Sans
+* **PT Fonts** - The Public Type or PT Fonts comprises of PT Serif, PT Sans and PT Mono.
+* **Source** - comprising Source Sans Pro, Source Serif Pro and Source Code Pro
+* **Thesis** - comprising TheSans, TheSerif, TheMix and TheAntiqua
+* **Computer Modern** - comprising cmr (antiqua), cmss (grotesque) and cmtt (monospaced)
+* **DejaVu** and **Bitstream Vera** - comprising DejaVu Sans, DejaVu Sans Mono and DejaVu Serif.
+* **IBM Plex** - comprising IBM Plex Sans, IBM Plex Sans Condensed, IBM Plex Serif and IBM Plex Mono
+* **Noto** fonts - comprising Noto Sans, Noto Serif and Noto Mono, an expansion of the Droid family. It supports a wide range of languages.
+* **Droid** - comprising Droid Sans, Droid Serif and Droid Sans Mono.
+* **Roboto** - comprising Roboto, Roboto Slab and Roboto Mono
+
+
+## Free alternatives to proprietary typefaces
+
+### The [TeX Gyre](https://www.gust.org.pl/projects/e-foundry/tex-gyre) (TG) Collection of Fonts
+ 1. Adventor (ITC Avant Garde Gothic)
+ 2. Bonum (ITC Bookman)
+ 3. Chorus (ITC Zapf Chancery) 
+ 4. Cursor (Courier) 
+ 2. Heros (Helvetica)
+ 3. Pagella (Palatino)
+ 4. Schola (Century Schoolbook)
+ 3. Termes (Times New Roman)
+
+
+### Bitstream (BT) Vera (by Matthew Carter)
+  - Bitstream Vera (repackaged as Bera, for LaTeX)
+    - serif 
+    - sans-serif (Verdana)
+    - monospace
+  - Bitstream Charter (Transitional Slab-Serif)
+    - XCharter
+    - Charis SIL
+
+#### [DejaVu fonts](https://dejavu-fonts.github.io/) (based on the Vera Fonts)
+   * Sans: Book, Bold, Oblique, Bold Oblique, Condensed, Condensed Bold, Condensed Oblique and Condensed Bold Oblique, Extralight
+   * Serif: Book, Bold, Italic, Bold Italic, Condensed, Condensed Bold, Condensed Italic and Condensed Bold Italic
+   * Mono: Book, Bold, Oblique, Bold Oblique
+
+### Nimbus Fonts (URW++)
+  - Nimbus Sans L, emulates Helvetica and Arial
+  - Nimbus Roman No9 L, emulates Times and Times New Roman very closely
+  - Nimbus Mono, emulates Courier and Courier New fairly closely
+
+### Liberation Fonts
+Originally distributed by Red Hat in 2007, there are three flavors:
+  - Liberation Sans, emulates Arial, Helvetica, Nimbus Sans L, and to a lesser extent Bitstream Vera Sans/DejaVu Sans
+  - Liberation Serif, emulates Times New Roman, Nimbus Roman, and to a lesser extent Bitstream Vera Serif/DejaVu Serif
+  - Liberation Mono, emulates Courier New, Nimbus Mono L, and the Bitstream Vera/DejaVu monospace fonts
+
+### Linux Libertine
+- Linux Libertine (Times New Roman) (Wikipedia Logo)
+  - Libertinus Serif
+  - Common Serif
+- Linux Biolinum (Optima)
+  - Libertinus Serif
+
+-->
