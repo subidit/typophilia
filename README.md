@@ -1,6 +1,5 @@
 # Typeface Trivia
-
-Awesome list of free fonts and curated typographic resources. 💝
+Become a Type Snob in 10 minutes. 💝
 
 ## Key rules 
 
@@ -19,7 +18,7 @@ Awesome list of free fonts and curated typographic resources. 💝
 - **Glyph**: individual symbols of the typeface, say  letter, number, punctuation mark, accented variations, etc. 
 - Baseline, Cap Line, x-Height
 - Tracking is Letter-Spacing. 
-- Kerning is special tracking between two specific letters, eg. LT, VA or To.
+- Kerning is spacing between two specific letters, eg. LT, VA or To.
 - Leading is Line-Spacing.
 - Fixed-width is Monospaced.
 - Italics is *not* same as Slanted or Oblique.
@@ -33,37 +32,37 @@ Awesome list of free fonts and curated typographic resources. 💝
 
 ## Anatomy
 
-- Aperture (n, c, C, s, S, e) 
-- Apex in the capital ‘A’.
-- Arm - A horizontal or upward, sloping stroke that does not connect to a stroke or stem on one or both ends. (r,E,F,T,V)
-- Ascender (‘b’, ‘d’, ‘f’, ‘h’, ‘k’, etc.) 
+- Aperture: (n, c, C, s, S, e) 
+- Apex: in the capital ‘A’.
+- Arm: A horizontal or upward, sloping stroke that does not connect. (r,E,F,T,V)
+- Ascender: (‘b’, ‘d’, ‘f’, ‘h’, ‘k’, etc.) 
 - Axis / Stress 
 - Ball / Teardrop Terminal (‘f’) 
-- Beak - decorative stroke at the end of the arm (More pronounced serifs of E, F)
-- Bowl (d,b,o,D,B) 
-- Counter - The open space in a fully or partly closed area within a letter. Bowl + Aperture letters.
-- Cross Stroke (f/t) 
-- Crossbar (A/H) 
-- Crotch (V/W/Y) - where two strokes meet and form an interior angle.
-- Descender (g, j, p, q, y, etc.) 
-- Double-storey: A double-story ‘a’ or ‘g’ has two counters.
-- Ear: Typically found on the lower case double story ‘g’, an ear is a finishing stroke usually on the upper right side of the bowl.
+- Beak: decorative stroke at the end of the arm (More pronounced serifs of E, F)
+- Bowl: (d,b,o,D,B) 
+- Counter: The open or negative space in a fully or partly closed area within a letter. Bowl + Aperture letters.
+- Cross Stroke: (f/t) 
+- Crossbar: (A/H) 
+- Crotch: (V/W/Y) - where two strokes meet and form an interior angle.
+- Descender: (g, j, p, q, y, etc.) 
+- Double-storey: A double-storey ‘a’ or ‘g’ has two counters.
+- Ear: Typically found on the lowercase double storey ‘g’, an ear is a finishing stroke usually on the upper right side of the bowl.
 - Eye: Enclosed space in a lowercase ‘e’. 
 - Finial / Taper 
 - Flag: The horizontal stroke at the top of the numeral ‘5’.
 - Gadzook: An embellishment that connects the letters in a ligature but is not originally part of either letter. 
-- Hook of ‘f’,‘J’ and ‘j’. 
+- Hook: of ‘f’,‘J’ and ‘j’. 
 - Ink trap 
-- Leg (‘K’, ‘k’ and ‘R’) 
-- Ligature (‘fi’, ‘fl’, ‘ff’, ‘ffl’) 
+- Leg: (‘K’, ‘k’ and ‘R’) 
+- Ligature: (‘fi’, ‘fl’, ‘ff’, ‘ffl’) 
 - Loop/Lobe: In some double-storey ‘g’
 - Neck / Link: The link connecting the top and bottom bowls of some lowercase ‘g’. 
-- Shoulder (‘h’, ‘m’, ‘n’) 
-- Spine The main curve in ‘S’ and ‘s’. 
+- Shoulder: arm that is connected on both ends (‘h’, ‘m’, ‘n’) 
+- Spine: The main curve in ‘S’ and ‘s’. 
 - Spur: Small protruding part on uppercase ‘G’.
 - Stem
 - Swash
-- Tail of an uppercase ‘Q’. 
+- Tail: of an uppercase ‘Q’. 
 - Tittle: The dot on the ‘i’ and the ‘j’.
 - Vertex: The point at the bottom (or top) of a character where two strokes meet, for example the ‘v’, ‘V’, ‘w’, ‘W’ etc.
 
@@ -72,7 +71,7 @@ Awesome list of free fonts and curated typographic resources. 💝
 - Bold
 - Italics 
 - Small Caps (SC)
-- Normal/Roman/Medium/Text
+- Normal/Roman/Medium/Text/Book/Regular
 - Condensed / Narrow
 - Display / Titling
 - Rounded
@@ -80,17 +79,17 @@ Awesome list of free fonts and curated typographic resources. 💝
 - Shadowed
 - Mono / Code
 
-| by WEIGHT        | by WIDTH       |
-| ---------------- | -------------- |
-| Thin/Hairline    | Condensed      |
-| Extra/UltraLight | SemiCondensed  |
-| Light            | Normal/Roman   |
-| Regular/Book     | SemiExpanded   |
-| Medium/Text      | Expanded       |
-| Semi/DemiBold    |                |
-| Bold             |                |
-| Extra/UltraBold  |                |
-| Black/Heavy      |                |
+| by WEIGHT        | by WIDTH            |
+| ---------------- | ------------------- |
+| Thin/Hairline    | Condensed           |
+| Extra/UltraLight | SemiCondensed (SCd) |
+| Light            | Normal/Roman        |
+| Regular/Book     | SemiExpanded        |
+| Medium/Text      | Expanded            |
+| Semi/DemiBold    |                     |
+| Bold             |                     |
+| Extra/UltraBold  |                     |
+| Black/Heavy      |                     |
 
 
 ## Defaults
@@ -145,28 +144,28 @@ The common typeface classifications are:
 
 4. Non-Latin
 
-## Examples
+### Examples
 
-Classicals
-- Humanist: Jenson, Centaur, Adobe Jenson, Cloister, Guardi, Lutetia, Lynton, Stempel Schneidler
-- Garalde: Garamond, Bembo, Caslon, Janson, Palatino, Galliard, FS Brabo
-- Transitional: Baskerville, Times, Fournier, FS Neruda, FS Sally, Joanna, Melior
+#### Classicals
+- Humanist: Centaur, Adobe Jenson, Cloister, Guardi, Lutetia, Lynton, Stempel Schneidler
+- Garalde: Garamond, Bembo, Caslon, Janson, Palatino, Galliard
+- Transitional: Baskerville, Times, Fournier, Joanna, Melior
 
-Moderns
-- Didone: Bodoni, Didot, Walbaum, Ambroise, Arepo, FS Ostro, Scotch Roman 
-- Mechanistic: Clarendon, Egyptienne, Ionic No. 5, Rockwell, Memphis, Sentinel, FS Silas Slab, FS Clerkenwell, FS Rufus
+#### Moderns
+- Didone: Bodoni, Didot, Walbaum, Ambroise, Arepo, Scotch Roman 
+- Mechanistic: Clarendon, Egyptienne, Rockwell, Memphis, Sentinel
 - Lineal
 
-Lineal
-- Grotesque: Headline, Monotype 215, and Grot no. 6, Bureau Grot, Franklin Gothic, FS Meridian, Ideal Grotesk, Knockout, Schelter Grotesk, Venus
-- Neo-grotesque: Helvetica, Univers, DIN, Bell Centennial, FS Elliot, FS Industrie, Folio
-- Geometric: Century Gothic and Futura, Bank Gothic, Erbar, Eurostyle, FS Lucas, FS Dillon, Kabel
-- Humanist: Gill Sans and Optima, FS Millbank, FS Irwin, FS Siena, Johnston, Optia, Scala Sans
+#### Lineal
+- Grotesque: Headline, Monotype 215, and Grot no. 6, Bureau Grot, Franklin Gothic, Ideal Grotesk, Knockout, Schelter Grotesk, Venus
+- Neo-grotesque: Helvetica, Univers, DIN, Bell Centennial, Folio
+- Geometric: Century Gothic and Futura, Bank Gothic, Erbar, Eurostyle, Kabel
+- Humanist: Gill Sans and Optima, Johnston, Scala Sans
 
-Calligraphics
-- Glyphic: Albertus, Copperplate Gothic, and Trajan, FS Rome, Fritz Quadrata, FS Benjamin, Lithos, Exocet
-- Script: Shelley, Mistral and Francesca, Bello, Bickham Script, FS Shepton, FS Sammy, Snell Roundhand, Zapfino
-- Graphic: Banco and Klang, Calypso, Fournier Le Jeune, FS Kitty, FS Pele, FS Pimlico Glow, FS Conrad
+#### Calligraphics
+- Glyphic: Albertus, Copperplate Gothic, and Trajan, Fritz Quadrata, Lithos, Exocet
+- Script: Shelley, Mistral and Francesca, Bello, Bickham Script, Snell Roundhand, Zapfino
+- Graphic: Banco and Klang, Calypso, Fournier Le Jeune
 - Blackletter: Fette Fraktur, Canterbury, Goudy Text, Linotype Textur, Notre Dame, Old English
 - Gaelic: Duibhlinn, Uncial
 
@@ -233,7 +232,7 @@ Calligraphics
 - Tobias Frere-Jones (American) Gotham, Interstate, Archer (with Jonathan Hoefler)
 - Zuzana Licko (Slovak-born American) Mrs Eaves (based on Baskerville) and Filosofia (based on Bodoni).
 
-## Clones
+### Clones
 
 Frutiger clone
 - Segoe UI - used in Microsoft Win 7 and many MS product logos.
@@ -252,17 +251,15 @@ FF Meta clone
 
 
 ## Open-source clone typefaces 
-
-- Bitstream Vera 
+- Bitstream Vera (donated by Matthew Carter) clones of Arial and Charter
 - DejaVu fonts - derived from Bitstream Vera (sans-serif) and Bitstream Charter (serif).
-- GNU FreeFont or Free UCS Outline Fonts - The family includes three faces: FreeMono, FreeSans, and FreeSerif, each in four styles (Regular, Italic/Oblique, Bold, and Bold Italic/Oblique). Based on URW++ Nimbus, similar to Times, Helvetica and Courier.
+- GNU FreeFont or Free UCS Outline Fonts - Based on URW++ Nimbus, similar to Times, Helvetica and Courier.
 - Liberation Fonts - metrically compatible with Arial, Arial Narrow, Times New Roman and Courier New
 - Linux Libertine - similar to Times (serif) and Optima (sans-serif)
 - Nimbus Core - URW++ clones of Courier, Helvetica and Times
 - STIX Fonts project - visually compatible with the Times New Roman family
 
 ## Font superfamily
-
 - Alegreya - Serif, sans serif, and samll caps
 - Bespoke - Sans, serif, slab, and stencil styes
 - Computer Modern (by Donald E. Knuth for TeX default) cmr (antiqua), cmss (grotesque) and cmtt (monospaced)
@@ -288,8 +285,7 @@ FF Meta clone
 - Thesis by Lucas de Groot, comprising TheSans, TheSerif, TheMix and TheAntiqua
 
 
-## Free sans serif font families
-
+### Free sans serif font families
 - Archivo
 - Clear Sans
 - Inter
@@ -302,8 +298,7 @@ FF Meta clone
 - Raleway
 - Work Sans
 
-## Serif typefaces
-
+### Serif typefaces
 - Crimson Pro
 - Vollkorn
 - Literata
@@ -311,7 +306,6 @@ FF Meta clone
 - Bona Nova
 
 ## Free Typeface Catalogues
-
 1. [Beautiful Web Type](https://beautifulwebtype.com/). 39 typaces. Pairings, features.
 2. [indestructible type*](https://indestructibletype.com/Home.html) by Owen Earl. 7 typefaces.
 3. [Fontshare](https://www.fontshare.com/) by Indian Type Foundry. 100 fonts, 59 pairs.
@@ -320,17 +314,11 @@ FF Meta clone
 6. [Free Faces](https://www.freefaces.gallery/). 77 typefaces.
 7. [UNCUT.wtf](https://uncut.wtf/). 150 typefaces.
 8. [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
-9. [Fontsource](https://fontsource.org/) 1656 families
+9. [Fontsource](https://fontsource.org/) 1656 families.
+10. [Brick](https://brick.im/fonts/) 60 typefaces.
 
-### Links
 
-- [Typography Guru](https://typography.guru/list/)
-- [Huerta Tipografica](https://www.huertatipografica.com/en/fonts/alegreya-ht-pro) Argentina
-- [Font Library](https://fontlibrary.dev/?) - Google fonts by tags
-- [GooFonts](https://goofonts.com/) - Google fonts tagged
-
-## Interesting Free Fonts
-
+## Noteworthy Free Fonts
 1. [Atkinson Hyperlegible](https://brailleinstitute.org/freefont)
 2. [Public Sans](https://public-sans.digital.gov/) by USWDS
 3. [Inter](https://rsms.me/inter/)
@@ -355,7 +343,6 @@ FF Meta clone
 22. [Luciole](https://www.luciole-vision.com/luciole-en.html) - for visually impaired people
 
 ## Fonts for code
-
 1. [NerdFonts](https://www.nerdfonts.com/font-downloads)
 2. [Monaspace](https://monaspace.githubnext.com/)
 3. [Input](https://input.djr.com/)
@@ -372,42 +359,42 @@ FF Meta clone
 
 
 ## WebApps
-
 1. [Identifont](http://www.identifont.com/index.html) - Fonts by appearance, name, similarity, designer or publisher.
-2. [ProgrammingFonts](https://www.programmingfonts.org/) - test drive 138 programming fonts
-3. [Coding Font](https://www.codingfont.com/) - find your favorite coding font
-4. [Wakamai Fondue](https://wakamaifondue.com/beta/) - What can my font do?
-5. [Golden Ratio Typography Calculator](https://grtcalculator.com/)
-6. [Modular Scale](https://www.modularscale.com/)
-7. [Typescale](https://typescale.com/)
-8. [Archetype](https://archetypeapp.com/) - Font pairing and size
-9. [Fontjoy](https://fontjoy.com/) - Font pairing made simple
-10. [FontPair](https://www.fontpair.co/all)
-11. [WordMark](https://wordmark.it/) - Compare multiple fonts in a visual grid.
-12. [Font Meme](https://fontmeme.com/) - Discover fonts used in popular culture.
-13. [FontBolt](https://www.fontbolt.com/) - Generate your text from pop culture fonts. 
-14. [Standard Font List](https://www.impactsigns.com/standard-font-list/)
-15. [Modern Font Stacks](https://modernfontstacks.com/)
-16. [System Font Stacks](https://systemfontstack.com/)
-17. [TypeWar](https://typewar.com/) - Identify font game.
-18. [Shape Type](https://shape.method.ac/) - Adjust letter shape
-19. [Kern Type](https://type.method.ac/) - a letter spacing / kerning game.
+2. [TypeWar](https://typewar.com/) - Identify font game.
+3. [Shape Type](https://shape.method.ac/) - Adjust letter shape
+4. [Kern Type](https://type.method.ac/) - a letter spacing / kerning game.
+5. [ProgrammingFonts](https://www.programmingfonts.org/) - test drive 138 programming fonts
+6. [Coding Font](https://www.codingfont.com/) - find your favorite coding font
+7. [Wakamai Fondue](https://wakamaifondue.com/beta/) - What can my font do?
+8. [Golden Ratio Typography Calculator](https://grtcalculator.com/)
+9. [Modular Scale](https://www.modularscale.com/)
+10. [Typescale](https://typescale.com/)
+11. [Archetype](https://archetypeapp.com/) - Font pairing and size
+12. [Fontjoy](https://fontjoy.com/) - Font pairing made simple
+13. [FontPair](https://www.fontpair.co/all)
+14. [WordMark](https://wordmark.it/) - Compare multiple fonts in a visual grid.
+15. [Font Meme](https://fontmeme.com/) - Discover fonts used in popular culture.
+16. [FontBolt](https://www.fontbolt.com/) - Generate your text from pop culture fonts. 
+17. [Standard Font List](https://www.impactsigns.com/standard-font-list/)
+18. [Modern Font Stacks](https://modernfontstacks.com/)
+19. [System Font Stacks](https://systemfontstack.com/)
+20. [Font Library](https://fontlibrary.dev/?) - Google fonts by tags
+21. [GooFonts](https://goofonts.com/) - Google fonts tagged
+
 
 
 ## Learning
 1. [Butterick's Practical Typography](https://practicaltypography.com/)
 2. [Typekit Practice](https://practice.typekit.com/)
-3. [Typography Resources](https://www.typewolf.com/resources) by Typewolf
+3. [Typewolf Resources](https://www.typewolf.com/resources)
 
 ## Inspiration
-
 1. [Discover Typography](https://discover.typography.com/) - From the designers at H&Co.
 2. [Fonts in use](https://fontsinuse.com/)
 3. [Typewolf](https://www.typewolf.com/)
 4. [I Love Typography](https://ilovetypography.com/font-inspiration/)
 
 ## Aggregators
-
 - [1001 Free Fonts](https://www.1001freefonts.com/)
 - [Abstract Fonts](https://www.abstractfonts.com/). 10,000+ fonts.
 - [BeFonts](https://befonts.com/)
@@ -436,12 +423,22 @@ FF Meta clone
 - [The Velvetyne Type Foundry (VTF)](https://velvetyne.fr/)
 - [Urban Fonts](https://www.urbanfonts.com/free-fonts.htm)
 
+## Marketplaces
+1. [Monotype Fonts](https://www.monotypefonts.com/)
+2. [Adobe Fonts](https://fonts.adobe.com/)
+3. [Google Fonts](https://fonts.google.com/)
+
 
 ## Reference
-
 - [A guide to type styles.](https://www.monotype.com/resources/guide-type-styles)
 - [Typography terms and definitions.](https://www.monotype.com/resources/studio/typography-terms)
 - [Periodic Table of Popular Typefaces](https://olypress.com/periodic-table-of-popular-typefaces/)
+- [Typography Guru](https://typography.guru/list/)
+- [Huerta Tipografica - Alegreya](https://www.huertatipografica.com/en/fonts/alegreya-ht-pro) Argentina
+- [Butterick's Practical Typography](https://practicaltypography.com/)
+- [Typekit Practice](https://practice.typekit.com/)
+- [Typewolf Resources](https://www.typewolf.com/resources)
+  
 
 
 <!--
