@@ -159,7 +159,7 @@ The common typeface classifications are:
 #### Lineal
 - Grotesque: Headline, Monotype 215, and Grot no. 6, Bureau Grot, Franklin Gothic, Ideal Grotesk, Knockout, Schelter Grotesk, Venus
 - Neo-grotesque: Helvetica, Univers, DIN, Bell Centennial, Folio
-- Geometric: Century Gothic and Futura, Bank Gothic, Erbar, Eurostyle, Kabel
+- Geometric: Century Gothic and Futura, Bank Gothic, Erbar, Eurostile, Kabel, Gotham, Neutraface
 - Humanist: Gill Sans and Optima, Johnston, Scala Sans
 
 #### Calligraphics
