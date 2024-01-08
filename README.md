@@ -11,7 +11,44 @@ Become a Type Snob in 10 minutes. 💝
   4. Line length - 45–90 characters per line. 
 
 
-## Glossary 
+## HISTORY
+
+- **BASKERVILLE** Designed by *John Baskerville*, 1757
+- **BODONI** Designed by *Giambattista Bodoni*, 1790s
+- ADOBE **CASLON** Designed by *Carol Twombly*, 1990, based on pages printed by *William Caslon*, 1734-70
+- **CENTAUR** Designed by *Bruce Rogers*, 1912-14. The *italic*, by *Frederic Warde*, is based on the fifteenth-century hand of *Ludovico delgi Arrighi*.
+- **CENTURY EXPANDED** Designed by *Morris Fuller Benton*, 1900
+- **CLARENDON** Named for the Clarendon Press, Oxford, who commissioned it in 1845
+- HTF **DIDOT** Designed by *Jonathan Hoefler*, 1992, inspired by the types of *Francois Ambroise Didot*, 1784
+- **FEDRA SANS** Designed by *Peter Bilak*, 2001, who was asked to create a "de-Prostestantized Univers"
+- **FILOSOFIA** Designed by *Zuzana Licko*, 1996, a revival of the types of Bodoni
+- **FRUTIGER** Designed by *Adrian Frutiger*, 1976
+- **FRANKLIN GOTHIC** Designed by *Morris Fuller Benton*, 1904
+- **FUTURA** Designed by *Paul Renner*, 1927, who sought an "honest expression of technical processes."
+- **GEORGIA** Designed by *Matthew Carter*, 1996, for display on screen
+- **GILL SANS** Designed by *Eric Gill*, 1928. It has been described as Britain's Helvetica.
+- ADOBE **GARAMOND** Designed by *Robert Slimbach*, 1989, based on pages printed by *Claude Garamond* in the sixteenth century
+- **GOTHAM** Designed by *Tobias Frere-Jones*, 2000, inspired by lettering found at Port Authority Bus Terminal, New York City
+- **HELVETICA** Designed by *Max Miedinger*, 1957
+- **HOEFLER TEXT** Designed by *Jonathan Hoefler*, c. 1995
+- **INTERSTATE** Designed by *Tobias Frere-Jones*, 1993, inspired by U.S. highway signs
+- ADOBE **JENSON** Designed by *Robert Slimbach*, 1995
+- **META** Designed by *Erik Spiekermann*, 1991
+- **MRS EAVES** Designed by *Zuzana Licko*, 1996, inspired by pages printed by *John Baskerville*
+- **NEUTRAFACE** Designed by *Christian Schwartz*, House Industries, 2002, based on lettering created by the architect *Richard Neutra* in the 1940s and 1950s
+- **NOBEL** Designed by *Tobias Frere-Jones*, 1993, based on 1929 types by the Dutch typographer *Sjoerd Henrik de Roos*. Frere-Jones describes Nobel as "Futura cooked in a dirty pan."
+- **NEWS GOTHIC** Designed by *Morris Fuller Benton*, 1908
+- **QUADRAAT** Designed by *Fred Smeijers*, 1992
+- **SABON** Designed by *Jan Tschichold*, 1966, inspired by the sixteenth-century types of *Claude Garamond*
+- **SCALA** Designed by *Martin Majoor*, 1991
+- **THESIS SERIF** Designed by *Lucas de Groot*, 1994
+- **TRADE GOTHIC** Designed by *Jackson Burke*, 1948-60, inspired by nineteenth-century grotesques
+- **UNIVERS** Designed by *Adrian Frutiger*, 1957
+- **VERDANA** Designed by *Matthew Carter*, 1996, for display on screen
+- **WALBAUM** Designed by *Justus Erich Walbaum*, 1800
+
+
+## Terminology 
 
 - **Font**: particular size or style of a typeface, say 10 point regular or 24 point italic.
 - **Typeface**: the specific design of the letters, say Times New Roman or Baskerville.
