@@ -424,6 +424,7 @@ FF Meta clone
 - [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
 - [CreativeTacos](https://creativetacos.com/category/free-fonts/). 3300 fonts
 - [DaFont](https://www.dafont.com/). 82,320 fonts.
+- [Dafont Free](https://www.dafontfree.io/). 14,265 fonts.
 - [Font Library](https://fontlibrary.org/en/catalogue). 1,366 fonts.
 - [Fontasy](http://fontasy.org/)
 - [FontBundles](https://fontbundles.net/free-fonts)
