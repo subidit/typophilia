@@ -110,6 +110,7 @@ Become a Type Snob in 10 minutes. 💝
 - Small Caps (SC)
 - Normal/Roman/Medium/Text/Book/Regular
 - Condensed / Narrow
+- Extended
 - Display / Titling
 - Rounded
 - Outline / Inline
@@ -122,7 +123,7 @@ Become a Type Snob in 10 minutes. 💝
 | Extra/UltraLight | SemiCondensed (SCd) |
 | Light            | Normal/Roman        |
 | Regular/Book     | SemiExpanded        |
-| Medium/Text      | Expanded            |
+| Medium/Text      | Expanded/Extended   |
 | Semi/DemiBold    |                     |
 | Bold             |                     |
 | Extra/UltraBold  |                     |
@@ -212,16 +213,16 @@ The common typeface classifications are:
 ## Notable Type Foundries
 
 * Monotype  
-  * Linotype - October 2006
-  * Ascender Corp - December 2010
-  * Bitstream - March 2012
-  * FontFont (FontShop) - July 2014
-  * Fontsmith - February 2020
-  * URW Type Foundry - May 2020
-  * Hoefler & Co. - September 2021
-  * Berthold - August 2022
+  * Linotype 
+  * Ascender Corp
+  * Bitstream 
+  * FontFont (FontShop)
+  * Fontsmith 
+  * URW Type Foundry
+  * Hoefler & Co. 
+  * Berthold 
   * International Typeface Corporation (ITC)
-  * Colophon - December 2023
+  * Colophon 
 * Adobe Originals
 * Apple Inc.
 * Blambot
