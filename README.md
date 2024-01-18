@@ -463,5 +463,3 @@ FF Meta clone
 - [Typewolf Resources](https://www.typewolf.com/resources)
 - [Typography Guru](https://typography.guru/list/)
 - [Typography terms and definitions.](https://www.monotype.com/resources/studio/typography-terms)
-  
-
