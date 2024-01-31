@@ -11,97 +11,107 @@ Become a Type Snob in 10 minutes. 💝
   4. Line length - 45–90 characters per line. 
 
 
+There are a variety of elements that work together to create a typographic hierarchy, including:
+
+1. Size
+2. Weight
+3. Color
+4. Contrast
+5. Case
+6. Position and alignment
+
+
 ## HISTORY
 
-- **BASKERVILLE** Designed by *John Baskerville*, 1757
-- **BODONI** Designed by *Giambattista Bodoni*, 1790s
-- ADOBE **CASLON** Designed by *Carol Twombly*, 1990, based on pages printed by *William Caslon*, 1734-70
-- **CENTAUR** Designed by *Bruce Rogers*, 1912-14. The *italic*, by *Frederic Warde*, is based on the fifteenth-century hand of *Ludovico delgi Arrighi*.
-- **CENTURY EXPANDED** Designed by *Morris Fuller Benton*, 1900
-- **CLARENDON** Named for the Clarendon Press, Oxford, who commissioned it in 1845
-- HTF **DIDOT** Designed by *Jonathan Hoefler*, 1992, inspired by the types of *Francois Ambroise Didot*, 1784
-- **FEDRA SANS** Designed by *Peter Bilak*, 2001, who was asked to create a "de-Prostestantized Univers"
-- **FILOSOFIA** Designed by *Zuzana Licko*, 1996, a revival of the types of Bodoni
-- **FRUTIGER** Designed by *Adrian Frutiger*, 1976
-- **FRANKLIN GOTHIC** Designed by *Morris Fuller Benton*, 1904
-- **FUTURA** Designed by *Paul Renner*, 1927, who sought an "honest expression of technical processes."
-- **GEORGIA** Designed by *Matthew Carter*, 1996, for display on screen
-- **GILL SANS** Designed by *Eric Gill*, 1928. It has been described as Britain's Helvetica.
-- ADOBE **GARAMOND** Designed by *Robert Slimbach*, 1989, based on pages printed by *Claude Garamond* in the sixteenth century
-- **GOTHAM** Designed by *Tobias Frere-Jones*, 2000, inspired by lettering found at Port Authority Bus Terminal, New York City
-- **HELVETICA** Designed by *Max Miedinger*, 1957
-- **HOEFLER TEXT** Designed by *Jonathan Hoefler*, c. 1995
-- **INTERSTATE** Designed by *Tobias Frere-Jones*, 1993, inspired by U.S. highway signs
-- ADOBE **JENSON** Designed by *Robert Slimbach*, 1995
-- **META** Designed by *Erik Spiekermann*, 1991
-- **MRS EAVES** Designed by *Zuzana Licko*, 1996, inspired by pages printed by *John Baskerville*
-- **NEUTRAFACE** Designed by *Christian Schwartz*, House Industries, 2002, based on lettering created by the architect *Richard Neutra* in the 1940s and 1950s
-- **NOBEL** Designed by *Tobias Frere-Jones*, 1993, based on 1929 types by the Dutch typographer *Sjoerd Henrik de Roos*. Frere-Jones describes Nobel as "Futura cooked in a dirty pan."
-- **NEWS GOTHIC** Designed by *Morris Fuller Benton*, 1908
-- **QUADRAAT** Designed by *Fred Smeijers*, 1992
-- **SABON** Designed by *Jan Tschichold*, 1966, inspired by the sixteenth-century types of *Claude Garamond*
-- **SCALA** Designed by *Martin Majoor*, 1991
-- **THESIS SERIF** Designed by *Lucas de Groot*, 1994
-- **TRADE GOTHIC** Designed by *Jackson Burke*, 1948-60, inspired by nineteenth-century grotesques
-- **UNIVERS** Designed by *Adrian Frutiger*, 1957
-- **VERDANA** Designed by *Matthew Carter*, 1996, for display on screen
-- **WALBAUM** Designed by *Justus Erich Walbaum*, 1800
+1. **BASKERVILLE** Designed by *John Baskerville*, 1757
+2. **BODONI** Designed by *Giambattista Bodoni*, 1790s
+3. ADOBE **CASLON** Designed by *Carol Twombly*, 1990, based on pages printed by *William Caslon*, 1734-70
+4. **CENTAUR** Designed by *Bruce Rogers*, 1912-14. The *italic*, by *Frederic Warde*, is based on the fifteenth-century hand of *Ludovico delgi Arrighi*.
+5. **CENTURY EXPANDED** Designed by *Morris Fuller Benton*, 1900
+6. **CLARENDON** Named for the Clarendon Press, Oxford, who commissioned it in 1845
+7. HTF **DIDOT** Designed by *Jonathan Hoefler*, 1992, inspired by the types of *Francois Ambroise Didot*, 1784
+8. **FEDRA SANS** Designed by *Peter Bilak*, 2001, who was asked to create a "de-Prostestantized Univers"
+9. **FILOSOFIA** Designed by *Zuzana Licko*, 1996, a revival of the types of Bodoni
+10. **FRUTIGER** Designed by *Adrian Frutiger*, 1976
+11. **FRANKLIN GOTHIC** Designed by *Morris Fuller Benton*, 1904
+12. **FUTURA** Designed by *Paul Renner*, 1927, who sought an "honest expression of technical processes."
+13. **GEORGIA** Designed by *Matthew Carter*, 1996, for display on screen
+14. **GILL SANS** Designed by *Eric Gill*, 1928. It has been described as Britain's Helvetica.
+15. ADOBE **GARAMOND** Designed by *Robert Slimbach*, 1989, based on pages printed by *Claude Garamond* in the sixteenth century
+16. **GOTHAM** Designed by *Tobias Frere-Jones*, 2000, inspired by lettering found at Port Authority Bus Terminal, New York City
+17. **HELVETICA** Designed by *Max Miedinger*, 1957
+18. **HOEFLER TEXT** Designed by *Jonathan Hoefler*, c. 1995
+19. **INTERSTATE** Designed by *Tobias Frere-Jones*, 1993, inspired by U.S. highway signs
+20. ADOBE **JENSON** Designed by *Robert Slimbach*, 1995
+21. **META** Designed by *Erik Spiekermann*, 1991
+22. **MRS EAVES** Designed by *Zuzana Licko*, 1996, inspired by pages printed by *John Baskerville*
+23. **NEUTRAFACE** Designed by *Christian Schwartz*, House Industries, 2002, based on lettering created by the architect *Richard Neutra* in the 1940s and 1950s
+24. **NOBEL** Designed by *Tobias Frere-Jones*, 1993, based on 1929 types by the Dutch typographer *Sjoerd Henrik de Roos*. Frere-Jones describes Nobel as "Futura cooked in a dirty pan."
+25. **NEWS GOTHIC** Designed by *Morris Fuller Benton*, 1908
+26. **QUADRAAT** Designed by *Fred Smeijers*, 1992
+27. **SABON** Designed by *Jan Tschichold*, 1966, inspired by the sixteenth-century types of *Claude Garamond*
+28. **SCALA** Designed by *Martin Majoor*, 1991
+29. **THESIS SERIF** Designed by *Lucas de Groot*, 1994
+30. **TRADE GOTHIC** Designed by *Jackson Burke*, 1948-60, inspired by nineteenth-century grotesques
+31. **UNIVERS** Designed by *Adrian Frutiger*, 1957
+32. **VERDANA** Designed by *Matthew Carter*, 1996, for display on screen
+33. **WALBAUM** Designed by *Justus Erich Walbaum*, 1800
 
 
 ## Terminology 
 
-- **Font**: particular size or style of a typeface, say 10 point regular or 24 point italic.
-- **Typeface**: the specific design of the letters, say Times New Roman or Baskerville.
-- **Glyph**: individual symbols of the typeface, say  letter, number, punctuation mark, accented variations, etc. 
-- Baseline, Cap Line, x-Height
-- Tracking is Letter-Spacing. 
-- Kerning is spacing between two specific letters, eg. LT, VA or To.
-- Leading is Line-Spacing.
-- Fixed-width is Monospaced.
-- Italics is *not* same as Slanted or Oblique.
-- **Grotesk**: The common German name for sans serif faces, as opposed to “Antiqua” which means serif face.
-- **Antiqua**: The common German and Scandinavian names for serif faces, The Scandinavian name is “Antikva”.
-- **Roman**: Standard type style or regular weight of an upright typeface
-- **Diacritics**: A diacritic is an ancillary mark or sign added to a letter. Accents are one type of diacritics. 
-- **Dingbats**: Decorative symbols and characters that are generally not included in a font or character set, including boxes, bullets, arrows, pointers, and other characters. Often made up into their own font.
-- **Oldstyle figures**: Numbers that have different heights, some aligning to the baseline, some below. Oldstyle figures harmonize well with lowercase letters. Using oldstyle figures helps keep the numbers from standing out too much and disturbing the overall flow of the typography on the page. Oldstyle figures can be *proportional* or *tabular*.
-- **Lining figures (LF)**: Numbers that rest on the baseline, and are usually the same height as capital letters. Lining figures can be tabular or proportional.
+1. **Font**: particular size or style of a typeface, say 10 point regular or 24 point italic.
+2. **Typeface**: the specific design of the letters, say Times New Roman or Baskerville.
+3. **Glyph**: individual symbols of the typeface, say  letter, number, punctuation mark, accented variations, etc. 
+4. Baseline, Cap Line, x-Height
+5. Tracking is Letter-Spacing. 
+6. Kerning is spacing between two specific letters, eg. LT, VA or To.
+7. Leading is Line-Spacing.
+8. Fixed-width is Monospaced.
+9. Italics is *not* same as Slanted or Oblique.
+10. **Grotesk**: The common German name for sans serif faces, as opposed to “Antiqua” which means serif face.
+11. **Antiqua**: The common German and Scandinavian names for serif faces, The Scandinavian name is “Antikva”.
+12. **Roman**: Standard type style or regular weight of an upright typeface
+13. **Diacritics**: A diacritic is an ancillary mark or sign added to a letter. Accents are one type of diacritics. 
+14. **Dingbats**: Decorative symbols and characters that are generally not included in a font or character set, including boxes, bullets, arrows, pointers, and other characters. Often made up into their own font.
+15. **Oldstyle figures**: Numbers that have different heights, some aligning to the baseline, some below. Oldstyle figures harmonize well with lowercase letters. Using oldstyle figures helps keep the numbers from standing out too much and disturbing the overall flow of the typography on the page. Oldstyle figures can be *proportional* or *tabular*.
+16. **Lining figures (LF)**: Numbers that rest on the baseline, and are usually the same height as capital letters. Lining figures can be tabular or proportional.
 
 ## Anatomy
 
-- Aperture: (n, c, C, s, S, e) 
-- Apex: in the capital ‘A’.
-- Arm: A horizontal or upward, sloping stroke that does not connect. (r,E,F,T,V)
-- Ascender: (‘b’, ‘d’, ‘f’, ‘h’, ‘k’, etc.) 
-- Axis / Stress 
-- Ball / Teardrop Terminal (‘f’) 
-- Beak: decorative stroke at the end of the arm (More pronounced serifs of E, F)
-- Bowl: (d,b,o,D,B) 
-- Counter: The open or negative space in a fully or partly closed area within a letter. Bowl + Aperture letters.
-- Cross Stroke: (f/t) 
-- Crossbar: (A/H) 
-- Crotch: (V/W/Y) - where two strokes meet and form an interior angle.
-- Descender: (g, j, p, q, y, etc.) 
-- Double-storey: A double-storey ‘a’ or ‘g’ has two counters.
-- Ear: Typically found on the lowercase double storey ‘g’, an ear is a finishing stroke usually on the upper right side of the bowl.
-- Eye: Enclosed space in a lowercase ‘e’. 
-- Finial / Taper 
-- Flag: The horizontal stroke at the top of the numeral ‘5’.
-- Gadzook: An embellishment that connects the letters in a ligature but is not originally part of either letter. 
-- Hook: of ‘f’,‘J’ and ‘j’. 
-- Ink trap 
-- Leg: (‘K’, ‘k’ and ‘R’) 
-- Ligature: (‘fi’, ‘fl’, ‘ff’, ‘ffl’) 
-- Loop/Lobe: In some double-storey ‘g’
-- Neck / Link: The link connecting the top and bottom bowls of some lowercase ‘g’. 
-- Shoulder: arm that is connected on both ends (‘h’, ‘m’, ‘n’) 
-- Spine: The main curve in ‘S’ and ‘s’. 
-- Spur: Small protruding part on uppercase ‘G’.
-- Stem
-- Swash
-- Tail: of an uppercase ‘Q’. 
-- Tittle: The dot on the ‘i’ and the ‘j’.
-- Vertex: The point at the bottom (or top) of a character where two strokes meet, for example the ‘v’, ‘V’, ‘w’, ‘W’ etc.
+1. Aperture: (n, c, C, s, S, e) 
+2. Apex: in the capital ‘A’.
+3. Arm: A horizontal or upward, sloping stroke that does not connect. (r,E,F,T,V)
+4. Ascender: (‘b’, ‘d’, ‘f’, ‘h’, ‘k’, etc.) 
+5. Axis / Stress 
+6. Ball / Teardrop Terminal (‘f’) 
+7. Beak: decorative stroke at the end of the arm (More pronounced serifs of E, F)
+8. Bowl: (d,b,o,D,B) 
+9. Counter: The open or negative space in a fully or partly closed area within a letter. Bowl + Aperture letters.
+10. Cross Stroke: (f/t) 
+11. Crossbar: (A/H) 
+12. Crotch: (V/W/Y) - where two strokes meet and form an interior angle.
+13. Descender: (g, j, p, q, y, etc.) 
+14. Double-storey: A double-storey ‘a’ or ‘g’ has two counters.
+15. Ear: Typically found on the lowercase double storey ‘g’, an ear is a finishing stroke usually on the upper right side of the bowl.
+16. Eye: Enclosed space in a lowercase ‘e’. 
+17. Finial / Taper 
+18. Flag: The horizontal stroke at the top of the numeral ‘5’.
+19. Gadzook: An embellishment that connects the letters in a ligature but is not originally part of either letter. 
+20. Hook: of ‘f’,‘J’ and ‘j’. 
+21. Ink trap 
+22. Leg: (‘K’, ‘k’ and ‘R’) 
+23. Ligature: (‘fi’, ‘fl’, ‘ff’, ‘ffl’) 
+24. Loop/Lobe: In some double-storey ‘g’
+25. Neck / Link: The link connecting the top and bottom bowls of some lowercase ‘g’. 
+26. Shoulder: arm that is connected on both ends (‘h’, ‘m’, ‘n’) 
+27. Spine: The main curve in ‘S’ and ‘s’. 
+28. Spur: Small protruding part on uppercase ‘G’.
+29. Stem
+30. Swash
+31. Tail: of an uppercase ‘Q’. 
+32. Tittle: The dot on the ‘i’ and the ‘j’.
+33. Vertex: The point at the bottom (or top) of a character where two strokes meet, for example the ‘v’, ‘V’, ‘w’, ‘W’ etc.
 
 ## Variants 
 
@@ -239,36 +249,36 @@ The common typeface classifications are:
 
 ## Type Designers / Typographers
 
-- Adrian Frutiger (Swiss) Univers, Frutiger, Avenir
-- Albert-Jan Pool (Dutch) FF DIN, DIN 1451
-- Carol Twombly (American) Trajan, Myriad, Adobe Caslon
-- Claude Garamond (French)
-- Donald Knuth (American) Computer Modern
-- Ed Benguiat (American) Tiffany, Bookman, Panache, Souvenir, Benguiat and Benguiat Gothic.
-- Edward Johnston (British)
-- Eric Gill (British) Gill Sans, Perpetua, Joanna
-- Erik Spiekermann (German) FF Meta, ITC Officina Sans, FF Info
-- Firmin Didot (French)
-- Frederic Goudy (American) Copperplate Gothic, Goudy Old Style and Kennerley
-- Giambattista Bodoni (Italian)
-- Hermann Zapf (German) Optima, Palatino, ITC Zapf Chancery, ITC Zapf Dingbats, Zapfino
-- Jan Tschichold (Swiss) Sabon, Zeus
-- Johann Christian Bauer (German) Fette Fraktur
-- Johannes Gutenberg (German)
-- John Baskerville (British)
-- Jonathan Hoefler (American) Hoefler Text, Requiem, Archer (with Frere-Jones)
-- Margaret Calvert (British) Transport, Rail Alphabet, Motorway, Calvert
-- Martin Majoor (Dutch) FF Scala (1991) Telefont (1994)
-- Matthew Carter (British) Georgia, Verdana, Tahoma, Bell Centennial, Skia
-- Max Miedinger (Swiss) Helvetica (with Eduard Hoffmann)
-- Morris Fuller Benton (American) Franklin Gothic, Century Schoolbook, News Gothic, Bank Gothic,  Hobo, and Broadway
-- Neville Brody (British) FF Blur, Industria, Arcadia
-- Oswald Bruce 'Oz' Cooper (American) Cooper Black
-- Paul Renner (German) Futura
-- Robert Slimbach (American) Minion, Adobe Garamond, Utopia, Garamond Premier
-- Stanley Morison (British) Times New Roman (with Victor Lardent), revival of Baskerville
-- Tobias Frere-Jones (American) Gotham, Interstate, Archer (with Jonathan Hoefler)
-- Zuzana Licko (Slovak-born American) Mrs Eaves (based on Baskerville) and Filosofia (based on Bodoni).
+1. Adrian Frutiger (Swiss) Univers, Frutiger, Avenir
+2. Albert-Jan Pool (Dutch) FF DIN, DIN 1451
+3. Carol Twombly (American) Trajan, Myriad, Adobe Caslon
+4. Claude Garamond (French)
+5. Donald Knuth (American) Computer Modern
+6. Ed Benguiat (American) Tiffany, Bookman, Panache, Souvenir, Benguiat and Benguiat Gothic.
+7. Edward Johnston (British)
+8. Eric Gill (British) Gill Sans, Perpetua, Joanna
+9. Erik Spiekermann (German) FF Meta, ITC Officina Sans, FF Info
+10. Firmin Didot (French)
+11. Frederic Goudy (American) Copperplate Gothic, Goudy Old Style and Kennerley
+12. Giambattista Bodoni (Italian)
+13. Hermann Zapf (German) Optima, Palatino, ITC Zapf Chancery, ITC Zapf Dingbats, Zapfino
+14. Jan Tschichold (Swiss) Sabon, Zeus
+15. Johann Christian Bauer (German) Fette Fraktur
+16. Johannes Gutenberg (German)
+17. John Baskerville (British)
+18. Jonathan Hoefler (American) Hoefler Text, Requiem, Archer (with Frere-Jones)
+19. Margaret Calvert (British) Transport, Rail Alphabet, Motorway, Calvert
+20. Martin Majoor (Dutch) FF Scala (1991) Telefont (1994)
+21. Matthew Carter (British) Georgia, Verdana, Tahoma, Bell Centennial, Skia
+22. Max Miedinger (Swiss) Helvetica (with Eduard Hoffmann)
+23. Morris Fuller Benton (American) Franklin Gothic, Century Schoolbook, News Gothic, Bank Gothic,  Hobo, and Broadway
+24. Neville Brody (British) FF Blur, Industria, Arcadia
+25. Oswald Bruce 'Oz' Cooper (American) Cooper Black
+26. Paul Renner (German) Futura
+27. Robert Slimbach (American) Minion, Adobe Garamond, Utopia, Garamond Premier
+28. Stanley Morison (British) Times New Roman (with Victor Lardent), revival of Baskerville
+29. Tobias Frere-Jones (American) Gotham, Interstate, Archer (with Jonathan Hoefler)
+30. Zuzana Licko (Slovak-born American) Mrs Eaves (based on Baskerville) and Filosofia (based on Bodoni).
 
 ### Clones
 
@@ -419,39 +429,39 @@ FF Meta clone
 
 
 ## Aggregators
-- [1001 Free Fonts](https://www.1001freefonts.com/)
-- [Abstract Fonts](https://www.abstractfonts.com/). 10,000+ fonts.
-- [BeFonts](https://befonts.com/)
-- [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
-- [CreativeTacos](https://creativetacos.com/category/free-fonts/). 3300 fonts
-- [DaFont](https://www.dafont.com/). 82,320 fonts.
-- [Dafont Free](https://www.dafontfree.io/). 14,265 fonts.
-- [Font Library](https://fontlibrary.org/en/catalogue). 1,366 fonts.
-- [Fontasy](http://fontasy.org/)
-- [FontBundles](https://fontbundles.net/free-fonts)
-- [FontCubes](http://www.fontcubes.com/)
-- [Fontfabric](https://www.fontfabric.com/free-fonts/)
-- [FontM](https://fontm.com/)
-- [FontPalace](https://www.fontpalace.com/)
-- [FontPark](https://fontpark.com/)
-- [FontReach](https://www.fontreach.com/). 2,700 fonts.
-- [FontRiver](https://www.fontriver.com/). 60,000 fonts.
-- [fonts.com](https://www.fonts.com/browse?priceMax=family:pricing:free) Free section
-- [Fontsly](https://fontsly.com/)
-- [FontSpace](https://www.fontspace.com/)
-- [FontSpring](https://www.fontspring.com/)
-- [FontSquirrel](https://www.fontsquirrel.com/)
-- [FontStruct](https://fontstruct.com/gallery)
-- [FontZone](https://fontzone.net/)
-- [FreebiesBug](https://freebiesbug.com/free-fonts/) 
-- [GitHub](https://github.com/topics/font)
-- [The Velvetyne Type Foundry (VTF)](https://velvetyne.fr/)
-- [Urban Fonts](https://www.urbanfonts.com/free-fonts.htm)
+1. [1001 Free Fonts](https://www.1001freefonts.com/)
+2. [Abstract Fonts](https://www.abstractfonts.com/). 10,000+ fonts.
+3. [BeFonts](https://befonts.com/)
+4. [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
+5. [CreativeTacos](https://creativetacos.com/category/free-fonts/). 3300 fonts
+6. [DaFont](https://www.dafont.com/). 82,320 fonts.
+7. [Dafont Free](https://www.dafontfree.io/). 14,265 fonts.
+8. [Font Library](https://fontlibrary.org/en/catalogue). 1,366 fonts.
+9. [Fontasy](http://fontasy.org/)
+10. [FontBundles](https://fontbundles.net/free-fonts)
+11. [FontCubes](http://www.fontcubes.com/)
+12. [Fontfabric](https://www.fontfabric.com/free-fonts/)
+13. [FontM](https://fontm.com/)
+14. [FontPalace](https://www.fontpalace.com/)
+15. [FontPark](https://fontpark.com/)
+16. [FontReach](https://www.fontreach.com/). 2,700 fonts.
+17. [FontRiver](https://www.fontriver.com/). 60,000 fonts.
+18. [fonts.com](https://www.fonts.com/browse?priceMax=family:pricing:free) Free section
+19. [Fontsly](https://fontsly.com/)
+20. [FontSpace](https://www.fontspace.com/)
+21. [FontSpring](https://www.fontspring.com/)
+22. [FontSquirrel](https://www.fontsquirrel.com/)
+23. [FontStruct](https://fontstruct.com/gallery)
+24. [FontZone](https://fontzone.net/)
+25. [FreebiesBug](https://freebiesbug.com/free-fonts/) 
+26. [GitHub](https://github.com/topics/font)
+27. [The Velvetyne Type Foundry (VTF)](https://velvetyne.fr/)
+28. [Urban Fonts](https://www.urbanfonts.com/free-fonts.htm)
 
 ## Marketplaces
-1. [Monotype Fonts](https://www.monotypefonts.com/)
-2. [Adobe Fonts](https://fonts.adobe.com/)
-3. [Google Fonts](https://fonts.google.com/)
+- [Monotype Fonts](https://www.monotypefonts.com/)
+- [Adobe Fonts](https://fonts.adobe.com/)
+- [Google Fonts](https://fonts.google.com/)
 
 
 ## Reference
