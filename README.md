@@ -1,25 +1,6 @@
 # Typeface Trivia
 Become a Type Snob in 10 minutes. 💝
 
-## Key rules 
-
-- The typographic quality of your document is determined largely by how the body text looks.
-- The appearance of the body text is determined primarily by these four typographic choices:
-  1. Font choice - avoid default fonts.
-  2. Point size - 10–12 pt for print. 15–25 px on web.
-  3. Line spacing - 120–145% of the point size.
-  4. Line length - 45–90 characters per line. 
-
-
-There are a variety of elements that work together to create a typographic hierarchy, including:
-
-1. Size
-2. Weight
-3. Color
-4. Contrast
-5. Case
-6. Position and alignment
-
 
 ## HISTORY
 
@@ -58,16 +39,34 @@ There are a variety of elements that work together to create a typographic hiera
 33. **WALBAUM** Designed by *Justus Erich Walbaum*, 1800
 
 
+## Key rules 
+
+- The typographic quality of your document is determined largely by how the body text looks.
+- The appearance of the body text is determined primarily by these four typographic choices:
+1. Font choice - avoid default fonts.
+2. Point size - 10–12 pt for print. 15–25 px on web.
+3. Line spacing - 120–145% of the point size.
+4. Line length - 45–90 characters per line. 
+
+There are a variety of elements that work together to create a typographic hierarchy, including:
+
+1. Size
+2. Weight
+3. Color
+4. Contrast
+5. Case
+6. Position and alignment
+
 ## Terminology 
 
 1. **Font**: particular size or style of a typeface, say 10 point regular or 24 point italic.
 2. **Typeface**: the specific design of the letters, say Times New Roman or Baskerville.
 3. **Glyph**: individual symbols of the typeface, say  letter, number, punctuation mark, accented variations, etc. 
 4. Baseline, Cap Line, x-Height
-5. Tracking is Letter-Spacing. 
-6. Kerning is spacing between two specific letters, eg. LT, VA or To.
-7. Leading is Line-Spacing.
-8. Fixed-width is Monospaced.
+5. **Tracking** is Letter-Spacing. 
+6. **Kerning** is spacing between two specific letters, eg. LT, VA or To.
+7. **Leading** is Line-Spacing.
+8. Fixed-width is **Monospaced**.
 9. Italics is *not* same as Slanted or Oblique.
 10. **Grotesk**: The common German name for sans serif faces, as opposed to “Antiqua” which means serif face.
 11. **Antiqua**: The common German and Scandinavian names for serif faces, The Scandinavian name is “Antikva”.
@@ -79,39 +78,39 @@ There are a variety of elements that work together to create a typographic hiera
 
 ## Anatomy
 
-1. Aperture: (n, c, C, s, S, e) 
-2. Apex: in the capital ‘A’.
-3. Arm: A horizontal or upward, sloping stroke that does not connect. (r,E,F,T,V)
-4. Ascender: (‘b’, ‘d’, ‘f’, ‘h’, ‘k’, etc.) 
-5. Axis / Stress 
-6. Ball / Teardrop Terminal (‘f’) 
-7. Beak: decorative stroke at the end of the arm (More pronounced serifs of E, F)
-8. Bowl: (d,b,o,D,B) 
-9. Counter: The open or negative space in a fully or partly closed area within a letter. Bowl + Aperture letters.
-10. Cross Stroke: (f/t) 
-11. Crossbar: (A/H) 
-12. Crotch: (V/W/Y) - where two strokes meet and form an interior angle.
-13. Descender: (g, j, p, q, y, etc.) 
+1. **Aperture**: (n, c, C, s, S, e) 
+2. **Apex**: in the capital ‘A’.
+3. **Arm**: A horizontal or upward, sloping stroke that does not connect. (r,E,F,T,V)
+4. **Ascender**: (‘b’, ‘d’, ‘f’, ‘h’, ‘k’, etc.) 
+5. **Axis / Stress** 
+6. **Ball / Teardrop Terminal** (‘f’) 
+7. **Beak**: decorative stroke at the end of the arm (More pronounced serifs of E, F)
+8. **Bowl**: (d,b,o,D,B) 
+9. **Counter**: The open or negative space in a fully or partly closed area within a letter. Bowl + Aperture letters.
+10. **Cross Stroke**: (f/t) 
+11. **Crossbar**: (A/H) 
+12. **Crotch**: (V/W/Y) - where two strokes meet and form an interior angle.
+13. **Descender**: (g, j, p, q, y, etc.) 
 14. Double-storey: A double-storey ‘a’ or ‘g’ has two counters.
-15. Ear: Typically found on the lowercase double storey ‘g’, an ear is a finishing stroke usually on the upper right side of the bowl.
-16. Eye: Enclosed space in a lowercase ‘e’. 
-17. Finial / Taper 
-18. Flag: The horizontal stroke at the top of the numeral ‘5’.
-19. Gadzook: An embellishment that connects the letters in a ligature but is not originally part of either letter. 
-20. Hook: of ‘f’,‘J’ and ‘j’. 
-21. Ink trap 
-22. Leg: (‘K’, ‘k’ and ‘R’) 
-23. Ligature: (‘fi’, ‘fl’, ‘ff’, ‘ffl’) 
-24. Loop/Lobe: In some double-storey ‘g’
-25. Neck / Link: The link connecting the top and bottom bowls of some lowercase ‘g’. 
-26. Shoulder: arm that is connected on both ends (‘h’, ‘m’, ‘n’) 
-27. Spine: The main curve in ‘S’ and ‘s’. 
-28. Spur: Small protruding part on uppercase ‘G’.
-29. Stem
-30. Swash
-31. Tail: of an uppercase ‘Q’. 
-32. Tittle: The dot on the ‘i’ and the ‘j’.
-33. Vertex: The point at the bottom (or top) of a character where two strokes meet, for example the ‘v’, ‘V’, ‘w’, ‘W’ etc.
+15. **Ear**: Typically found on the lowercase double storey ‘g’, an ear is a finishing stroke usually on the upper right side of the bowl.
+16. **Eye**: Enclosed space in a lowercase ‘e’. 
+17. **Finial / Taper** 
+18. **Flag**: The horizontal stroke at the top of the numeral ‘5’.
+19. **Gadzook**: An embellishment that connects the letters in a ligature but is not originally part of either letter. 
+20. **Hook**: of ‘f’,‘J’ and ‘j’. 
+21. **Ink trap** 
+22. **Leg**: (‘K’, ‘k’ and ‘R’) 
+23. **Ligature**: (‘fi’, ‘fl’, ‘ff’, ‘ffl’) 
+24. **Loop/Lobe**: In some double-storey ‘g’
+25. **Neck / Link**: The link connecting the top and bottom bowls of some lowercase ‘g’. 
+26. **Shoulder**: arm that is connected on both ends (‘h’, ‘m’, ‘n’) 
+27. **Spine**: The main curve in ‘S’ and ‘s’. 
+28. **Spur**: Small protruding part on uppercase ‘G’.
+29. **Stem**
+30. **Swash**
+31. **Tail**: of an uppercase ‘Q’. 
+32. **Tittle**: The dot on the ‘i’ and the ‘j’.
+33. **Vertex**: The point at the bottom (or top) of a character where two strokes meet, for example the ‘v’, ‘V’, ‘w’, ‘W’ etc.
 
 ## Variants 
 
@@ -249,36 +248,36 @@ The common typeface classifications are:
 
 ## Type Designers / Typographers
 
-1. Adrian Frutiger (Swiss) Univers, Frutiger, Avenir
-2. Albert-Jan Pool (Dutch) FF DIN, DIN 1451
-3. Carol Twombly (American) Trajan, Myriad, Adobe Caslon
-4. Claude Garamond (French)
-5. Donald Knuth (American) Computer Modern
-6. Ed Benguiat (American) Tiffany, Bookman, Panache, Souvenir, Benguiat and Benguiat Gothic.
-7. Edward Johnston (British)
-8. Eric Gill (British) Gill Sans, Perpetua, Joanna
-9. Erik Spiekermann (German) FF Meta, ITC Officina Sans, FF Info
-10. Firmin Didot (French)
-11. Frederic Goudy (American) Copperplate Gothic, Goudy Old Style and Kennerley
-12. Giambattista Bodoni (Italian)
-13. Hermann Zapf (German) Optima, Palatino, ITC Zapf Chancery, ITC Zapf Dingbats, Zapfino
-14. Jan Tschichold (Swiss) Sabon, Zeus
-15. Johann Christian Bauer (German) Fette Fraktur
-16. Johannes Gutenberg (German)
-17. John Baskerville (British)
-18. Jonathan Hoefler (American) Hoefler Text, Requiem, Archer (with Frere-Jones)
-19. Margaret Calvert (British) Transport, Rail Alphabet, Motorway, Calvert
-20. Martin Majoor (Dutch) FF Scala (1991) Telefont (1994)
-21. Matthew Carter (British) Georgia, Verdana, Tahoma, Bell Centennial, Skia
-22. Max Miedinger (Swiss) Helvetica (with Eduard Hoffmann)
-23. Morris Fuller Benton (American) Franklin Gothic, Century Schoolbook, News Gothic, Bank Gothic,  Hobo, and Broadway
-24. Neville Brody (British) FF Blur, Industria, Arcadia
-25. Oswald Bruce 'Oz' Cooper (American) Cooper Black
-26. Paul Renner (German) Futura
-27. Robert Slimbach (American) Minion, Adobe Garamond, Utopia, Garamond Premier
-28. Stanley Morison (British) Times New Roman (with Victor Lardent), revival of Baskerville
-29. Tobias Frere-Jones (American) Gotham, Interstate, Archer (with Jonathan Hoefler)
-30. Zuzana Licko (Slovak-born American) Mrs Eaves (based on Baskerville) and Filosofia (based on Bodoni).
+1. **ADRIAN FRUTIGER** (Swiss) Univers, Frutiger, Avenir
+2. **ALBERT-JAN POOL** (Dutch) FF DIN, DIN 1451
+3. **CAROL TWOMBLY** (American) Trajan, Myriad, Adobe Caslon
+4. **CLAUDE GARAMOND** (French)
+5. **DONALD KNUTH** (American) Computer Modern
+6. **ED BENGUIAT** (American) Tiffany, Bookman, Panache, Souvenir, Benguiat and Benguiat Gothic.
+7. **EDWARD JOHNSTON** (British)
+8. **ERIC GILL** (British) Gill Sans, Perpetua, Joanna
+9. **ERIK SPIEKERMANN** (German) FF Meta, ITC Officina Sans, FF Info
+10. **FIRMIN DIDOT** (French)
+11. **FREDERIC GOUDY** (American) Copperplate Gothic, Goudy Old Style and Kennerley
+12. **GIAMBATTISTA BODONI** (Italian)
+13. **HERMANN ZAPF** (German) Optima, Palatino, ITC Zapf Chancery, ITC Zapf Dingbats, Zapfino
+14. **JAN TSCHICHOLD** (Swiss) Sabon, Zeus
+15. **JOHANN CHRISTIAN BAUER** (German) Fette Fraktur
+16. **JOHANNES GUTENBERG** (German)
+17. **JOHN BASKERVILLE** (British)
+18. **JONATHAN HOEFLER** (American) Hoefler Text, Requiem, Archer (with Frere-Jones)
+19. **MARGARET CALVERT** (British) Transport, Rail Alphabet, Motorway, Calvert
+20. **MARTIN MAJOOR** (Dutch) FF Scala (1991) Telefont (1994)
+21. **MATTHEW CARTER** (British) Georgia, Verdana, Tahoma, Bell Centennial, Skia
+22. **MAX MIEDINGER** (Swiss) Helvetica (with Eduard Hoffmann)
+23. **MORRIS FULLER BENTON** (American) Franklin Gothic, Century Schoolbook, News Gothic, Bank Gothic,  Hobo, and Broadway
+24. **NEVILLE BRODY** (British) FF Blur, Industria, Arcadia
+25. **OSWALD BRUCE 'OZ' COOPER** (American) Cooper Black
+26. **PAUL RENNER** (German) Futura
+27. **ROBERT SLIMBACH** (American) Minion, Adobe Garamond, Utopia, Garamond Premier
+28. **STANLEY MORISON** (British) Times New Roman (with Victor Lardent), revival of Baskerville
+29. **TOBIAS FRERE-JONES** (American) Gotham, Interstate, Archer (with Jonathan Hoefler)
+30. **ZUZANA LICKO** (Slovak-born American) Mrs Eaves (based on Baskerville) and Filosofia (based on Bodoni).
 
 ### Clones
 
