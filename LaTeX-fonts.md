@@ -1,11 +1,21 @@
+## Fonts with variation commands
+
+- Fira Sans
+- Inter
+- Nunito
+- Overlock
+- Raleway
+- Roboto
+
+
+
 ## Superfamily
 
 + Alegreya - Alegreya, AlegreyaSans
 + Bera - Serif bera, berasans, beramono
 + DejaVu Serif, Sans, Mono, Condensed
 + Droid Serif, Sans, Mono
-+ Fira Sans Regular, Book, Math, Light, Extra Light, Ultra Light, Thin, Mono
-+ IBM Plex Serif, Sans and Mono: Regular, Light, ExtraLight, Thin, Bold, Text, Medium and SemiBold (with corresponding italics).
++ IBM Plex Serif, Sans and Mono
 + Inria Sans, Serif in Light, Regular 
 + KP Sans-Serif, Serif, Mono - sc
 + Libertinus Serif bfsc, bfit, Libertinus Sans, Mono
