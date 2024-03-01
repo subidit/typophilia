@@ -6,8 +6,23 @@
 - Overlock
 - Raleway
 - Roboto
+- SourceSerifPro & SourceSansPro
+- Montserrat `{\montserratalt ...}`
+- Merriweather and MerriweatherSans
 
 
+## Commands
+- To select oldstyle or lining figures locally, use `\oldstylenums{...}` or `\liningnums{...}`, respectively.
+- Options `scaled=<number>` or `scale=<number>` may be used to scale the fonts.
+
+
+## Figure versions
+- Lining figures, designed to match the uppercase letters in size and color
+- Old style figures (also known as text figures), designed to match lowercase letters
+
+### Two figure widths are also available:
+• Tabular figures, which each have the same width
+• Proportional figures, which vary in width according to their shape
 
 ## Superfamily
 
@@ -89,87 +104,76 @@
 
 ## Similar fonts
 
-HELVETICA
+### HELVETICA
+1. tgheros TEX Gyre Heros URW Nimbus Sans L qhv
+2. helvet phv
+3. uarial URW A030
+4. Archivo
+5. arimo Arimo
 
-    1. tgheros TEX Gyre Heros URW Nimbus Sans L qhv
-    2. helvet phv
-    3. uarial URW A030
-    4. Archivo
-    5. arimo Arimo
+### ITC Avant Garde Gothic
+1. tgadventor TEX Gyre Adventor URW Gothic L qag
+2. QT Avanti
 
-ITC Avant Garde Gothic
+### OPTIMA
+1. Biolinum 
+2. URW Classico
+3. Epigrafica
+4. Libertinus Sans
+5. Marcellus
+6. QT Optimum fontspec
 
-    1. tgadventor TEX Gyre Adventor URW Gothic L qag
-    2. QT Avanti
+### TIMES
+1. tgtermes TEX Gyre Termes	URW Nimbus Roman No9 L qtm
+2. mathptmx Times ptm
+3. Linux Libertine
+4. TX Fonts
+5. New TX (enhanced versions of the TX Fonts)
+6. Stix
+7. Tinos
+8. XITS based on [STIX fonts]
+9. Romande ADF (substitute for Times, Tiffany or Caslon.)
 
-OPTIMA
+### PALATINO
+1. tgpagella TEX Gyre Pagella URW Palladio L qpl
+2. palatino Palatino ppl
+3. Domitian
+4. KP Serif
+5. New PX
+6. PX Fonts
+7. QT Palatine
 
-    1. Biolinum 
-    2. URW Classico
-    3. Epigrafica
-    4. Libertinus Sans
-    5. Marcellus
-    6. QT Optimum fontspec
+### BOOKMAN
+1. tgbonum TEX Gyre Bonum URW Bookman L qbk
+2. bookman Bookman pbk
+3. Kerkis
 
-TIMES
+### Century Schoolbook
+1. tgschola TEX Gyre Schola	URW Century Schoolbook L qcs
+2. ScholaX
+3. QT School Century
 
-    1. tgtermes TEX Gyre Termes	URW Nimbus Roman No9 L qtm
-    2. mathptmx Times ptm
-    3. Linux Libertine
-    4. TX Fonts
-    5. New TX (enhanced versions of the TX Fonts)
-    6. Stix
-    7. Tinos
-    8. XITS based on [STIX fonts]
-    9. Romande ADF (substitute for Times, Tiffany or Caslon.)
+### CHARTER
+1. charter Charter bch
+2. Charter BT
+3. Charis SIL
+4. Bera Serif
+5. Bitter
+6. DejaVu Serif 
 
-PALATINO
+### ADOBE UTOPIA (Baskerville and Walbaum as influences)
+1. utopia Utopia put
+2. fourier Fourier put
+3. Heuristica
+4. Venturis ADF No2
 
-    1. tgpagella TEX Gyre Pagella URW Palladio L qpl
-    2. palatino Palatino ppl
-    3. Domitian
-    4. KP Serif
-    5. New PX
-    6. PX Fonts
-    7. QT Palatine
+### Bitstream Vera Sans
+1. Bera and Bera Sans
+2. Arev
 
-BOOKMAN
-
-    1. tgbonum TEX Gyre Bonum URW Bookman L qbk
-    2. bookman Bookman pbk
-    3. Kerkis
-
-Century Schoolbook
-
-    1. tgschola TEX Gyre Schola	URW Century Schoolbook L qcs
-    2. ScholaX
-    3. QT School Century
-
-CHARTER
-
-    1. charter Charter bch
-    2. Charis SIL
-    3. Bera Serif
-    4. Bitter
-    5. Charter BT \usepackage[bitstream-charter]{mathdesign}
-    6. DejaVu Serif 
-
-ADOBE UTOPIA (Baskerville and Walbaum as influences)
-
-    1. utopia Utopia put
-    2. fourier Fourier put
-    3. Heuristica
-    4. Venturis ADF No2
-
-Bitstream Vera Sans
-
-    1. Bera and Bera Sans
-    2. Arev
-
-BEMBO
-
-    1. ETbb
-    2. fbb
+### BEMBO
+1. ETbb
+2. fbb
 
 ## Notes
 * TeX Gyre enhanced version of URW 
