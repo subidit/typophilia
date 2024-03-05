@@ -4,15 +4,15 @@ Become a Type Snob in 10 minutes. 💝
 
 ## HISTORY
 
-1. **BASKERVILLE** Designed by *John Baskerville*, 1757
-2. **BODONI** Designed by *Giambattista Bodoni*, 1790s
-3. ADOBE **CASLON** Designed by *Carol Twombly*, 1990, based on pages printed by *William Caslon*, 1734-70
-4. **CENTAUR** Designed by *Bruce Rogers*, 1912-14. The *italic*, by *Frederic Warde*, is based on the fifteenth-century hand of *Ludovico delgi Arrighi*.
-5. **CENTURY EXPANDED** Designed by *Morris Fuller Benton*, 1900
-6. **CLARENDON** Named for the Clarendon Press, Oxford, who commissioned it in 1845
-7. HTF **DIDOT** Designed by *Jonathan Hoefler*, 1992, inspired by the types of *Francois Ambroise Didot*, 1784
-8. **FEDRA SANS** Designed by *Peter Bilak*, 2001, who was asked to create a "de-Prostestantized Univers"
-9. **FILOSOFIA** Designed by *Zuzana Licko*, 1996, a revival of the types of Bodoni
+01. **BASKERVILLE** Designed by *John Baskerville*, 1757
+02. **BODONI** Designed by *Giambattista Bodoni*, 1790s
+03. ADOBE **CASLON** Designed by *Carol Twombly*, 1990, based on pages printed by *William Caslon*, 1734-70
+04. **CENTAUR** Designed by *Bruce Rogers*, 1912-14. The *italic*, by *Frederic Warde*, is based on the fifteenth-century hand of *Ludovico delgi Arrighi*.
+05. **CENTURY EXPANDED** Designed by *Morris Fuller Benton*, 1900
+06. **CLARENDON** Named for the Clarendon Press, Oxford, who commissioned it in 1845
+07. HTF **DIDOT** Designed by *Jonathan Hoefler*, 1992, inspired by the types of *Francois Ambroise Didot*, 1784
+08. **FEDRA SANS** Designed by *Peter Bilak*, 2001, who was asked to create a "de-Prostestantized Univers"
+09. **FILOSOFIA** Designed by *Zuzana Licko*, 1996, a revival of the types of Bodoni
 10. **FRUTIGER** Designed by *Adrian Frutiger*, 1976
 11. **FRANKLIN GOTHIC** Designed by *Morris Fuller Benton*, 1904
 12. **FUTURA** Designed by *Paul Renner*, 1927, who sought an "honest expression of technical processes."
@@ -43,31 +43,31 @@ Become a Type Snob in 10 minutes. 💝
 
 - The typographic quality of your document is determined largely by how the body text looks.
 - The appearance of the body text is determined primarily by these four typographic choices:
-1. Font choice - avoid default fonts.
-2. Point size - 10–12 pt for print. 15–25 px on web.
-3. Line spacing - 120–145% of the point size.
-4. Line length - 45–90 characters per line. 
+01. Font choice - avoid default fonts.
+02. Point size - 10–12 pt for print. 15–25 px on web.
+03. Line spacing - 120–145% of the point size.
+04. Line length - 45–90 characters per line. 
 
 There are a variety of elements that work together to create a typographic hierarchy, including:
 
-1. Size
-2. Weight
-3. Color
-4. Contrast
-5. Case
-6. Position and alignment
+01. Size
+02. Weight
+03. Color
+04. Contrast
+05. Case
+06. Position and alignment
 
 ## Terminology 
 
-1. **Font**: particular size or style of a typeface, say 10 point regular or 24 point italic.
-2. **Typeface**: the specific design of the letters, say Times New Roman or Baskerville.
-3. **Glyph**: individual symbols of the typeface, say  letter, number, punctuation mark, accented variations, etc. 
-4. Baseline, Cap Line, x-Height
-5. **Tracking** is Letter-Spacing. 
-6. **Kerning** is spacing between two specific letters, eg. LT, VA or To.
-7. **Leading** is Line-Spacing.
-8. Fixed-width is **Monospaced**.
-9. Italics is *not* same as Slanted or Oblique.
+01. **Font**: particular size or style of a typeface, say 10 point regular or 24 point italic.
+02. **Typeface**: the specific design of the letters, say Times New Roman or Baskerville.
+03. **Glyph**: individual symbols of the typeface, say  letter, number, punctuation mark, accented variations, etc. 
+04. Baseline, Cap Line, x-Height
+05. **Tracking** is Letter-Spacing. 
+06. **Kerning** is spacing between two specific letters, eg. LT, VA or To.
+07. **Leading** is Line-Spacing.
+08. Fixed-width is **Monospaced**.
+09. Italics is *not* same as Slanted or Oblique.
 10. **Grotesk**: The common German name for sans serif faces, as opposed to “Antiqua” which means serif face.
 11. **Antiqua**: The common German and Scandinavian names for serif faces, The Scandinavian name is “Antikva”.
 12. **Roman**: Standard type style or regular weight of an upright typeface
@@ -78,15 +78,15 @@ There are a variety of elements that work together to create a typographic hiera
 
 ## Anatomy
 
-1. **Aperture**: (n, c, C, s, S, e) 
-2. **Apex**: in the capital ‘A’.
-3. **Arm**: A horizontal or upward, sloping stroke that does not connect. (r,E,F,T,V)
-4. **Ascender**: (‘b’, ‘d’, ‘f’, ‘h’, ‘k’, etc.) 
-5. **Axis / Stress** 
-6. **Ball / Teardrop Terminal** (‘f’) 
-7. **Beak**: decorative stroke at the end of the arm (More pronounced serifs of E, F)
-8. **Bowl**: (d,b,o,D,B) 
-9. **Counter**: The open or negative space in a fully or partly closed area within a letter. Bowl + Aperture letters.
+01. **Aperture**: (n, c, C, s, S, e) 
+02. **Apex**: in the capital ‘A’.
+03. **Arm**: A horizontal or upward, sloping stroke that does not connect. (r,E,F,T,V)
+04. **Ascender**: (‘b’, ‘d’, ‘f’, ‘h’, ‘k’, etc.) 
+05. **Axis / Stress** 
+06. **Ball / Teardrop Terminal** (‘f’) 
+07. **Beak**: decorative stroke at the end of the arm (More pronounced serifs of E, F)
+08. **Bowl**: (d,b,o,D,B) 
+09. **Counter**: The open or negative space in a fully or partly closed area within a letter. Bowl + Aperture letters.
 10. **Cross Stroke**: (f/t) 
 11. **Crossbar**: (A/H) 
 12. **Crotch**: (V/W/Y) - where two strokes meet and form an interior angle.
@@ -159,37 +159,37 @@ There are a variety of elements that work together to create a typographic hiera
 
 The common typeface classifications are:
 
-1. Serif
-2. Sans serif
-3. Monospaced
-4. Display
-5. Script
+01. Serif
+02. Sans serif
+03. Monospaced
+04. Display
+05. Script
 
 
 ### Vox-ATypI classification 
 
-1. Classicals (*Oldstyle Serif*)
-   1. Humanist: imitates the formal hands found in the humanistic (renaissance) manuscripts (15th century, Venetian printers).
-   2. Garalde: (Aldine) have finer proportions than the humanists, and a stronger contrast between downstroke and upstroke.
-   3. Transitional: (Realist) Even more contrast between main and connecting strokes.
+01. Classicals (*Oldstyle Serif*)
+   01. Humanist: imitates the formal hands found in the humanistic (renaissance) manuscripts (15th century, Venetian printers).
+   02. Garalde: (Aldine) have finer proportions than the humanists, and a stronger contrast between downstroke and upstroke.
+   03. Transitional: (Realist) Even more contrast between main and connecting strokes.
 
-2. Moderns
-   1. Didone: hairline serifs.  
-   2. Mechanistic: Slab-Serif.
-   3. Lineal: Sans-Serif
+02. Moderns
+   01. Didone: hairline serifs.  
+   02. Mechanistic: Slab-Serif.
+   03. Lineal: Sans-Serif
       1. Grotesque: some degree of contrast between thick and thin strokes.
       2. Neo-grotesque: less stroke contrast and a more regular design. 
       3. Geometric: constructed from simple geometric shapes, circles or rectangles.
       4. Humanist: relate to the earlier, classical handwritten monumental Roman capitals and a lowercase similar in form to the Carolingian script. 
 
-3. Calligraphics
-   1. Glyphic: (Incised) incised, or incise are typefaces which evoke the engraving or chiseling of characters in stone or metal, as opposed to calligraphic handwriting.
-   2. Script: typefaces which evoke the formal penmanship of cursive writing. They seem to be written with a quill and have a strong slope.
-   3. Graphic: are based on hand-drawn originals which are slowly written with either a brush, pen, pencil, or other writing instrument. 
-   4. Blackletter: are characterized by pointed and angular forms, and are modeled on late medieval hands written with a broad-nibbed pen.
-   5. Gaelic (Insular script)
+03. Calligraphics
+   01. Glyphic: (Incised) incised, or incise are typefaces which evoke the engraving or chiseling of characters in stone or metal, as opposed to calligraphic handwriting.
+   02. Script: typefaces which evoke the formal penmanship of cursive writing. They seem to be written with a quill and have a strong slope.
+   03. Graphic: are based on hand-drawn originals which are slowly written with either a brush, pen, pencil, or other writing instrument. 
+   04. Blackletter: are characterized by pointed and angular forms, and are modeled on late medieval hands written with a broad-nibbed pen.
+   05. Gaelic (Insular script)
 
-4. Non-Latin
+04. Non-Latin
 
 ### Examples
 
@@ -242,21 +242,22 @@ The common typeface classifications are:
 * FontFont (FF)
 * Google Design
 * Indian Type Foundry (ITF)
+* Klim Type Foundry
 * P22 Type Foundry
 * Typotheque
 
 
 ## Type Designers / Typographers
 
-1. **ADRIAN FRUTIGER** (Swiss) Univers, Frutiger, Avenir
-2. **ALBERT-JAN POOL** (Dutch) FF DIN, DIN 1451
-3. **CAROL TWOMBLY** (American) Trajan, Myriad, Adobe Caslon
-4. **CLAUDE GARAMOND** (French)
-5. **DONALD KNUTH** (American) Computer Modern
-6. **ED BENGUIAT** (American) Tiffany, Bookman, Panache, Souvenir, Benguiat and Benguiat Gothic.
-7. **EDWARD JOHNSTON** (British)
-8. **ERIC GILL** (British) Gill Sans, Perpetua, Joanna
-9. **ERIK SPIEKERMANN** (German) FF Meta, ITC Officina Sans, FF Info
+01. **ADRIAN FRUTIGER** (Swiss) Univers, Frutiger, Avenir
+02. **ALBERT-JAN POOL** (Dutch) FF DIN, DIN 1451
+03. **CAROL TWOMBLY** (American) Trajan, Myriad, Adobe Caslon
+04. **CLAUDE GARAMOND** (French)
+05. **DONALD KNUTH** (American) Computer Modern
+06. **ED BENGUIAT** (American) Tiffany, Bookman, Panache, Souvenir, Benguiat and Benguiat Gothic.
+07. **EDWARD JOHNSTON** (British)
+08. **ERIC GILL** (British) Gill Sans, Perpetua, Joanna
+09. **ERIK SPIEKERMANN** (German) FF Meta, ITC Officina Sans, FF Info
 10. **FIRMIN DIDOT** (French)
 11. **FREDERIC GOUDY** (American) Copperplate Gothic, Goudy Old Style and Kennerley
 12. **GIAMBATTISTA BODONI** (Italian)
@@ -266,18 +267,19 @@ The common typeface classifications are:
 16. **JOHANNES GUTENBERG** (German)
 17. **JOHN BASKERVILLE** (British)
 18. **JONATHAN HOEFLER** (American) Hoefler Text, Requiem, Archer (with Frere-Jones)
-19. **MARGARET CALVERT** (British) Transport, Rail Alphabet, Motorway, Calvert
-20. **MARTIN MAJOOR** (Dutch) FF Scala (1991) Telefont (1994)
-21. **MATTHEW CARTER** (British) Georgia, Verdana, Tahoma, Bell Centennial, Skia
-22. **MAX MIEDINGER** (Swiss) Helvetica (with Eduard Hoffmann)
-23. **MORRIS FULLER BENTON** (American) Franklin Gothic, Century Schoolbook, News Gothic, Bank Gothic,  Hobo, and Broadway
-24. **NEVILLE BRODY** (British) FF Blur, Industria, Arcadia
-25. **OSWALD BRUCE 'OZ' COOPER** (American) Cooper Black
-26. **PAUL RENNER** (German) Futura
-27. **ROBERT SLIMBACH** (American) Minion, Adobe Garamond, Utopia, Garamond Premier
-28. **STANLEY MORISON** (British) Times New Roman (with Victor Lardent), revival of Baskerville
-29. **TOBIAS FRERE-JONES** (American) Gotham, Interstate, Archer (with Jonathan Hoefler)
-30. **ZUZANA LICKO** (Slovak-born American) Mrs Eaves (based on Baskerville) and Filosofia (based on Bodoni).
+19. **KRIS SOWERSBY** (New Zealander) Untitled, Martina Plantijn, Founders Grotesk
+20. **MARGARET CALVERT** (British) Transport, Rail Alphabet, Motorway, Calvert
+21. **MARTIN MAJOOR** (Dutch) FF Scala (1991) Telefont (1994)
+22. **MATTHEW CARTER** (British) Georgia, Verdana, Tahoma, Bell Centennial, Skia
+23. **MAX MIEDINGER** (Swiss) Helvetica (with Eduard Hoffmann)
+24. **MORRIS FULLER BENTON** (American) Franklin Gothic, Century Schoolbook, News Gothic, Bank Gothic,  Hobo, and Broadway
+25. **NEVILLE BRODY** (British) FF Blur, Industria, Arcadia
+26. **OSWALD BRUCE 'OZ' COOPER** (American) Cooper Black
+27. **PAUL RENNER** (German) Futura
+28. **ROBERT SLIMBACH** (American) Minion, Adobe Garamond, Utopia, Garamond Premier
+29. **STANLEY MORISON** (British) Times New Roman (with Victor Lardent), revival of Baskerville
+30. **TOBIAS FRERE-JONES** (American) Gotham, Interstate, Archer (with Jonathan Hoefler)
+31. **ZUZANA LICKO** (Slovak-born American) Mrs Eaves (based on Baskerville) and Filosofia (based on Bodoni).
 
 ### Clones
 
@@ -323,7 +325,7 @@ FF Meta clone
 - PT Fonts (ParaType Russia) by Alexandra Korolkova et al, comprising PT Serif, PT Sans and PT Mono.
 - Quattrocento + Sans
 - Roboto (by Christian Robertson) Roboto, condensed, Roboto Slab and Roboto Mono
-- Rotis (by Otl Aicher) rotis serif, rotis semi-serif, rotis semi-sans and rotis sans
+I- Rotis (by Otl Aicher) rotis serif, rotis semi-serif, rotis semi-sans and rotis sans
 - Sassoon (by Rosemary Sassoon and Adrian William) Sassoon Sans, Sassoon Book, Sassoon Primary, Sassoon Infant and Sassoon Sans Slope
 - Source (Adobe) by Paul D. Hunt and Frank Grießhammer, comprising Source Sans Pro, Source Serif Pro and Source Code Pro
 - Stone by Sumner Stone, comprising Stone Serif, Stone Sans and Stone Informal
@@ -351,28 +353,28 @@ FF Meta clone
 - Bona Nova
 
 ## Free Typeface Catalogues
-1. [Beautiful Web Type](https://beautifulwebtype.com/). 39 typaces. Pairings, features.
-2. [indestructible type*](https://indestructibletype.com/Home.html) by Owen Earl. 7 typefaces.
-3. [Fontshare](https://www.fontshare.com/) by Indian Type Foundry. 100 fonts, 59 pairs.
-4. [Open Foundry](https://open-foundry.com/fonts). 31 variable fonts.
-5. [The League Of Moveable Type](https://www.theleagueofmoveabletype.com/). 17 typefaces.
-6. [Free Faces](https://www.freefaces.gallery/). 77 typefaces.
-7. [UNCUT.wtf](https://uncut.wtf/). 150 typefaces.
-8. [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
-9. [Fontsource](https://fontsource.org/) 1656 families.
+01. [Beautiful Web Type](https://beautifulwebtype.com/). 39 typaces. Pairings, features.
+02. [indestructible type*](https://indestructibletype.com/Home.html) by Owen Earl. 7 typefaces.
+03. [Fontshare](https://www.fontshare.com/) by Indian Type Foundry. 100 fonts, 59 pairs.
+04. [Open Foundry](https://open-foundry.com/fonts). 31 variable fonts.
+05. [The League Of Moveable Type](https://www.theleagueofmoveabletype.com/). 17 typefaces.
+06. [Free Faces](https://www.freefaces.gallery/). 77 typefaces.
+07. [UNCUT.wtf](https://uncut.wtf/). 150 typefaces.
+08. [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
+09. [Fontsource](https://fontsource.org/) 1656 families.
 10. [Brick](https://brick.im/fonts/) 60 typefaces.
 
 
 ## Noteworthy Free Fonts
-1. [Atkinson Hyperlegible](https://brailleinstitute.org/freefont)
-2. [Public Sans](https://public-sans.digital.gov/) by USWDS
-3. [Inter](https://rsms.me/inter/)
-4. [National Park Typeface](https://nationalparktypeface.com/)
-5. [London Underground Dot-Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
-6. [Canada1500](http://typodermicfonts.com/canada1500/)
-7. [Sweden Sans](https://identity.sweden.se/en/design-elements/typography)
-8. [Averia](http://iotic.com/averia/) - the average font
-9. [B612](https://b612-font.com/) - Aeronautical Font by Airbus for cockpit screens
+01. [Atkinson Hyperlegible](https://brailleinstitute.org/freefont)
+02. [Public Sans](https://public-sans.digital.gov/) by USWDS
+03. [Inter](https://rsms.me/inter/)
+04. [National Park Typeface](https://nationalparktypeface.com/)
+05. [London Underground Dot-Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
+06. [Canada1500](http://typodermicfonts.com/canada1500/)
+07. [Sweden Sans](https://identity.sweden.se/en/design-elements/typography)
+08. [Averia](http://iotic.com/averia/) - the average font
+09. [B612](https://b612-font.com/) - Aeronautical Font by Airbus for cockpit screens
 10. [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/) - lettering style found on technical drawings (More links to other fonts)
 11. [Geist](https://vercel.com/font/sans) - by Vercel, also has Monospace variant
 12. [Redaction](https://www.redaction.us/)
@@ -388,15 +390,15 @@ FF Meta clone
 22. [Luciole](https://www.luciole-vision.com/luciole-en.html) - for visually impaired people
 
 ## Fonts for code
-1. [NerdFonts](https://www.nerdfonts.com/font-downloads)
-2. [Monaspace](https://monaspace.githubnext.com/)
-3. [Input](https://input.djr.com/)
-4. [Iosevka](https://typeof.net/Iosevka/)
-5. [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
-6. [Hack](https://sourcefoundry.org/hack/)
-7. [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/)
-8. [Intel One Mono](https://github.com/intel/intel-one-mono)
-9. [Monocraft](https://github.com/IdreesInc/Monocraft) - Minecraft typeface
+01. [NerdFonts](https://www.nerdfonts.com/font-downloads)
+02. [Monaspace](https://monaspace.githubnext.com/)
+03. [Input](https://input.djr.com/)
+04. [Iosevka](https://typeof.net/Iosevka/)
+05. [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+06. [Hack](https://sourcefoundry.org/hack/)
+07. [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/)
+08. [Intel One Mono](https://github.com/intel/intel-one-mono)
+09. [Monocraft](https://github.com/IdreesInc/Monocraft) - Minecraft typeface
 10. [Commint Mono](https://commitmono.com/)
 11. [Comic Code](https://tosche.net/fonts/comic-code)
 12. [Victor Mono](https://rubjo.github.io/victor-mono/)
@@ -404,15 +406,15 @@ FF Meta clone
 
 
 ## WebApps
-1. [Identifont](http://www.identifont.com/index.html) - Fonts by appearance, name, similarity, designer or publisher.
-2. [TypeWar](https://typewar.com/) - Identify font game.
-3. [Shape Type](https://shape.method.ac/) - Adjust letter shape
-4. [Kern Type](https://type.method.ac/) - a letter spacing / kerning game.
-5. [ProgrammingFonts](https://www.programmingfonts.org/) - test drive 138 programming fonts
-6. [Coding Font](https://www.codingfont.com/) - find your favorite coding font
-7. [Wakamai Fondue](https://wakamaifondue.com/beta/) - What can my font do?
-8. [Golden Ratio Typography Calculator](https://grtcalculator.com/)
-9. [Modular Scale](https://www.modularscale.com/)
+01. [Identifont](http://www.identifont.com/index.html) - Fonts by appearance, name, similarity, designer or publisher.
+02. [TypeWar](https://typewar.com/) - Identify font game.
+03. [Shape Type](https://shape.method.ac/) - Adjust letter shape
+04. [Kern Type](https://type.method.ac/) - a letter spacing / kerning game.
+05. [ProgrammingFonts](https://www.programmingfonts.org/) - test drive 138 programming fonts
+06. [Coding Font](https://www.codingfont.com/) - find your favorite coding font
+07. [Wakamai Fondue](https://wakamaifondue.com/beta/) - What can my font do?
+08. [Golden Ratio Typography Calculator](https://grtcalculator.com/)
+09. [Modular Scale](https://www.modularscale.com/)
 10. [Typescale](https://typescale.com/)
 11. [Archetype](https://archetypeapp.com/) - Font pairing and size
 12. [Fontjoy](https://fontjoy.com/) - Font pairing made simple
@@ -428,15 +430,15 @@ FF Meta clone
 
 
 ## Aggregators
-1. [1001 Free Fonts](https://www.1001freefonts.com/)
-2. [Abstract Fonts](https://www.abstractfonts.com/). 10,000+ fonts.
-3. [BeFonts](https://befonts.com/)
-4. [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
-5. [CreativeTacos](https://creativetacos.com/category/free-fonts/). 3300 fonts
-6. [DaFont](https://www.dafont.com/). 82,320 fonts.
-7. [Dafont Free](https://www.dafontfree.io/). 14,265 fonts.
-8. [Font Library](https://fontlibrary.org/en/catalogue). 1,366 fonts.
-9. [Fontasy](http://fontasy.org/)
+01. [1001 Free Fonts](https://www.1001freefonts.com/)
+02. [Abstract Fonts](https://www.abstractfonts.com/). 10,000+ fonts.
+03. [BeFonts](https://befonts.com/)
+04. [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
+05. [CreativeTacos](https://creativetacos.com/category/free-fonts/). 3300 fonts
+06. [DaFont](https://www.dafont.com/). 82,320 fonts.
+07. [Dafont Free](https://www.dafontfree.io/). 14,265 fonts.
+08. [Font Library](https://fontlibrary.org/en/catalogue). 1,366 fonts.
+09. [Fontasy](http://fontasy.org/)
 10. [FontBundles](https://fontbundles.net/free-fonts)
 11. [FontCubes](http://www.fontcubes.com/)
 12. [Fontfabric](https://www.fontfabric.com/free-fonts/)
