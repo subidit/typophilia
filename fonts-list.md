@@ -1,6 +1,6 @@
-# Serif
+## Serif
 
-## Old Style
+### Old Style
 1. Jenson
 2. Caslon
 3. Garamond
@@ -15,25 +15,26 @@
 12. Plantin
 13. Sabon
 
-## Moderns
+### Moderns
 1. Bodoni
 2. Didot
 3. Walbaum
 4. Scotch Roman
 
-## Slab Serif
+### Slab Serif
 1. Rockwell
 2. Clarendon
 
 
-# Sans Serif
+## Sans Serif
 
-## Classics 
+### Grotesque 
 1. Akzidenz-Grotesk
 2. Helvetica
 3. Univers 
+4. Franklin Gothic
 
-## Geometric
+### Geometric
 1. Futura
 2. Eurostile
 3. Gotham
@@ -42,57 +43,78 @@
 6. Avant Garde
 7. Avenir
 
-## Humanist
+### Humanist
 1. Gill Sans
 2. Optima
 3. Frutiger
-4. Fira Sans
+4. FF Meta
+5. Myriad
 
 
-# Others
+## Others
 
-## Monospace
+### Monospace
 1. Fira Code
 2. Iosevka
 3. JetBrains Mono
 
-## Blackletter
+### Blackletter
 1. Fraktur
 2. Old English
 
-## Imitators
-1. OCR
-2. Comic Sans
-3. Zapfino
+### Decorative
+1. Calligraphic, Cursive, Handwriting 
+2. Foreign Script looking
+3. Stencil
 4. Mistral
-5. Chalkboard
-6. Stencil
-7. Calligraphic, Cursive, Handwriting 
-8. Graffiti
-9. Foreign Script looking
+5. American Typewriter
+6. Graffiti
+7. Grunge Fonts
+8. OCR
+9. Pixel fonts
 10. Dot Matrix fonts
 11. Digital Clock Calculator fonts
-12. Pixel fonts
-13. Brush Script 
+12. 608 and 708 closed captions
 
-## Dingbat
+### Dingbat
 1. Emojis 
 2. Wingdings
-3. Icon fonts
+3. Webdings
+4. Icon fonts
 
 
-# Common Fonts
-- Helvetica
-- Comic Sans
-- DIN
+# Often Disliked 
+There is no such thing as a bad font. There are only bad uses for fonts.
+
+1. Algerian
+2. Bleeding Cowboys
+3. Brush Script 
+4. Chalkboard
+5. Comic Sans
+6. Cooper Black
+7. Copperplate
+8. Curlz
+9. Hobo
+10. Impact
+11. Lobster
+12. Lucida Handwriting
+13. Papyrus
+14. Souvenir
+15. Trajan
+16. Zapfino
+
+## Default Fonts
+
+### Microsoft
 - Times New Roman
-- Trajan
-- Copperplate
-- Hobo
-- Papyrus
-- Impact
-- Cooper Black
-- 608 and 708 closed captions
+- Arial 
+- Calibri
+- Aptos
+
+### Apple
+- Lucida Grande
+- Helvetica Neue
+- San Francisco
 
 
 # Timeline
@@ -105,16 +127,19 @@
 ├── 1757 - Transitional (John Baskerville)
 ├── 1780 - Modern (Didot and Bodoni)
 ├── 1815 - Slab Serif (Vincent Figgins)
-├── 1816 - Sans Serif (William Caslon IV)
 │
-├── 1957 - Helvetica
+├── 1816 - Sans Serif (William Caslon IV)
+├── 1898 - Akzidenz-Grotesk
+├── 1927 - Futura
+├── 1957 - Univers, Helvetica
+├── 1976 - Frutiger
 │
 ├── 1968 - Digi Grotesk (Dr. Rudolf Hell) Bitmap fonts 
-├── 1974 - Vector fonts
-├── 1982 - PostScript
-├── 1991 - TrueType
-├── 1996 - OpenType
-├── 1997 - CSS
+├── 1974 - Vector or Outline fonts
+├── 1982 - PostScript (Adobe)
+├── 1991 - TrueType (Apple)
+├── 1996 - OpenType (Microsoft)
+├── 1996 - CSS
 ├── 2009 - Web Open Font Format (WOFF)
 └── 2016 - Variable fonts
 ```
