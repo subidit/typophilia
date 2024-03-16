@@ -96,7 +96,7 @@
 
 
 # Timeline
-
+```
 ┌── 1440 - Blackletter (Johannes Gutenberg)
 ├── 1470 - Roman Type (Nicolas Jenson)
 ├── 1501 - Italics (Aldus Manutius and Francesco Griffo)
@@ -117,3 +117,4 @@
 ├── 1997 - CSS
 ├── 2009 - Web Open Font Format (WOFF)
 └── 2016 - Variable fonts
+```
