@@ -103,3 +103,63 @@ Designed in the 1750s by John Baskerville (1706–1775) in Birmingham, England.
 1. Mrs Eaves (1996) - by Zuzana Licko, named after Baskerville's housekeeper-turned-wife. Not intended for extended body text, it is often used on book titles and headings.
 2. Big Moore by Matthew Carter
 3. Baskerville Old Face by Isaac Moore
+
+
+
+## Akzidenz-Grotesk
+
+1. Helvetica
+2. Univers
+3. Folio
+
+
+
+## Futura
+
+### Versions
+1. Futura Condensed
+2. Futura Demibold
+3. Futura Display (Futura Schlagzeile)
+4. Futura Black (Stencil fat face)
+5. Steile Futura (steil in German means "upright" or "steep". Rounder letters than Futura Display.)
+6. Futura Inline
+
+### Adaptations
+1. Architype Renner (1993) by The Foundry 
+2. Futura ND (1999) by Neufville Digital 
+3. Futura Next (2016)
+4. Futura PT by ParaType
+5. Futura by URW++
+6. Futura Classic
+7. FuturaRenner (2011) free and open source
+8. Futura Now by Monotype
+9. Avenir by Adrian Frutiger 
+10. Spartan
+11. Twentieth Century by Monotype
+12. Product Sans
+13. Century Gothic
+14. Tasse is a revival of Steile Futura.
+
+
+
+## Frutiger
+Named after its Swiss designer, Adrian Frutiger. Frutiger is a humanist sans-serif typeface, intended to be clear and highly legible at a distance or at small text sizes.
+Steve Matteson described its structure as "the best choice for legibility in pretty much any situation" at small text sizes, while Erik Spiekermann named it as "the best general typeface ever".
+
+1. Myriad (Adobe)
+2. Segoe UI (Microsoft)
+3. SST (Sony) by Akira Kobayashi in 2013, modeled after Frutiger and Helvetica.
+
+
+
+## Gill Sans
+Designed by Eric Gill and released by the British branch of Monotype from 1928 onwards.
+
+1. Bliss
+2. Today Sans 
+3. Rowton Sans
+4. Humanist 521 by Bitstream
+5. Syntax
+6. FF Scala Sans by Martin Majoor
+7. Mr Eaves (Mrs Eaves based on Baskerville)
+8. Dover Sans (Serif based on Caslon)
