@@ -1,19 +1,20 @@
 ## Serif
 
 ### Old Style
-1. Jenson
-2. Caslon
-3. Garamond
-4. Baskerville
-5. Times
-6. Goudy Old Style 
-7. Bembo
-8. Minion
-9. Mrs. Eaves
-10. Palatino
-11. Perpetua 
-12. Plantin
-13. Sabon
+1. Janson
+2. Adobe Jenson
+3. Caslon
+4. Garamond
+5. Baskerville
+6. Times
+7. Goudy Old Style 
+8. Bembo
+9. Minion
+10. Mrs. Eaves
+11. Palatino
+12. Perpetua 
+13. Plantin
+14. Sabon
 
 ### Moderns
 1. Bodoni
@@ -143,3 +144,15 @@ There is no such thing as a bad font. There are only bad uses for fonts.
 ├── 2009 - Web Open Font Format (WOFF)
 └── 2016 - Variable fonts
 ```
+
+# By Country
+
+## France
+Claude Garamond
+Robert Granjon
+Jean Jannon
+
+
+## Italy
+Aldus Manutius 
+Francesco Griffo - punchcutter of Aldus

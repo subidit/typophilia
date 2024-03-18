@@ -38,6 +38,7 @@ Become a Type Snob in 10 minutes. 💝
 32. **VERDANA** Designed by *Matthew Carter*, 1996, for display on screen
 33. **WALBAUM** Designed by *Justus Erich Walbaum*, 1800
 
+<small>source: Thinking with Type by Ellen Lupton</small>
 
 ## Key rules 
 
