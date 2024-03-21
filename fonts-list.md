@@ -145,14 +145,54 @@ There is no such thing as a bad font. There are only bad uses for fonts.
 └── 2016 - Variable fonts
 ```
 
-# By Country
+## Windows typefaces
+1. Aptos
+1. Arial 
+2. Avenir
+3. Baskerville Old Face
+4. Bembo
+5. Bodoni
+6. Book Antiqua 
+7. Bookman Old Style
+8. Calibri 
+9. Cambria
+10. Centaur
+11. Century, Century Gothic, Century Schoolbook
+12. Chiller
+13. Comic Sans
+14. Cooper Black
+15. Copperplate
+16. Franklin Gothic 
+17. Garamond	
+18. Georgia
+19. Gill Sans 
+20. Goudy Old Style
+21. Grotesque
+22. Impact
+23. Lucida family - Sans Typewriter
+24. Neue Haas Grotesk
+25. Palatino Linotype
+26. Papyrus
+27. Perpetua
+28. Rockwell
+29. Sabon Next LT
+30. Seaford - Tobias Frere-Jones designed it for Microsoft
+31. Sitka - Matthew Carter
+32. Source Sans Pro
+33. Tahoma
+34. Times New Roman
+35. Trade Gothic Next
+36. Trebuchet MS
+37. Univers
+38. Verdana
+39. Walbaum
 
-## France
-Claude Garamond
-Robert Granjon
-Jean Jannon
 
+## Notes
 
-## Italy
-Aldus Manutius 
-Francesco Griffo - punchcutter of Aldus
+* Amasis was designed by typeface designer Ron Carpenter for the Monotype foundry in 1990. It has five weights, from Light to Black, with a true italic companion for each. Amasis has been used as a default font for the Nook e-reader.
+* Type designer René Bieder designed Sagona in the “Clarendon” style, which was first popularized in the 19th century. He gave Sagona a warmer, more welcoming look than most Clarendon-style typefaces, which is especially noticeable in the almost bouncy upright lowercase ‘a’ and the jaunty curliless of the italic letters. Sagona has three weights, Book, Book Bold, and ExtraLight, each with its accompanying italic style.
+* Selawik was created for Microsoft by type designer Aaron Bell. It is compatible in character widths with Segoe UI, the typeface used for the user interface in Microsoft Windows. The purpose of Selawik was to provide a open-source sans serif compatible font for users on Mac, iOS, or Android, but it has become a popular typeface in its own right among Windows users.
+* Type designer Erin McLaughlin designed Tenorite for Microsoft. It has two weights, Regular and Bold, with slanted romans as complementary italic styles; it has the same weights and italic styles in its Display variation, which is designed for use a large sizes.
+* Trade Gothic was originally designed by Jackson Burke in 1948 for Linotype hot-metal typesetting. Trade Gothic Next was created in 2008 by Linotype Type Director, Akira Kobayashi, and American type designer Tom Grace, refining many details to make it successful as a computer typeface. Trade Gothic Next has four weights, Light, Regular, Bold, and Heavy, each with an oblique companion as its italic style; it also has three weights in a narrow width, Condensed, Condensed Bold, and Condensed Heavy, each with its italic complement. In addition, the family includes two unusual variations: SoftRound (Regular and Bold), with rounded ends to the strokes, and an all-capitals Inline and Inline Bold, with thin white lines inside each stroke.
+* Walbaum is an expansion of the original metal typefaces designed by Justus Erich Walbaum in Germany in the early 1800s. Monotype designers Carl Crossgrove and Charles Nix discovered their mutual enthusiasm for Walbaum’s types and took on the task of updating them, Crossgrove taking the text sizes and Nix handling the larger display range.

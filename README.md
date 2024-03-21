@@ -235,6 +235,7 @@ The common typeface classifications are:
   * Colophon 
 * Adobe Originals
 * Apple Inc.
+* Bauer type foundry
 * Blambot
 * Dalton Maag
 * Dharma Type
