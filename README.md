@@ -399,7 +399,7 @@ FF Meta clone
 7. [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/)
 8. [Intel One Mono](https://github.com/intel/intel-one-mono)
 9. [Monocraft](https://github.com/IdreesInc/Monocraft) - Minecraft typeface
-10. [Commint Mono](https://commitmono.com/)
+10. [Commit Mono](https://commitmono.com/)
 11. [Comic Code](https://tosche.net/fonts/comic-code)
 12. [Victor Mono](https://rubjo.github.io/victor-mono/)
 13. [MonoLisa](https://www.monolisa.dev/)
