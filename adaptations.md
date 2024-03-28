@@ -69,7 +69,7 @@ Named after the 16th-century Italian master of calligraphy Giambattista Palatino
 3. Palatino eText (2013)
 4. Palazzo Original by Softmaker
 5. Zapf Calligraphic by Bitstream
-6. Book Antiqua by Monotype - distributed with Microsoft Windows before licensing Palatino Linotype in Windows 2000.
+6. Book Antiqua by Monotype 
 7. URW Palladio L
 8. TeX Gyre Pagella
 9. Domitian

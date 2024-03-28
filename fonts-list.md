@@ -1,6 +1,6 @@
 ## Serif
 
-### Old Style
+### Classicals
 1. Janson
 2. Adobe Jenson
 3. Caslon
@@ -20,7 +20,8 @@
 1. Bodoni
 2. Didot
 3. Walbaum
-4. Scotch Roman
+4. Filosofia
+5. Scotch Roman
 
 ### Slab Serif
 1. Rockwell
@@ -118,33 +119,6 @@ There is no such thing as a bad font. There are only bad uses for fonts.
 - San Francisco
 
 
-# Timeline
-```
-┌── 1440 - Blackletter (Johannes Gutenberg)
-├── 1470 - Roman Type (Nicolas Jenson)
-├── 1501 - Italics (Aldus Manutius and Francesco Griffo)
-│
-├── 1734 - Old Style (William Caslon)
-├── 1757 - Transitional (John Baskerville)
-├── 1780 - Modern (Didot and Bodoni)
-├── 1815 - Slab Serif (Vincent Figgins)
-│
-├── 1816 - Sans Serif (William Caslon IV)
-├── 1898 - Akzidenz-Grotesk
-├── 1927 - Futura
-├── 1957 - Univers, Helvetica
-├── 1976 - Frutiger
-│
-├── 1968 - Digi Grotesk (Dr. Rudolf Hell) Bitmap fonts 
-├── 1974 - Vector or Outline fonts
-├── 1982 - PostScript (Adobe)
-├── 1991 - TrueType (Apple)
-├── 1996 - OpenType (Microsoft)
-├── 1996 - CSS
-├── 2009 - Web Open Font Format (WOFF)
-└── 2016 - Variable fonts
-```
-
 ## Windows typefaces
 1. Aptos
 1. Arial 
@@ -187,6 +161,20 @@ There is no such thing as a bad font. There are only bad uses for fonts.
 38. Verdana
 39. Walbaum
 
+## Fonts on GitHub
+
+1. [Liberation Fonts](https://github.com/liberationfonts/liberation-fonts)
+2. [Open Sauce Fonts](https://github.com/marcologous/Open-Sauce-Fonts)
+3. [+Jakarta Sans](https://github.com/tokotype/PlusJakartaSans)
+4. [Open Runde](https://github.com/lauridskern/open-runde) rounded variant of Inter. 
+5. [Young Serif](https://github.com/noirblancrouge/YoungSerif)
+6. [Optician Sans](https://github.com/anewtypeofinterference/Optician-Sans)
+7. [Metropolis](https://github.com/dw5/Metropolis)
+8. [Wanted Sans](https://github.com/wanteddev/wanted-sans)
+9. [Techna Sans](https://github.com/carlstype/techna-sans)
+10. [Overused Grotesk](https://github.com/RandomMaerks/Overused-Grotesk)
+11. [Aspekta](https://github.com/ivodolenc/aspekta)
+
 
 ## Notes
 
@@ -196,3 +184,4 @@ There is no such thing as a bad font. There are only bad uses for fonts.
 * Type designer Erin McLaughlin designed Tenorite for Microsoft. It has two weights, Regular and Bold, with slanted romans as complementary italic styles; it has the same weights and italic styles in its Display variation, which is designed for use a large sizes.
 * Trade Gothic was originally designed by Jackson Burke in 1948 for Linotype hot-metal typesetting. Trade Gothic Next was created in 2008 by Linotype Type Director, Akira Kobayashi, and American type designer Tom Grace, refining many details to make it successful as a computer typeface. Trade Gothic Next has four weights, Light, Regular, Bold, and Heavy, each with an oblique companion as its italic style; it also has three weights in a narrow width, Condensed, Condensed Bold, and Condensed Heavy, each with its italic complement. In addition, the family includes two unusual variations: SoftRound (Regular and Bold), with rounded ends to the strokes, and an all-capitals Inline and Inline Bold, with thin white lines inside each stroke.
 * Walbaum is an expansion of the original metal typefaces designed by Justus Erich Walbaum in Germany in the early 1800s. Monotype designers Carl Crossgrove and Charles Nix discovered their mutual enthusiasm for Walbaum’s types and took on the task of updating them, Crossgrove taking the text sizes and Nix handling the larger display range.
+* Book Antiqua by Monotype - distributed with Microsoft Windows before licensing Palatino Linotype in Windows 2000.
