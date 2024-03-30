@@ -1,13 +1,3 @@
-## Gossip
-
-- MRS EAVES designed by Zuzana Licko in 1996 is a variant of BASKERVILLE and named after Sarah Eaves, the woman who became John Baskerville's wife. As Baskerville was setting up his printing and type business, he hired Sarah Eaves as his live-in housekeeper; eventually, her husband Richard abandoned her and their five children, and Mrs Eaves became Baskerville's mistress and eventual helpmate with typesetting and printing. She married Baskerville within a month of her estranged husband's death.
-- ERIC GILL had several extramarital affairs. His other deviant sexual behaviours include, as described in his personal diaries, the child sexual abuse of his adolescent daughters, an incestuous relationship with at least one of his sisters and also sexual experiments with a dog.
-- Univers was intrinsically superior to Helvetica. It had a much larger family at the outset, with 21 members compared to four in 1960. More importantly, its family was logically designed with consistent weights and widths, something that Helvetica never achieved until its redesign as Neue Helvetica in 1982. Univers’ characters, stripped of “unnecessary” elements such as the beard on ‘G’ or the curve on the tail of ‘y,’ were also more rationally designed. [link](https://www.printmag.com/design-culture/univers-of-helvetica-history/)
-- FUTURA was preferred by the Nazis after they banned the use of Fraktur typefaced because of its visual similarity to Hebrew. This killed off Fraktur from any modern use other than, for example, heavy-metal bands and tattoos.
-- Tobias Frere-Jones filed a lawsuit against his erstwhile partner, Jonathan Hoefler, claiming that he’d been cheated out of his half of Hoefler & Frere-Jones.
-
-
-
 ## The 100 Top Typefaces 
 
 | Rank | Typeface Name             | Date | Type Designer                  | Category                           | Classification                            | Foundry                                    |

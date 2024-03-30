@@ -111,25 +111,90 @@
 4. Non-Latin
 
 
-# Often Disliked 
-There is no such thing as a bad font. There are only bad uses for fonts.
+## Notable fonts
+- Helvetica
+- Frutiger
+- Futura
+- Times
+- Gill Sans
+- Univers
+- Optima
+- Din
+- Palatino
+- Gotham
+- Didot
+- Cooper Black
+- Roboto
+- Century Schoolbook
+- Meta
+- Myriad
+- Bookman
+- Fraktur
+- Trajan
+- Comic Sans
 
-1. Algerian
-2. Bleeding Cowboys
-3. Brush Script 
-4. Chalkboard
-5. Comic Sans
-6. Cooper Black
-7. Copperplate
-8. Curlz
-9. Hobo
-10. Impact
-11. Lobster
-12. Lucida Handwriting
-13. Papyrus
-14. Souvenir
-15. Trajan
-16. Zapfino
+1. Humanist
+  - Jenson
+  - Centaur
+  - Trinité
+
+2. Garalde
+  - Garamond
+  - Bembo
+  - Sabon
+  - Minion
+  - Palatino
+  - Caslon 
+  - Janson 
+
+3. Transitional: 
+  - Baskerville
+  - Times
+  - Joanna
+  - Mrs Eaves
+  - Miller
+
+4. Didone
+  - Bodoni
+  - Didot
+  - Scotch Roman
+
+5. Mechanistic
+  - Clarendon 
+  - Egyptienne 
+  - Rockwell
+
+6. Grotesque
+  - Akzidenz Grotesk
+  - Franklin Gothic
+
+7. Neo-grotesque
+  - Helvetica
+  - Univers
+  - DIN
+  - Interstate
+
+8. Geometric
+  - Futura
+  - Eurostile
+  - Kabel
+  - Gotham
+  - Neutraface
+
+9. Humanist
+  - Gill Sans
+  - Optima
+  - Johnston
+  - Frutiger
+  - Meta
+  - Myriad
+
+10. Glyphic
+11. Script
+12. Graphic
+13. Blackletter
+14. Gaelic
+
 
 ## Default Fonts
 
@@ -202,6 +267,27 @@ There is no such thing as a bad font. There are only bad uses for fonts.
 11. [Aspekta](https://github.com/ivodolenc/aspekta)
 
 
+### Free sans serif font families
+- Archivo
+- Clear Sans
+- Inter
+- Jost*
+- Lato
+- Open Sans
+- Cabin
+- GoSans
+- Montserrat
+- Raleway
+- Work Sans
+
+### Serif typefaces
+- Crimson Pro
+- Vollkorn
+- Literata
+- Charis SIL
+- Bona Nova
+
+
 ## Notes
 
 * Amasis was designed by typeface designer Ron Carpenter for the Monotype foundry in 1990. It has five weights, from Light to Black, with a true italic companion for each. Amasis has been used as a default font for the Nook e-reader.
@@ -211,3 +297,12 @@ There is no such thing as a bad font. There are only bad uses for fonts.
 * Trade Gothic was originally designed by Jackson Burke in 1948 for Linotype hot-metal typesetting. Trade Gothic Next was created in 2008 by Linotype Type Director, Akira Kobayashi, and American type designer Tom Grace, refining many details to make it successful as a computer typeface. Trade Gothic Next has four weights, Light, Regular, Bold, and Heavy, each with an oblique companion as its italic style; it also has three weights in a narrow width, Condensed, Condensed Bold, and Condensed Heavy, each with its italic complement. In addition, the family includes two unusual variations: SoftRound (Regular and Bold), with rounded ends to the strokes, and an all-capitals Inline and Inline Bold, with thin white lines inside each stroke.
 * Walbaum is an expansion of the original metal typefaces designed by Justus Erich Walbaum in Germany in the early 1800s. Monotype designers Carl Crossgrove and Charles Nix discovered their mutual enthusiasm for Walbaum’s types and took on the task of updating them, Crossgrove taking the text sizes and Nix handling the larger display range.
 * Book Antiqua by Monotype - distributed with Microsoft Windows before licensing Palatino Linotype in Windows 2000.
+
+
+## Gossip
+
+- MRS EAVES designed by Zuzana Licko in 1996 is a variant of BASKERVILLE and named after Sarah Eaves, the woman who became John Baskerville's wife. As Baskerville was setting up his printing and type business, he hired Sarah Eaves as his live-in housekeeper; eventually, her husband Richard abandoned her and their five children, and Mrs Eaves became Baskerville's mistress and eventual helpmate with typesetting and printing. She married Baskerville within a month of her estranged husband's death.
+- ERIC GILL had several extramarital affairs. His other deviant sexual behaviours include, as described in his personal diaries, the child sexual abuse of his adolescent daughters, an incestuous relationship with at least one of his sisters and also sexual experiments with a dog.
+- Univers was intrinsically superior to Helvetica. It had a much larger family at the outset, with 21 members compared to four in 1960. More importantly, its family was logically designed with consistent weights and widths, something that Helvetica never achieved until its redesign as Neue Helvetica in 1982. Univers’ characters, stripped of “unnecessary” elements such as the beard on ‘G’ or the curve on the tail of ‘y,’ were also more rationally designed. [link](https://www.printmag.com/design-culture/univers-of-helvetica-history/)
+- FUTURA was preferred by the Nazis after they banned the use of Fraktur typefaced because of its visual similarity to Hebrew. This killed off Fraktur from any modern use other than, for example, heavy-metal bands and tattoos.
+- Tobias Frere-Jones filed a lawsuit against his erstwhile partner, Jonathan Hoefler, claiming that he’d been cheated out of his half of Hoefler & Frere-Jones.

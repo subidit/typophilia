@@ -288,7 +288,7 @@ The common typeface classifications are:
 29. **TOBIAS FRERE-JONES** (American) Gotham, Interstate, Archer (with Jonathan Hoefler)
 30. **ZUZANA LICKO** (Slovak-born American) Mrs Eaves (based on Baskerville) and Filosofia (based on Bodoni).
 
-### Clones
+## Clones
 
 Frutiger clone
 - Segoe UI - used in Microsoft Win 7 and many MS product logos.
@@ -306,7 +306,7 @@ FF Meta clone
 | Courier     | Courier New     |
 
 
-## Open-source clone typefaces 
+## Open-Source Clone Typefaces 
 - Bitstream Vera (donated by Matthew Carter) clones of Arial and Charter
 - DejaVu fonts - derived from Bitstream Vera (sans-serif) and Bitstream Charter (serif).
 - GNU FreeFont or Free UCS Outline Fonts - Based on URW++ Nimbus, similar to Times, Helvetica and Courier.
@@ -315,7 +315,29 @@ FF Meta clone
 - Nimbus Core - URW++ clones of Courier, Helvetica and Times
 - STIX Fonts project - visually compatible with the Times New Roman family
 
-## Font superfamily
+
+# Often Disliked 
+There is no such thing as a bad font. There are only bad uses for fonts.
+
+1. Algerian
+2. Bleeding Cowboys
+3. Brush Script 
+4. Chalkboard
+5. Comic Sans
+6. Cooper Black
+7. Copperplate
+8. Curlz
+9. Hobo
+10. Impact
+11. Lobster
+12. Lucida Handwriting
+13. Papyrus
+14. Souvenir
+15. Trajan
+16. Zapfino
+
+
+## Superfamilies 
 - Alegreya - Serif, sans serif, and samll caps
 - Bespoke - Sans, serif, slab, and stencil styes
 - Computer Modern (by Donald E. Knuth for TeX default) cmr (antiqua), cmss (grotesque) and cmtt (monospaced)
@@ -365,27 +387,6 @@ FF Meta clone
 ├── 2009 - Web Open Font Format (WOFF)
 └── 2016 - Variable fonts
 ```
-
-
-### Free sans serif font families
-- Archivo
-- Clear Sans
-- Inter
-- Jost*
-- Lato
-- Open Sans
-- Cabin
-- GoSans
-- Montserrat
-- Raleway
-- Work Sans
-
-### Serif typefaces
-- Crimson Pro
-- Vollkorn
-- Literata
-- Charis SIL
-- Bona Nova
 
 ## Free Typeface Catalogues
 1. [Beautiful Web Type](https://beautifulwebtype.com/). 39 typaces. Pairings, features.
@@ -443,18 +444,18 @@ FF Meta clone
 
 ## Fonts from Companies
 1. [Adobe's Source Type Family on GitHub](https://github.com/adobe-fonts)
-2. [Airbnb Cereal](https://airbnb.design/cereal/) [GitHub](https://github.com/iyadh/cereal-airbnb-font)
-3. [Apple's San Francisco](https://developer.apple.com/fonts/) [GitHub](https://github.com/AppleDesignResources/SanFranciscoFont)
-4. [Balsamiq Sans Font](https://balsamiq.com/givingback/opensource/font/) [GitHub](https://github.com/balsamiq/balsamiqsans)
+2. [Airbnb Cereal](https://airbnb.design/cereal/) on [GitHub](https://github.com/iyadh/cereal-airbnb-font)
+3. [Apple's San Francisco](https://developer.apple.com/fonts/) on [GitHub](https://github.com/AppleDesignResources/SanFranciscoFont)
+4. [Balsamiq Sans Font](https://balsamiq.com/givingback/opensource/font/) on [GitHub](https://github.com/balsamiq/balsamiqsans)
 5. [Cal Sans](https://github.com/calcom/font)
 6. GitHub's [Monaspace superfamily](https://monaspace.githubnext.com/) & [Mona Sans](https://github.com/mona-sans)
 7. [HackerNoon Font](https://github.com/hackernoon/font)
-8. [iA-Fonts](https://ia.net/topics/a-typographic-christmas) [GitHub](https://github.com/iaolo/iA-Fonts)
-10. [IBM Plex](https://www.ibm.com/plex/) [GitHub](https://github.com/IBM/plex)
+8. [iA-Fonts](https://ia.net/topics/a-typographic-christmas) on [GitHub](https://github.com/iaolo/iA-Fonts)
+10. [IBM Plex](https://www.ibm.com/plex/) on [GitHub](https://github.com/IBM/plex)
 11. [Intel One Mono](https://github.com/intel/intel-one-mono)
-12. [JetBrains Mono](https://www.jetbrains.com/lp/mono/) [GitHub](https://github.com/JetBrains/JetBrainsMono)
-13. [Mozilla's Fira Type Family](https://mozilla.github.io/Fira/) [GitHub](https://github.com/mozilla/Fira)
-14. [Red Hat fonts](https://www.redhat.com/en/about/brand/standards/typography) [GitHub](https://github.com/RedHatOfficial/RedHatFont)
+12. [JetBrains Mono](https://www.jetbrains.com/lp/mono/) on [GitHub](https://github.com/JetBrains/JetBrainsMono)
+13. [Mozilla's Fira Type Family](https://mozilla.github.io/Fira/) on [GitHub](https://github.com/mozilla/Fira)
+14. [Red Hat fonts](https://www.redhat.com/en/about/brand/standards/typography) on [GitHub](https://github.com/RedHatOfficial/RedHatFont)
 15. [Twilio Sans Mono](https://github.com/twilio/twilio-sans-mono)
 16. [Ubuntu Font Family](https://design.ubuntu.com/font) 
 
