@@ -49,33 +49,36 @@ Source: *Thinking with Type* by Ellen Lupton
 3. Line spacing - 120–145% of the point size.
 4. Line length - 45–90 characters per line. 
 
+## Visual Hierarchy
+
 There are a variety of elements that work together to create a typographic hierarchy, including:
 
-1. Size
-2. Weight
-3. Color
+1. Size & Weight
+2. Positioning & Alignment
+3. Color 
 4. Contrast
 5. Case
-6. Position and alignment
+6. Typeface
+
 
 ## Terminology 
 
-1. **Font**: particular size or style of a typeface, say 10 point regular or 24 point italic.
-2. **Typeface**: the specific design of the letters, say Times New Roman or Baskerville.
-3. **Glyph**: individual symbols of the typeface, say  letter, number, punctuation mark, accented variations, etc. 
-4. Baseline, Cap Line, x-Height
-5. **Tracking** is Letter-Spacing. 
-6. **Kerning** is spacing between two specific letters, eg. LT, VA or To.
-7. **Leading** is Line-Spacing.
-8. Fixed-width is **Monospaced**.
-9. Italics is *not* same as Slanted or Oblique.
-10. **Grotesk**: The common German name for sans serif faces, as opposed to “Antiqua” which means serif face.
-11. **Antiqua**: The common German and Scandinavian names for serif faces, The Scandinavian name is “Antikva”.
-12. **Roman**: Standard type style or regular weight of an upright typeface
-13. **Diacritics**: A diacritic is an ancillary mark or sign added to a letter. Accents are one type of diacritics. 
-14. **Dingbats**: Decorative symbols and characters that are generally not included in a font or character set, including boxes, bullets, arrows, pointers, and other characters. Often made up into their own font.
-15. **Oldstyle figures**: Numbers that have different heights, some aligning to the baseline, some below. Oldstyle figures harmonize well with lowercase letters. Using oldstyle figures helps keep the numbers from standing out too much and disturbing the overall flow of the typography on the page. Oldstyle figures can be *proportional* or *tabular*.
-16. **Lining figures (LF)**: Numbers that rest on the baseline, and are usually the same height as capital letters. Lining figures can be tabular or proportional.
+1. **Grotesk**: The common German name for sans serif faces, as opposed to “Antiqua” which means serif face.
+2. **Antiqua**: The common German and Scandinavian names for serif faces, The Scandinavian name is “Antikva”.
+3. **Roman**: Standard type style or regular weight of an upright typeface
+4. **Diacritics**: A diacritic is an ancillary mark or sign added to a letter. Accents are one type of diacritics. 
+5. **Dingbats**: Decorative symbols and characters that are generally not included in a font or character set, including boxes, bullets, arrows, pointers, and other characters. Often made up into their own font.
+6. **Oldstyle figures**: Numbers that have different heights, some aligning to the baseline, some below. Oldstyle figures harmonize well with lowercase letters. Using oldstyle figures helps keep the numbers from standing out too much and disturbing the overall flow of the typography on the page. Oldstyle figures can be *proportional* or *tabular*.
+7. **Lining figures (LF)**: Numbers that rest on the baseline, and are usually the same height as capital letters. Lining figures can be tabular or proportional.
+8. **Font**: particular size or style of a typeface, say 10 point regular or 24 point italic.
+9. **Typeface**: the specific design of the letters, say Times New Roman or Baskerville.
+10. **Glyph**: individual symbols of the typeface, say  letter, number, punctuation mark, accented variations, etc. 
+11. Baseline, Cap Line, x-Height
+12. **Tracking** is Letter-Spacing. 
+13. **Kerning** is spacing between two specific letters, eg. LT, VA or To.
+14. **Leading** is Line-Spacing.
+15. Fixed-width is **Monospaced**.
+16. Italics is *not* same as Slanted or Oblique.
 
 ## Anatomy
 
@@ -167,32 +170,35 @@ The common typeface classifications are:
 5. Script
 
 
-### Vox-ATypI classification 
+## Vox-ATypI classification (depricated)
 
-1. Classicals (*Oldstyle Serif*)
-   1. Humanist: imitates the formal hands found in the humanistic (renaissance) manuscripts (15th century, Venetian printers).
-   2. Garalde: (Aldine) have finer proportions than the humanists, and a stronger contrast between downstroke and upstroke.
-   3. Transitional: (Realist) Even more contrast between main and connecting strokes.
+```
+┌── Classicals [Oldstyle/Antiqua/Antikva]
+│   ├── Humanist 
+│   ├── Garalde [Aldine]
+│   └── Transitional [realist]
+│
+├── Moderns
+│   ├── Didone
+│   ├── Mechanistic [Slab Serif]
+│   └── Lineal [Sans-Serif/Gothic/Grotesque/Grotesk]
+│       │
+│       ├── Grotesque
+│       ├── Neo-grotesque
+│       ├── Geometric 
+│       └── Humanist   
+│
+├── Calligraphics  
+│   ├── Glyphic [incised]
+│   ├── Script [cursive]
+│   ├── Graphic [manual]
+│   ├── Blackletter
+│   └── Gaelic
+│
+└── Non-Latin
+```
 
-2. Moderns
-   1. Didone: hairline serifs.  
-   2. Mechanistic: Slab-Serif.
-   3. Lineal: Sans-Serif
-      1. Grotesque: some degree of contrast between thick and thin strokes.
-      2. Neo-grotesque: less stroke contrast and a more regular design. 
-      3. Geometric: constructed from simple geometric shapes, circles or rectangles.
-      4. Humanist: relate to the earlier, classical handwritten monumental Roman capitals and a lowercase similar in form to the Carolingian script. 
-
-3. Calligraphics
-   1. Glyphic: (Incised) incised, or incise are typefaces which evoke the engraving or chiseling of characters in stone or metal, as opposed to calligraphic handwriting.
-   2. Script: typefaces which evoke the formal penmanship of cursive writing. They seem to be written with a quill and have a strong slope.
-   3. Graphic: are based on hand-drawn originals which are slowly written with either a brush, pen, pencil, or other writing instrument. 
-   4. Blackletter: are characterized by pointed and angular forms, and are modeled on late medieval hands written with a broad-nibbed pen.
-   5. Gaelic (Insular script)
-
-4. Non-Latin
-
-### Examples
+## Examples
 
 #### Classicals
 - Humanist: Centaur, Adobe Jenson, Cloister, Guardi, Lutetia, Lynton, Stempel Schneidler
@@ -234,6 +240,7 @@ The common typeface classifications are:
   * International Typeface Corporation (ITC)
   * Colophon 
 * Adobe Originals
+* American Type Founders (ATF) [Defunct]
 * Apple Inc.
 * Bauer type foundry
 * Blambot
@@ -332,7 +339,7 @@ FF Meta clone
 - Thesis by Lucas de Groot, comprising TheSans, TheSerif, TheMix and TheAntiqua
 
 
-# Timeline
+## Timeline
 ```
 ┌── 1440 - Blackletter (Johannes Gutenberg)
 ├── 1470 - Roman Type (Nicolas Jenson)
@@ -434,7 +441,7 @@ FF Meta clone
 14. [mononoki](https://madmalik.github.io/mononoki/)
 
 
-# Free fonts from Companies
+## Fonts from Companies
 1. [Adobe's Source Type Family on GitHub](https://github.com/adobe-fonts)
 2. [Airbnb Cereal](https://airbnb.design/cereal/) [GitHub](https://github.com/iyadh/cereal-airbnb-font)
 3. [Apple's San Francisco](https://developer.apple.com/fonts/) [GitHub](https://github.com/AppleDesignResources/SanFranciscoFont)

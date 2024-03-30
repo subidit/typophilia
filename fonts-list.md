@@ -85,6 +85,32 @@
 4. Icon fonts
 
 
+# Vox-ATypI classification (depricated)
+
+1. Classicals (*Oldstyle Serif*)
+   1. Humanist: imitates the formal hands found in the humanistic (renaissance) manuscripts (15th century, Venetian printers).
+   2. Garalde: (Aldine) have finer proportions than the humanists, and a stronger contrast between downstroke and upstroke.
+   3. Transitional: (Realist) Even more contrast between main and connecting strokes.
+
+2. Moderns
+   1. Didone: hairline serifs.  
+   2. Mechanistic: Slab-Serif.
+   3. Lineal: Sans-Serif
+      1. Grotesque: some degree of contrast between thick and thin strokes.
+      2. Neo-grotesque: less stroke contrast and a more regular design. 
+      3. Geometric: constructed from simple geometric shapes, circles or rectangles.
+      4. Humanist: relate to the earlier, classical handwritten monumental Roman capitals and a lowercase similar in form to the Carolingian script. 
+
+3. Calligraphics
+   1. Glyphic: (Incised) incised, or incise are typefaces which evoke the engraving or chiseling of characters in stone or metal, as opposed to calligraphic handwriting.
+   2. Script: typefaces which evoke the formal penmanship of cursive writing. They seem to be written with a quill and have a strong slope.
+   3. Graphic: are based on hand-drawn originals which are slowly written with either a brush, pen, pencil, or other writing instrument. 
+   4. Blackletter: are characterized by pointed and angular forms, and are modeled on late medieval hands written with a broad-nibbed pen.
+   5. Gaelic (Insular script)
+
+4. Non-Latin
+
+
 # Often Disliked 
 There is no such thing as a bad font. There are only bad uses for fonts.
 
