@@ -43,7 +43,7 @@
 + Source Serif Pro, Source Sans Pro, Source Code Pro
 
 
-## Garalde
+## Good
 
 * Coelacanth (Centaur) Regular, Light, Extra Light no sc not great
 * ETbb
@@ -52,9 +52,6 @@
 * Ibarra Real Nova - bfit, bfsc
 * Romande ADF (bit goofy)
 * TEX Gyre Schola
-
-## Transitional
-
 * Alegreya
 * Baskervald ADF baskervald - bfit, ebsl
 * Charter
