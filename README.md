@@ -1,5 +1,35 @@
-# Typeface Trivia
+# Typeface Trivia <!-- omit from toc -->
 Become a Type Snob in 10 minutes. 💝
+
+## Table of Contents <!-- omit from toc -->
+- [HISTORY](#history)
+- [Key rules](#key-rules)
+  - [Visual Hierarchy](#visual-hierarchy)
+- [Terminology](#terminology)
+  - [Anatomy](#anatomy)
+- [Variants](#variants)
+- [Defaults](#defaults)
+- [Classification](#classification)
+  - [Vox-ATypI classification (depricated)](#vox-atypi-classification-depricated)
+    - [Classicals](#classicals)
+    - [Moderns](#moderns)
+    - [Lineal](#lineal)
+    - [Calligraphics](#calligraphics)
+- [Notable Type Foundries](#notable-type-foundries)
+- [Type Designers / Typographers](#type-designers--typographers)
+- [Clones](#clones)
+  - [Open-Source Clone Typefaces](#open-source-clone-typefaces)
+- [Superfamilies](#superfamilies)
+- [Timeline](#timeline)
+- [Often Disliked](#often-disliked)
+- [Free Typeface Catalogues](#free-typeface-catalogues)
+- [Noteworthy Free Fonts](#noteworthy-free-fonts)
+- [Fonts for code](#fonts-for-code)
+- [Fonts from Companies](#fonts-from-companies)
+- [WebApps](#webapps)
+- [Aggregators](#aggregators)
+- [Marketplaces](#marketplaces)
+- [Reference](#reference)
 
 
 ## HISTORY
@@ -49,7 +79,7 @@ Source: *Thinking with Type* by Ellen Lupton
 3. Line spacing - 120–145% of the point size.
 4. Line length - 45–90 characters per line. 
 
-## Visual Hierarchy
+### Visual Hierarchy
 
 There are a variety of elements that work together to create a typographic hierarchy, including:
 
@@ -80,21 +110,23 @@ There are a variety of elements that work together to create a typographic hiera
 15. Fixed-width is **Monospaced**.
 16. Italics is *not* same as Slanted or Oblique.
 
-## Anatomy
+### Anatomy
 
-1. **Aperture**: (n, c, C, s, S, e) 
+(Example letters depends on the typeface, may not be visible in this typeface)
+1. **Aperture**: partially enclosed, somewhat rounded negative space (n, c, C, s, S, e) 
 2. **Apex**: in the capital ‘A’.
-3. **Arm**: A horizontal or upward, sloping stroke that does not connect. (r,E,F,T,V)
-4. **Ascender**: (‘b’, ‘d’, ‘f’, ‘h’, ‘k’, etc.) 
-5. **Axis / Stress** 
+3. **Arm**: A horizontal or upward, sloping stroke that does not connect. (r, E, F, T, V)
+4. **Ascender**: partially enclosed, somewhat rounded negative space (b, d, f, h, k) 
+5. **Axis / Stress**: An imaginary line drawn from top to bottom of a glyph bisecting the upper and
+lower strokes is the axis. 
 6. **Ball / Teardrop Terminal** (‘f’) 
 7. **Beak**: decorative stroke at the end of the arm (More pronounced serifs of E, F)
-8. **Bowl**: (d,b,o,D,B) 
+8. **Bowl**: The curved part of the character that encloses the circular or curved parts (or counter) (d,b,o,g,D,B) 
 9. **Counter**: The open or negative space in a fully or partly closed area within a letter. Bowl + Aperture letters.
 10. **Cross Stroke**: (f/t) 
-11. **Crossbar**: (A/H) 
+11. **Crossbar**:  horizontal stroke across the middle of uppercase ‘A’ and ‘H’.
 12. **Crotch**: (V/W/Y) - where two strokes meet and form an interior angle.
-13. **Descender**: (g, j, p, q, y, etc.) 
+13. **Descender**: Any part in a lowercase letter that extends below the baseline (g, j, p, q, y, etc.) 
 14. Double-storey: A double-storey ‘a’ or ‘g’ has two counters.
 15. **Ear**: Typically found on the lowercase double storey ‘g’, an ear is a finishing stroke usually on the upper right side of the bowl.
 16. **Eye**: Enclosed space in a lowercase ‘e’. 
@@ -111,7 +143,7 @@ There are a variety of elements that work together to create a typographic hiera
 27. **Spine**: The main curve in ‘S’ and ‘s’. 
 28. **Spur**: Small protruding part on uppercase ‘G’.
 29. **Stem**
-30. **Swash**
+30. **Swash**: An elegant extension on a letter form, either a modification of an existing part or an added-on part.
 31. **Tail**: of an uppercase ‘Q’. 
 32. **Tittle**: The dot on the ‘i’ and the ‘j’.
 33. **Vertex**: The point at the bottom (or top) of a character where two strokes meet, for example the ‘v’, ‘V’, ‘w’, ‘W’ etc.
@@ -170,7 +202,7 @@ The common typeface classifications are:
 5. Script
 
 
-## Vox-ATypI classification (depricated)
+### Vox-ATypI classification (depricated)
 
 ```
 ┌── Classicals [Oldstyle/Antiqua/Antikva]
@@ -197,8 +229,6 @@ The common typeface classifications are:
 │
 └── Non-Latin
 ```
-
-## Examples
 
 #### Classicals
 - Humanist: Centaur, Adobe Jenson, Cloister, Guardi, Lutetia, Lynton, Stempel Schneidler
@@ -306,7 +336,7 @@ FF Meta clone
 | Courier     | Courier New     |
 
 
-## Open-Source Clone Typefaces 
+### Open-Source Clone Typefaces 
 - Bitstream Vera (donated by Matthew Carter) clones of Arial and Charter
 - DejaVu fonts - derived from Bitstream Vera (sans-serif) and Bitstream Charter (serif).
 - GNU FreeFont or Free UCS Outline Fonts - Based on URW++ Nimbus, similar to Times, Helvetica and Courier.
@@ -314,27 +344,6 @@ FF Meta clone
 - Linux Libertine - similar to Times (serif) and Optima (sans-serif)
 - Nimbus Core - URW++ clones of Courier, Helvetica and Times
 - STIX Fonts project - visually compatible with the Times New Roman family
-
-
-# Often Disliked 
-There is no such thing as a bad font. There are only bad uses for fonts.
-
-1. Algerian
-2. Bleeding Cowboys
-3. Brush Script 
-4. Chalkboard
-5. Comic Sans
-6. Cooper Black
-7. Copperplate
-8. Curlz
-9. Hobo
-10. Impact
-11. Lobster
-12. Lucida Handwriting
-13. Papyrus
-14. Souvenir
-15. Trajan
-16. Zapfino
 
 
 ## Superfamilies 
@@ -388,6 +397,27 @@ There is no such thing as a bad font. There are only bad uses for fonts.
 └── 2016 - Variable fonts
 ```
 
+## Often Disliked 
+There is no such thing as a bad font. There are only bad uses for fonts.
+
+1. Algerian
+2. Bleeding Cowboys
+3. Brush Script 
+4. Chalkboard
+5. Comic Sans
+6. Cooper Black
+7. Copperplate
+8. Curlz
+9. Hobo
+10. Impact
+11. Lobster
+12. Lucida Handwriting
+13. Papyrus
+14. Souvenir
+15. Trajan
+16. Zapfino
+
+
 ## Free Typeface Catalogues
 1. [Beautiful Web Type](https://beautifulwebtype.com/). 39 typaces. Pairings, features.
 2. [indestructible type*](https://indestructibletype.com/Home.html) by Owen Earl. 7 typefaces.
@@ -412,7 +442,6 @@ There is no such thing as a bad font. There are only bad uses for fonts.
 9. [Averia](http://iotic.com/averia/) - the average font
 10. [B612](https://b612-font.com/) - Aeronautical Font by Airbus for cockpit screens
 11. [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/) - lettering style found on technical drawings (More links to other fonts)
-12. [Geist](https://vercel.com/font/sans) - by Vercel, also has Monospace variant
 13. [Redaction](https://www.redaction.us/)
 14. [Cantarell](https://cantarell.gnome.org/)
 15. One Night Sans by Durex
@@ -459,6 +488,8 @@ There is no such thing as a bad font. There are only bad uses for fonts.
 14. [Red Hat fonts](https://www.redhat.com/en/about/brand/standards/typography) on [GitHub](https://github.com/RedHatOfficial/RedHatFont)
 15. [Twilio Sans Mono](https://github.com/twilio/twilio-sans-mono)
 16. [Ubuntu Font Family](https://design.ubuntu.com/font) 
+17. Vercel's [Geist](https://vercel.com/font/sans) 
+
 
 
 ## WebApps
