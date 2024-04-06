@@ -315,8 +315,9 @@ The common typeface classifications are:
 26. **PAUL RENNER** (German) Futura
 27. **ROBERT SLIMBACH** (American) Minion, Adobe Garamond, Utopia, Garamond Premier
 28. **STANLEY MORISON** (British) Times New Roman (with Victor Lardent), revival of Baskerville
-29. **TOBIAS FRERE-JONES** (American) Gotham, Interstate, Archer (with Jonathan Hoefler)
-30. **ZUZANA LICKO** (Slovak-born American) Mrs Eaves (based on Baskerville) and Filosofia (based on Bodoni).
+29. **STEVE MATTESON** (American) Segoe, Aptos, Droid, Liberation font family, Noto and Open Sans
+30. **TOBIAS FRERE-JONES** (American) Gotham, Interstate, Archer (with Jonathan Hoefler)
+31. **ZUZANA LICKO** (Slovak-born American) Mrs Eaves (based on Baskerville) and Filosofia (based on Bodoni).
 
 ## Clones
 
@@ -435,24 +436,25 @@ There is no such thing as a bad font. There are only bad uses for fonts.
 1. [Atkinson Hyperlegible](https://brailleinstitute.org/freefont)
 2. [Public Sans](https://public-sans.digital.gov/) by USWDS
 3. [Inter](https://rsms.me/inter/)
-4. [National Park Typeface](https://nationalparktypeface.com/)
+4. [Universal Sans](https://universalsans.com/)
+5. [National Park Typeface](https://nationalparktypeface.com/)
 6. [London Underground Dot-Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
 7. [Canada1500](http://typodermicfonts.com/canada1500/)
 8. [Sweden Sans](https://identity.sweden.se/en/design-elements/typography)
 9. [Averia](http://iotic.com/averia/) - the average font
 10. [B612](https://b612-font.com/) - Aeronautical Font by Airbus for cockpit screens
 11. [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/) - lettering style found on technical drawings (More links to other fonts)
-13. [Redaction](https://www.redaction.us/)
-14. [Cantarell](https://cantarell.gnome.org/)
-15. One Night Sans by Durex
-16. [ZXX](https://www.librarystack.org/zxx/) - Illegible to OCR
-17. [QCMU](https://quantum-village.github.io/QCMU-font.html) - to make diagrams of quantum circuits!
-18. [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - censors bad language automatically
-19. [OpenDyslexic](https://opendyslexic.org/) - A typeface for Dyslexia
-20. [Shake](https://writewithparkinsons.com/) - A Typeface with Parkinson's
-21. FE-Schrift - forgery-impeding typeface for licence plates.
-22. [LAIKA](https://laikafont.ch/) – a dynamic typeface
-23. [Luciole](https://www.luciole-vision.com/luciole-en.html) - for visually impaired people
+12. [Redaction](https://www.redaction.us/)
+13. [Cantarell](https://cantarell.gnome.org/)
+14. [ZXX](https://www.librarystack.org/zxx/) - Illegible to OCR
+15. [QCMU](https://quantum-village.github.io/QCMU-font.html) - to make diagrams of quantum circuits!
+16. [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - censors bad language automatically
+17. [OpenDyslexic](https://opendyslexic.org/) - A typeface for Dyslexia
+18. [Shake](https://writewithparkinsons.com/) - A Typeface with Parkinson's
+19. FE-Schrift - forgery-impeding typeface for licence plates.
+20. [LAIKA](https://laikafont.ch/) – a dynamic typeface
+21. [Luciole](https://www.luciole-vision.com/luciole-en.html) - for visually impaired people
+22. [Common Sans](https://github.com/StefanPeev/Common-Sans)
 
 
 ## Fonts for code
@@ -462,7 +464,7 @@ There is no such thing as a bad font. There are only bad uses for fonts.
 4. [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 5. [Hack](https://sourcefoundry.org/hack/)
 6. [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/)
-8. [Intel One Mono](https://github.com/intel/intel-one-mono)
+7. [Intel One Mono](https://github.com/intel/intel-one-mono)
 9. [Monocraft](https://github.com/IdreesInc/Monocraft) - Minecraft typeface
 10. [Commit Mono](https://commitmono.com/)
 11. [Comic Code](https://tosche.net/fonts/comic-code)
@@ -473,22 +475,50 @@ There is no such thing as a bad font. There are only bad uses for fonts.
 
 ## Fonts from Companies
 1. [Adobe's Source Type Family on GitHub](https://github.com/adobe-fonts)
-2. [Airbnb Cereal](https://airbnb.design/cereal/) on [GitHub](https://github.com/iyadh/cereal-airbnb-font)
-3. [Apple's San Francisco](https://developer.apple.com/fonts/) on [GitHub](https://github.com/AppleDesignResources/SanFranciscoFont)
-4. [Balsamiq Sans Font](https://balsamiq.com/givingback/opensource/font/) on [GitHub](https://github.com/balsamiq/balsamiqsans)
-5. [Cal Sans](https://github.com/calcom/font)
-6. [Cooper Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/) from Smithsonian Design Museum. [GitHub](https://github.com/cooperhewitt/cooperhewitt-typeface)
-7. GitHub's [Monaspace superfamily](https://monaspace.githubnext.com/) & [Mona Sans](https://github.com/mona-sans)
-8. [HackerNoon Font](https://github.com/hackernoon/font)
-9. [iA-Fonts](https://ia.net/topics/a-typographic-christmas) on [GitHub](https://github.com/iaolo/iA-Fonts)
-10. [IBM Plex](https://www.ibm.com/plex/) on [GitHub](https://github.com/IBM/plex)
-11. [Intel One Mono](https://github.com/intel/intel-one-mono)
-12. [JetBrains Mono](https://www.jetbrains.com/lp/mono/) on [GitHub](https://github.com/JetBrains/JetBrainsMono)
-13. [Mozilla's Fira Type Family](https://mozilla.github.io/Fira/) on [GitHub](https://github.com/mozilla/Fira)
-14. [Red Hat fonts](https://www.redhat.com/en/about/brand/standards/typography) on [GitHub](https://github.com/RedHatOfficial/RedHatFont)
-15. [Twilio Sans Mono](https://github.com/twilio/twilio-sans-mono)
-16. [Ubuntu Font Family](https://design.ubuntu.com/font) 
-17. Vercel's [Geist](https://vercel.com/font/sans) 
+2. [Airbnb Cereal](https://airbnb.design/cereal/) by Dalton Maag on [GitHub](https://github.com/iyadh/cereal-airbnb-font)
+3. Amazon [Ember](https://developer.amazon.com/en-US/alexa/branding/echo-guidelines/identity-guidelines/typography) & Bookerly for Kindle by Dalton Maag
+4. Apple's [San Francisco](https://developer.apple.com/fonts/) on [GitHub](https://github.com/AppleDesignResources/SanFranciscoFont)
+5. Atlassian's Charlie Sans by [Oh No Type](https://ohnotype.co/custom/atlassian)
+6. [Balsamiq Sans Font](https://balsamiq.com/givingback/opensource/font/) on [GitHub](https://github.com/balsamiq/balsamiqsans)
+7. BBC Reith by Dalton Maag
+8. [Cal Sans](https://github.com/calcom/font) used by cal.com
+9. Canva Sans by [Colophon Foundry](https://www.colophon-foundry.org/custom-projects/canva).
+10. Cisco Sans on [GitHub](https://github.com/CiscoDevNet/CiscoUIKit/tree/master/dist/fonts/CiscoSans)
+11. Dropbox's [Sharp Grotesk](https://sharptype.co/case-studies/dropbox/) by Sharp Type
+12. Duolingo's Feather Bold by Monotype
+13. Durex's One Night Sans by Colophon Foundry
+14. eBay's Market Sans.
+15. GitHub's [Monaspace superfamily](https://monaspace.githubnext.com/) & [Mona Sans](https://github.com/mona-sans)
+16. [Goldman Sans](https://design.gs.com/foundation/typography/goldman-sans)
+17. [HackerNoon Font](https://github.com/hackernoon/font)
+18. HP Simplified by Dalton Maag Ltd
+19. [iA-Fonts](https://ia.net/topics/a-typographic-christmas) on [GitHub](https://github.com/iaolo/iA-Fonts)
+20. [IBM Plex](https://www.ibm.com/plex/) on [GitHub](https://github.com/IBM/plex)
+21. Intel's [Clear Sans](https://github.com/intel/clear-sans) & [One Mono](https://github.com/intel/intel-one-mono)
+22. [Instagram Sans](https://about.instagram.com/brand/type) by Colophon
+23. [JetBrains Mono](https://www.jetbrains.com/lp/mono/) on [GitHub](https://github.com/JetBrains/JetBrainsMono)
+24. Meta's Optimistic by Dalton Maag and [Saffron](https://saffron-consultants.com/work/meta)
+25. [Mozilla's Fira Type Family](https://mozilla.github.io/Fira/) on [GitHub](https://github.com/mozilla/Fira)
+26. [Netflix Sans](https://www.daltonmaag.com/portfolio/custom-fonts/netflix-sans.html) by Dalton Maag Ltd.
+27. Nokia Pure by Dalton Maag Ltd replaced Nokia Sans created by Erik Spiekermann.
+28. PayPal Sans by [Klim Type Foundry](https://klim.co.nz/custom-fonts/paypal-sans/)
+29. [Red Hat fonts](https://www.redhat.com/en/about/brand/standards/typography) on [GitHub](https://github.com/RedHatOfficial/RedHatFont) by [MCKL](https://mckltype.com/red-hat)
+30. Salesforce Sans by Monotype
+31. SAP's [72 Font family](https://experience.sap.com/fiori-design-web/downloads/)
+32. Samsung's Sharp Sans by [Sharp Type](https://sharptype.co/case-studies/samsung-sharp-sans/) for Galaxy & SamsungOne for One UI.
+33. Smithsonian's [Cooper Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/). on [GitHub](https://github.com/cooperhewitt/cooperhewitt-typeface)
+34. Spotify Circular, a geometric sans-serif typeface created by Swiss designer Laurenz Brunner and released in 2013.
+35. [TikTok Sans](https://newsroom.tiktok.com/en-us/introducing-tiktok-sans)
+36. Tripadvisor's Trip Sans by Colophon
+37. [Twilio Sans Mono](https://github.com/twilio/twilio-sans-mono) by Sharp Type
+38. Twitter's [Chirp](https://blog.twitter.com/en_us/topics/company/2021/imperfect-by-design) based on Grilli Type's GT America.
+39. Uber Move by [MCKL](https://mckltype.com/custom/uber)
+40. Ubisoft Sans by Colophon
+41. [Ubuntu Font Family](https://design.ubuntu.com/font) by Dalton Maag
+42. Vercel's [Geist](https://vercel.com/font/sans) 
+43. Vodafone typeface by Dalton Maag
+44. Wix [Madefor](https://www.wix.com/typeface/madefor) by Dalton Maag
+45. YouTube Sans with design agency [Saffron](https://saffron-consultants.com/work/youtube)
 
 
 
@@ -540,7 +570,8 @@ There is no such thing as a bad font. There are only bad uses for fonts.
 20. [FontStruct](https://fontstruct.com/gallery)
 21. [FontZone](https://fontzone.net/)
 23. [FreebiesBug](https://freebiesbug.com/free-fonts/) 
-24. [Urban Fonts](https://www.urbanfonts.com/free-fonts.htm)
+24. [Online Web Fonts](https://www.onlinewebfonts.com/fonts) - font files from websites
+25. [Urban Fonts](https://www.urbanfonts.com/free-fonts.htm)
 
 ## Marketplaces
 - [Monotype Fonts](https://www.monotypefonts.com/)
