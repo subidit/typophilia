@@ -1,4 +1,4 @@
-## The 100 Top Typefaces 
+## The 100 Top Typefaces (by FontShop)
 
 | Rank | Typeface Name             | Date | Type Designer                  | Category                           | Classification                            | Foundry                                    |
 | ---- | ------------------------- | ---- | ------------------------------ | ---------------------------------- | ----------------------------------------- | ------------------------------------------ |
@@ -102,6 +102,118 @@
 | 98   | Bello                     | 2004 | Underware                      | Script                             | Casual                                    | Underware                                  |
 | 99   | Dalliance                 | 2000 | Frank Heine                    | Serif, Script                      | Old Style                                 | Emigre                                     |
 | 100  | Mistral                   | 1953 | Roger Excoffon                 | Script                             | Casual                                    | ITC                                        |
+
+
+
+## the top 100 types of all time? (by TDC)
+	
+1. Gutenberg’s B-42 type
+2. Nicolas Jenson’s roman
+3. Francesco Griffo’s italic
+4. Claude Garamond’s roman
+5. Firmin Didot’s roman
+6. Akzidenz Grotesk
+7. Gebetbuch type
+8. Cheltenham family
+9. Helvetica
+10. Aldus Manutius’ roman
+11. William Caslon IV’s sans serif
+12. William Caslon’s roman
+13. Pierre-Simon Fournier’s italic
+14. Futura
+15. Times Roman
+16. Chicago
+17. Bell
+18. Ludovico Arrighi da Vicenza’s italic
+19. Univers
+20. Romain du Roi
+21. Johann Michael Fleischmann’s roman
+22. Clarendon
+23. ATF Garamond
+24. Giambattista Bodoni’s roman
+25. Century Old Style
+26. Nicolas Kis’ roman
+27. Minion multiple master
+28. Unger Fraktur
+29. John Baskerville’s roman
+30. Lucida
+31. Ionic
+32. Golden Type
+33. Robert Thorne’s fat face roman
+34. Wolfgang Hoppyl’s textura
+35. Vincent Figgins’ antique roman (Egyptian)
+36. Johnston’s Railway Sans
+37. Optima
+38. Bauer Bodoni
+39. Adobe Garamond
+40. Breitkopf Fraktur
+41. Bell Gothic
+42. Courier
+43. Trajan
+44. Mistral
+45. Doves Type
+46. Scotch Roman
+47. Syntax
+48. Snell Roundhand
+49. Memphis
+50. Robert Granjon’s civilité
+51. Fette Fraktur
+52. Ehrhard Ratdolt’s rotunda
+53. Romanée
+54. ITC Stone family
+55. Trinité
+56. ITC Garamond
+57. Avant-Garde Gothic
+58. Oakland
+59. Deutschschrift
+60. Hammer Uncial
+61. Beowolf
+62. Meta
+63. OCR-A
+64. Sabon
+65. ITC Novarese
+66. Zapf Chancery
+67. Rotis
+68. Base Nine and Base Twelve
+69. Peter Jessenschrift
+70. Excelsior Script
+71. Bitstream Charter
+72. Peignot
+73. Erbar
+74. Cancellaresca Bastarda
+75. Joanna
+76. Dead History
+77. Behrensschrift
+78. Eckmannschrift
+79. Poetica
+80. Marconi
+81. PMN Caecilia
+82. Stadia/Insignia
+83. Imprint
+84. Souvenir
+85. Thesis
+86. Apollo
+87. Penumbra
+88. Melior
+89. Neuland
+90. ITC Flora
+91. Element
+92. Walker
+93. Remedy
+94. Template Gothic
+95. Digi-Grotesk Series S
+96. Compacta
+97. Antique Olive
+98. Bodoni 26
+99. Evans and Epps Alphabet
+100. WTC Our Bodoni		
+
+
+## Reference
+
+- [The 100 Top Typefaces (in a Huge Sortable Table)](https://bonfx.com/best-fonts/)
+- [the top 100 types of all time?](https://100types.com/.list.html)
+
 
 
 

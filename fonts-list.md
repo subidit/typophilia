@@ -111,6 +111,25 @@
 4. Non-Latin
 
 
+## Clones
+
+Frutiger clone
+- Segoe UI - used in Microsoft Win 7 and many MS product logos.
+- Myriad Pro - used as Adobe CC default font and by Apple before introducing SF.
+
+FF Meta clone
+- Trebuchet MS - Win XP
+
+
+| Apple       | Microsoft       |
+| ----------- | --------------- |
+| Linotype    | Monotype        |
+| Helvetica   | Arial           |
+| Times Roman | Times New Roman |
+| Courier     | Courier New     |
+
+
+
 ## Notable fonts
 - Helvetica
 - Frutiger
@@ -306,3 +325,15 @@
 - Univers was intrinsically superior to Helvetica. It had a much larger family at the outset, with 21 members compared to four in 1960. More importantly, its family was logically designed with consistent weights and widths, something that Helvetica never achieved until its redesign as Neue Helvetica in 1982. Univers’ characters, stripped of “unnecessary” elements such as the beard on ‘G’ or the curve on the tail of ‘y,’ were also more rationally designed. [link](https://www.printmag.com/design-culture/univers-of-helvetica-history/)
 - FUTURA was preferred by the Nazis after they banned the use of Fraktur typefaced because of its visual similarity to Hebrew. This killed off Fraktur from any modern use other than, for example, heavy-metal bands and tattoos.
 - Tobias Frere-Jones filed a lawsuit against his erstwhile partner, Jonathan Hoefler, claiming that he’d been cheated out of his half of Hoefler & Frere-Jones.
+
+
+
+## Reference
+- [Butterick's Practical Typography](https://practicaltypography.com/)
+- [A guide to type styles.](https://www.monotype.com/resources/guide-type-styles)
+- [Huerta Tipografica - Alegreya](https://www.huertatipografica.com/en/fonts/alegreya-ht-pro) Argentina
+- [Periodic Table of Popular Typefaces](https://olypress.com/periodic-table-of-popular-typefaces/)
+- [Typekit Practice](https://practice.typekit.com/)
+- [Typewolf Resources](https://www.typewolf.com/resources)
+- [Typography Guru](https://typography.guru/list/)
+- [Typography terms and definitions.](https://www.monotype.com/resources/studio/typography-terms)
