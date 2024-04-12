@@ -353,6 +353,17 @@ The common typeface classifications are:
 ├── 2009 - Web Open Font Format (WOFF)
 └── 2016 - Variable fonts
 ```
+## Type Technologies
+```
+┌── 3200 BC - Handwriting and calligraphy
+├── 220 AD - Woodblock printing
+├── 1040 AD (China) - Movable type 
+├── 1450 AD (Europe) - letterpress printing
+├── 1800s - Wooden font molds
+├── 1890s - Continuous casting (Linotype)
+├── 1950s - Phototypesetting
+└── 1970s – present - Digital typography
+```
 
 ## Often Disliked 
 There is no such thing as a bad font. There are only bad uses for fonts.
