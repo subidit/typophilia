@@ -271,20 +271,6 @@ FF Meta clone
 38. Verdana
 39. Walbaum
 
-## Fonts on GitHub
-
-1. [Liberation Fonts](https://github.com/liberationfonts/liberation-fonts)
-2. [Open Sauce Fonts](https://github.com/marcologous/Open-Sauce-Fonts)
-3. [+Jakarta Sans](https://github.com/tokotype/PlusJakartaSans)
-4. [Open Runde](https://github.com/lauridskern/open-runde) rounded variant of Inter. 
-5. [Young Serif](https://github.com/noirblancrouge/YoungSerif)
-6. [Optician Sans](https://github.com/anewtypeofinterference/Optician-Sans)
-7. [Metropolis](https://github.com/dw5/Metropolis)
-8. [Wanted Sans](https://github.com/wanteddev/wanted-sans)
-9. [Techna Sans](https://github.com/carlstype/techna-sans)
-10. [Overused Grotesk](https://github.com/RandomMaerks/Overused-Grotesk)
-11. [Aspekta](https://github.com/ivodolenc/aspekta)
-
 
 ### Free sans serif font families
 - Archivo

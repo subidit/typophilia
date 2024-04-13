@@ -1,6 +1,16 @@
 # Typeface Trivia 
 Become a Type Snob in 10 minutes. 💝
 
+## Contents
+
+- [Terminology](#terminology)
+- [Classification](#classification)
+- [Type Designers](#type-designers)
+- [Timeline](#timeline)
+- [Free Typeface Catalogues](#free-typeface-catalogues)
+- [Fonts from Companies](#fonts-from-companies)
+
+
 
 ## HISTORY
 
@@ -73,7 +83,7 @@ There are a variety of elements that work together to create a typographic hiera
 8. **Font**: particular size or style of a typeface, say 10 point regular or 24 point italic.
 9. **Typeface**: the specific design of the letters, say Times New Roman or Baskerville.
 10. **Glyph**: individual symbols of the typeface, say  letter, number, punctuation mark, accented variations, etc. 
-11. Baseline, Cap Line, x-Height
+11. **Baseline, Cap Line, x-Height**
 12. **Tracking** is Letter-Spacing. 
 13. **Kerning** is spacing between two specific letters, eg. LT, VA or To.
 14. **Leading** is Line-Spacing.
@@ -82,24 +92,24 @@ There are a variety of elements that work together to create a typographic hiera
 
 ### Anatomy
 
-(Example letters depends on the typeface, may not be visible in this typeface)
+(Example letters depends on the typeface, may not be visible here.)
 1. **Aperture**: partially enclosed, somewhat rounded negative space (n, c, C, s, S, e) 
 2. **Apex**: in the capital ‘A’.
 3. **Arm**: A horizontal or upward, sloping stroke that does not connect. (r, E, F, T, V)
 4. **Ascender**: partially enclosed, somewhat rounded negative space (b, d, f, h, k) 
 5. **Axis / Stress**: An imaginary line drawn from top to bottom of a glyph bisecting the upper and
 lower strokes is the axis. 
-6. **Ball / Teardrop Terminal** (‘f’) 
-7. **Beak**: decorative stroke at the end of the arm (More pronounced serifs of E, F)
-8. **Bowl**: The curved part of the character that encloses the circular or curved parts (or counter) (d,b,o,g,D,B) 
-9. **Counter**: The open or negative space in a fully or partly closed area within a letter. Bowl + Aperture letters.
-10. **Cross Stroke**: (f/t) 
-11. **Crossbar**:  horizontal stroke across the middle of uppercase ‘A’ and ‘H’.
-12. **Crotch**: (V/W/Y) - where two strokes meet and form an interior angle.
-13. **Descender**: Any part in a lowercase letter that extends below the baseline (g, j, p, q, y, etc.) 
-14. **Double-storey**: A double-storey ‘a’ or ‘g’ has two counters.
-15. **Ear**: Typically found on the lowercase double storey ‘g’, an ear is a finishing stroke usually on the upper right side of the bowl.
-16. **Eye**: Enclosed space in a lowercase ‘e’. 
+1. **Ball / Teardrop Terminal** (‘f’) 
+2. **Beak**: decorative stroke at the end of the arm (More pronounced serifs of E, F)
+3. **Bowl**: The curved part of the character that encloses the circular or curved parts (or counter) (d,b,o,g,D,B) 
+4. **Counter**: The open or negative space in a fully or partly closed area within a letter. Bowl + Aperture letters.
+5.  **Cross Stroke**: (f/t) 
+6.  **Crossbar**:  horizontal stroke across the middle of uppercase ‘A’ and ‘H’.
+7.  **Crotch**: (V/W/Y) - where two strokes meet and form an interior angle.
+8.  **Descender**: Any part in a lowercase letter that extends below the baseline (g, j, p, q, y, etc.) 
+9.  **Double-storey**: A double-storey ‘a’ or ‘g’ has two counters.
+10. **Ear**: Typically found on the lowercase double storey ‘g’, an ear is a finishing stroke usually on the upper right side of the bowl.
+11. **Eye**: Enclosed space in a lowercase ‘e’. 
 17. **Finial / Taper** 
 18. **Flag**: The horizontal stroke at the top of the numeral ‘5’.
 19. **Gadzook**: An embellishment that connects the letters in a ligature but is not originally part of either letter. 
@@ -145,6 +155,22 @@ lower strokes is the axis.
 | Extra/UltraBold  |                     |
 | Black/Heavy      |                     |
 
+## Formats
+
+1. **TrueType (.ttf):** Developed by Apple and Microsoft in the late 1980s, TrueType fonts are widely used and supported by both operating systems. They contain both the font outlines and the font instructions for rendering glyphs.
+
+2. **OpenType (.otf):** A more versatile and modern font format developed by Adobe and Microsoft. OpenType fonts can contain more glyphs (characters), support more languages, include advanced typographic features, and have better cross-platform compatibility. OpenType fonts can also be either TrueType-based or PostScript-based.
+
+3. **PostScript Type 1 (.pfb, .pfm):** Developed by Adobe, PostScript fonts were widely used in the past. They contain vector outlines of characters and were commonly used for printing. However, they've largely been replaced by OpenType fonts due to their limitations.
+
+4. **Web Open Font Format (WOFF, WOFF2):** These formats are specifically optimized for web use. WOFF and WOFF2 are compressed font formats that help improve web page loading times by reducing file sizes. They are based on OpenType or TrueType fonts and are widely supported by modern web browsers.
+
+5. **Embedded OpenType (EOT):** Another font format developed by Microsoft specifically for Internet Explorer. EOT fonts were created to address some security and licensing issues for web fonts but have been largely replaced by WOFF and WOFF2 formats.
+
+6. **SVG Fonts (.svg):** Based on Scalable Vector Graphics (SVG), these fonts use XML to describe glyphs, and each character is defined using vector graphics. SVG fonts are less common and have been largely superseded by other formats due to limitations in features and compatibility.
+
+7. **Variable Fonts:** Variable fonts contain multiple variations of a typeface (weight, width, slant, etc.) within a single file. They enable real-time adjustment of these attributes along a continuous spectrum, allowing for infinite possibilities of styles and weights. They offer dynamic control over attributes like weight, width, slant, and optical size, allowing smoother transitions between styles and enabling designers to fine-tune typography for various screen sizes, resolutions, and environments. They also reduce the number of HTTP requests and file downloads on the web, enhancing performance by delivering multiple font styles in a single file.
+
 
 ## Defaults
 
@@ -184,7 +210,7 @@ The common typeface classifications are:
 ├── Moderns
 │   ├── Didone
 │   ├── Mechanistic [Slab Serif/Egyptian]
-│   └── Lineal [Sans-Serif/Grotesque]
+│   └── Lineal [Sans-Serif/Grotesque/Gothic]
 │       │
 │       ├── Grotesque
 │       ├── Neo-grotesque
@@ -202,61 +228,61 @@ The common typeface classifications are:
 ```
 
 #### Classicals
-- Humanist: Centaur, Adobe Jenson, Trinité
-- Garalde: Garamond, Bembo, Sabon, Minion, Palatino, Caslon, Janson
-- Transitional: Baskerville, Times, Joanna, Mrs Eaves, Miller
+- **Humanist**: Centaur, Adobe Jenson, Trinité
+- **Garalde**: Garamond, Bembo, Sabon, Minion, Palatino, Caslon, Janson
+- **Transitional**: Baskerville, Times, Joanna, Mrs Eaves, Miller
 
 #### Moderns
-- Didone: Bodoni, Didot, Walbaum, Ambroise, Scotch Roman 
-- Mechanistic: Clarendon, Egyptienne, Rockwell
+- **Didone**: Bodoni, Didot, Walbaum, Ambroise, Scotch Roman 
+- **Mechanistic**: Clarendon, Egyptienne, Rockwell
 - Lineal
 
 #### Lineal
-- Grotesque: Akzidenz Grotesk, Franklin Gothic, Knockout
-- Neo-grotesque: Univers, Helvetica, DIN, Bell Centennial, Folio, Interstate
-- Geometric: Futura, Eurostile, Kabel, Gotham, Neutraface, Century Gothic, Bank Gothic, Erbar
-- Humanist: Gill Sans, Optima, Johnston, Frutiger, Meta, Myriad
+- **Grotesque**: Akzidenz Grotesk, Franklin Gothic, Knockout
+- **Neo-grotesque**: Univers, Helvetica, DIN, Bell Centennial, Folio, Interstate
+- **Geometric**: Futura, Eurostile, Kabel, Gotham, Neutraface, Century Gothic, Bank Gothic, Erbar
+- **Humanist**: Gill Sans, Optima, Johnston, Frutiger, Meta, Myriad
 
 
 #### Calligraphics
-- Glyphic: Albertus, Copperplate Gothic, and Trajan, Fritz Quadrata, Lithos, Exocet
-- Script: Shelley, Mistral and Francesca, Bello, Bickham Script, Snell Roundhand, Zapfino
-- Graphic: Banco and Klang, Calypso, Fournier Le Jeune
-- Blackletter: Fette Fraktur, Canterbury, Goudy Text, Linotype Textur, Notre Dame, Old English
-- Gaelic: Duibhlinn, Uncial
+- **Glyphic**: Albertus, Copperplate Gothic, and Trajan, Fritz Quadrata, Lithos, Exocet
+- **Script**: Shelley, Mistral and Francesca, Bello, Bickham Script, Snell Roundhand, Zapfino
+- **Graphic**: Banco and Klang, Calypso, Fournier Le Jeune
+- **Blackletter**: Fette Fraktur, Canterbury, Goudy Text, Linotype Textur, Notre Dame, Old English
+- **Gaelic**: Duibhlinn, Uncial
 
 
 
 
 ## Notable Type Foundries
 
-* Monotype  
-  * Linotype 
-  * Ascender Corp
-  * Bitstream 
-  * FontFont (FF)
-  * Fontsmith 
-  * URW Type Foundry
-  * Hoefler & Co. 
-  * Berthold 
-  * International Typeface Corporation (ITC)
-  * Colophon 
-* Adobe Originals
-* American Type Founders (ATF) [Defunct]
-* Apple Inc.
-* Bauer type foundry
-* Blambot
-* Dalton Maag
-* Dharma Type
-* Emigre
-* Font Bureau
-* Google Design
-* Indian Type Foundry (ITF)
-* P22 Type Foundry
-* Typotheque
+1. Monotype  
+  1. Linotype 
+  2. Ascender Corp
+  3. Bitstream 
+  4. FontFont (FF)
+  5. Fontsmith 
+  6. URW Type Foundry
+  7. Hoefler & Co. 
+  8. Berthold 
+  9. International Typeface Corporation (ITC)
+  10. Colophon 
+2. Adobe Originals
+3. American Type Founders (ATF) [Defunct]
+4. Apple Inc.
+5. Bauer type foundry
+6. Blambot
+7. Dalton Maag
+8. Dharma Type
+9. Emigre
+10. Font Bureau
+11. Google Design
+12. Indian Type Foundry (ITF)
+13. P22 Type Foundry
+14. Typotheque
 
 
-## Type Designers / Typographers
+## Type Designers
 
 1. **ADRIAN FRUTIGER** (Swiss) Univers, Frutiger, Avenir
 2. **ALBERT-JAN POOL** (Dutch) FF DIN, DIN 1451
@@ -291,39 +317,56 @@ The common typeface classifications are:
 31. **ZUZANA LICKO** (Slovak-born American) Mrs Eaves (based on Baskerville) and Filosofia (based on Bodoni).
 
 
-### Open-Source Typefaces 
+## Open-Source Typefaces 
 
-1. Bitstream Vera (donated by Matthew Carter) clones of Arial and Charter
-2. DejaVu fonts - derived from Bitstream Vera (sans-serif) and Bitstream Charter (serif).
-3. GNU FreeFont - Based on URW++ Nimbus, similar to Times, Helvetica and Courier.
-4. Liberation Fonts - metrically compatible with Arial, Arial Narrow, Times New Roman and Courier New
-5. Linux Libertine - similar to Times (serif) and Optima (sans-serif)
-6. Nimbus Core - URW++ clones of Courier, Helvetica and Times
-7. STIX Fonts project - visually compatible with the Times New Roman family
+1. **Bitstream Vera** (donated by Matthew Carter) clones of Arial and Charter
+2. **DejaVu fonts** - derived from Bitstream Vera (sans-serif) and Bitstream Charter (serif).
+3. **GNU FreeFont** - Based on URW++ Nimbus, similar to Times, Helvetica and Courier.
+4. **Liberation Fonts** - metrically compatible with Arial, Arial Narrow, Times New Roman and Courier New
+5. **Linux Libertine** - similar to Times (serif) and Optima (sans-serif)
+6. **Nimbus Core** - URW++ clones of Courier, Helvetica and Times
+7. **STIX Fonts project** - visually compatible with the Times New Roman family
+8. The [**TeX Gyre**](https://www.gust.org.pl/projects/e-foundry/tex-gyre) (TG) Collection of Fonts
+ 1. Adventor (ITC Avant Garde Gothic)
+ 2. Bonum (ITC Bookman)
+ 3. Chorus (ITC Zapf Chancery) 
+ 4. Cursor (Courier) 
+ 5. Heros (Helvetica)
+ 6. Pagella (Palatino)
+ 7. Schola (Century Schoolbook)
+ 8. Termes (Times New Roman)
+
+
+| Apple       | Microsoft       |
+| ----------- | --------------- |
+| Linotype    | Monotype        |
+| Helvetica   | Arial           |
+| Times Roman | Times New Roman |
+| Courier     | Courier New     |
 
 
 ## Superfamilies 
-1. Alegreya - Serif, sans serif, and samll caps
-2. Bespoke - Sans, serif, slab, and stencil styes
-3. Computer Modern (by Donald E. Knuth for TeX default) cmr (antiqua), cmss (grotesque) and cmtt (monospaced)
-4. Corporate ASE (by Kurt Weidemann) antiqua, sans and Egyptienne
-5. Droid (by Steve Matteson) Droid Sans, Droid Serif and Droid Sans Mono.
-6. Fira - Sans, mono, and code ligatures
-7. Gandhi - Serif and sans
-8. IBM Plex (by Mike Abbink) IBM Plex Sans, IBM Plex Sans Condensed, IBM Plex Serif and IBM Plex Mono
-9. Inria - Serif and sans serif, also swashes.
-10. KP Serif & KP Sans-Serif
-11. Liberation (by Steve Matteson) Liberation Sans, Liberation Serif and Liberation Mono
-12. Merriweather + Sans
-13. Noto fonts (by Google) comprising Noto Sans, Noto Serif and Noto Mono, an expansion of the Droid family. 
-14. PT Fonts (ParaType Russia) by Alexandra Korolkova et al, comprising PT Serif, PT Sans and PT Mono.
-15. Quattrocento + Sans
-16. Roboto (by Christian Robertson) Roboto, condensed, Roboto Slab and Roboto Mono
-17. Rotis (by Otl Aicher) rotis serif, rotis semi-serif, rotis semi-sans and rotis sans
-18. Sassoon (by Rosemary Sassoon and Adrian William) Sassoon Sans, Sassoon Book, Sassoon Primary, Sassoon Infant and Sassoon Sans Slope
-19. Source (Adobe) by Paul D. Hunt and Frank Grießhammer, comprising Source Sans Pro, Source Serif Pro and Source Code Pro
-20. Stone by Sumner Stone, comprising Stone Serif, Stone Sans and Stone Informal
-21. Thesis by Lucas de Groot, comprising TheSans, TheSerif, TheMix and TheAntiqua
+1. **Alegreya** - Serif, sans serif, and samll caps
+2. **Bespoke** - Sans, serif, slab, and stencil styes
+3. **Computer Modern** (by Donald E. Knuth for TeX default) cmr (antiqua), cmss (grotesque) and cmtt (monospaced)
+4. **Corporate ASE** (by Kurt Weidemann) antiqua, sans and Egyptienne
+5. **Droid** (by Steve Matteson) Droid Sans, Droid Serif and Droid Sans Mono.
+6. **Fira** - Sans, mono, and code ligatures
+7. **Gandhi** - Serif and sans
+8. **IBM Plex** (by Mike Abbink) IBM Plex Sans, IBM Plex Sans Condensed, IBM Plex Serif and IBM Plex Mono
+9. **Inria** - Serif and sans serif, also swashes.
+10. **KP** Serif & KP Sans-Serif
+11. **Liberation** (by Steve Matteson) Liberation Sans, Liberation Serif and Liberation Mono
+12. **Merriweather** + Sans
+13. **Noto** fonts (by Google) comprising Noto Sans, Noto Serif and Noto Mono, an expansion of the Droid family. 
+14. **PT** Fonts (ParaType Russia) by Alexandra Korolkova et al, comprising PT Serif, PT Sans and PT Mono.
+15. **Quattrocento** + Sans
+16. **Roboto** (by Christian Robertson) Roboto, condensed, Roboto Slab and Roboto Mono
+17. **Rotis** (by Otl Aicher) rotis serif, rotis semi-serif, rotis semi-sans and rotis sans
+18. **Sassoon** (by Rosemary Sassoon and Adrian William) Sassoon Sans, Sassoon Book, Sassoon Primary, Sassoon Infant and Sassoon Sans Slope
+19. **Source** (Adobe) by Paul D. Hunt and Frank Grießhammer, comprising Source Sans Pro, Source Serif Pro and Source Code Pro
+20. **Stone** by Sumner Stone, comprising Stone Serif, Stone Sans and Stone Informal
+21. **Thesis** by Lucas de Groot, comprising TheSans, TheSerif, TheMix and TheAntiqua
 
 
 ## Timeline
@@ -353,7 +396,9 @@ The common typeface classifications are:
 ├── 2009 - Web Open Font Format (WOFF)
 └── 2016 - Variable fonts
 ```
-## Type Technologies
+
+
+## Technology Eras
 ```
 ┌── 3200 BC - Handwriting and calligraphy
 ├── 220 AD - Woodblock printing
@@ -362,7 +407,7 @@ The common typeface classifications are:
 ├── 1800s - Wooden font molds
 ├── 1890s - Continuous casting (Linotype)
 ├── 1950s - Phototypesetting
-└── 1970s – present - Digital typography
+└── 1980s to present - Digital typography
 ```
 
 ## Often Disliked 
@@ -424,6 +469,21 @@ There is no such thing as a bad font. There are only bad uses for fonts.
 22. [Universal Sans](https://universalsans.com/)
 
 
+## Fonts on GitHub
+
+1. [Liberation Fonts](https://github.com/liberationfonts/liberation-fonts)
+2. [Open Sauce Fonts](https://github.com/marcologous/Open-Sauce-Fonts)
+3. [+Jakarta Sans](https://github.com/tokotype/PlusJakartaSans)
+4. [Open Runde](https://github.com/lauridskern/open-runde) rounded variant of Inter. 
+5. [Young Serif](https://github.com/noirblancrouge/YoungSerif)
+6. [Optician Sans](https://github.com/anewtypeofinterference/Optician-Sans)
+7. [Metropolis](https://github.com/dw5/Metropolis)
+8. [Wanted Sans](https://github.com/wanteddev/wanted-sans)
+9. [Techna Sans](https://github.com/carlstype/techna-sans)
+10. [Overused Grotesk](https://github.com/RandomMaerks/Overused-Grotesk)
+11. [Aspekta](https://github.com/ivodolenc/aspekta)
+
+
 ## Fonts for code
 1. [Monaspace](https://monaspace.githubnext.com/)
 2. [Input](https://input.djr.com/)
@@ -475,17 +535,18 @@ There is no such thing as a bad font. There are only bad uses for fonts.
 32. Samsung's Sharp Sans by [Sharp Type](https://sharptype.co/case-studies/samsung-sharp-sans/) for Galaxy & SamsungOne for One UI.
 33. Smithsonian's [Cooper Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/). on [GitHub](https://github.com/cooperhewitt/cooperhewitt-typeface)
 34. Spotify Circular, a geometric sans-serif typeface.
-35. [TikTok Sans](https://newsroom.tiktok.com/en-us/introducing-tiktok-sans)
-36. Tripadvisor's Trip Sans by Colophon
-37. [Twilio Sans Mono](https://github.com/twilio/twilio-sans-mono) by Sharp Type
-38. Twitter's [Chirp](https://blog.twitter.com/en_us/topics/company/2021/imperfect-by-design) based on Grilli Type's GT America.
-39. Uber Move by [MCKL](https://mckltype.com/custom/uber)
-40. Ubisoft Sans by Colophon
-41. [Ubuntu Font Family](https://design.ubuntu.com/font) by Dalton Maag
-42. Vercel's [Geist](https://vercel.com/font/sans) 
-43. Vodafone typeface by Dalton Maag
-44. Wix [Madefor](https://www.wix.com/typeface/madefor) by Dalton Maag
-45. YouTube Sans with design agency [Saffron](https://saffron-consultants.com/work/youtube)
+35. Supernotes' [SN Pro](https://supernotes.app/blog/posts/sn-pro-font-family/) - based on Nunito
+36. [TikTok Sans](https://newsroom.tiktok.com/en-us/introducing-tiktok-sans)
+37. Tripadvisor's Trip Sans by Colophon
+38. [Twilio Sans Mono](https://github.com/twilio/twilio-sans-mono) by Sharp Type
+39. Twitter's [Chirp](https://blog.twitter.com/en_us/topics/company/2021/imperfect-by-design) based on Grilli Type's GT America.
+40. Uber Move by [MCKL](https://mckltype.com/custom/uber)
+41. Ubisoft Sans by Colophon
+42. [Ubuntu Font Family](https://design.ubuntu.com/font) by Dalton Maag
+43. Vercel's [Geist](https://vercel.com/font/sans) 
+44. Vodafone typeface by Dalton Maag
+45. Wix [Madefor](https://www.wix.com/typeface/madefor) by Dalton Maag
+46. YouTube Sans with design agency [Saffron](https://saffron-consultants.com/work/youtube)
 
 
 
@@ -546,3 +607,4 @@ There is no such thing as a bad font. There are only bad uses for fonts.
 - [Google Fonts](https://fonts.google.com/)
 - [Fontsource](https://fontsource.org/) 1695 families. NPM packages.
 
+**If you have any correction or suggestion please mention it in the [Discussion](https://github.com/subidit/typophilia/discussions) forum. 
