@@ -162,7 +162,8 @@
 1. utopia Utopia put
 2. fourier Fourier put
 3. Heuristica
-4. Venturis ADF No2
+4. Erewhon
+5. Venturis ADF No2
 
 ### Bitstream Vera Sans
 1. Bera and Bera Sans
@@ -185,8 +186,9 @@
 * Linux Libertine is a digital typeface created by the Libertine Open Fonts Project, which aims to create free and open alternatives to proprietary typefaces such as Times New Roman. A side project of Linux Libertine is Linux Biolinum: it is a sans serif font based on Optima. 
 * The Libertinus font family, including: Libertinus Serif, a serif font based on Linux Libertine. Libertinus Sans, a sans serif font based on Linux Biolinum and Optima.
 * New PX The text font provided is a Palladio clone. The fonts are enhanced versions of the PX Fonts. Other implementations of the Palladio font is mathpazo and TEX Gyre Pagella.
-* https://www.omnibus-type.com/fonts/
+* Archivo and Chivo (‘goat’ in Spanish) https://www.omnibus-type.com/fonts/ 
 * Theano Didot, Theano Modern, Theano OldStyle
 * The Venturis Collection consists of fonts made by Arkandis Digital Foundry (ADF), venturis, venturis2 and venturisold, Venturis ADF Sans
 * The Domitian fonts are a free and open-source OpenType font family, based on the Palatino design by Hermann Zapf (1918-2015), as implemented in Palladio, the version distributed as part of URW's free Core 35 PostScript fonts (2.0). Domitian is meant as a drop-in replacement for Adobe's version of Palatino. It extends Palladio with small capitals, old-style figures and scientific inferiors. The metrics have been adjusted to more closely match Adobe Palatino, and hinting has been improved.
+* PDF [A story of kpfonts](https://www.tug.org/TUGboat/tb31-3/tb99caignaert.pdf) frenchstyle option
 * https://scripts.sil.org/default

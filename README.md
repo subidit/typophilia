@@ -257,16 +257,16 @@ The common typeface classifications are:
 ## Notable Type Foundries
 
 1. Monotype  
-  1. Linotype 
-  2. Ascender Corp
-  3. Bitstream 
-  4. FontFont (FF)
-  5. Fontsmith 
-  6. URW Type Foundry
-  7. Hoefler & Co. 
-  8. Berthold 
-  9. International Typeface Corporation (ITC)
-  10. Colophon 
+    1. Linotype 
+    2. Ascender Corp
+    3. Bitstream 
+    4. FontFont (FF)
+    5. Fontsmith 
+    6. URW Type Foundry
+    7. Hoefler & Co. 
+    8. Berthold 
+    9. International Typeface Corporation (ITC)
+    10. Colophon 
 2. Adobe Originals
 3. American Type Founders (ATF) [Defunct]
 4. Apple Inc.
@@ -323,19 +323,21 @@ The common typeface classifications are:
 2. **DejaVu fonts** - derived from Bitstream Vera (sans-serif) and Bitstream Charter (serif).
 3. **GNU FreeFont** - Based on URW++ Nimbus, similar to Times, Helvetica and Courier.
 4. **Liberation Fonts** - metrically compatible with Arial, Arial Narrow, Times New Roman and Courier New
-5. **Linux Libertine** - similar to Times (serif) and Optima (sans-serif)
+5. **Linux Libertine** - similar to Times and Optima
 6. **Nimbus Core** - URW++ clones of Courier, Helvetica and Times
-7. **STIX Fonts project** - visually compatible with the Times New Roman family
-8. The [**TeX Gyre**](https://www.gust.org.pl/projects/e-foundry/tex-gyre) (TG) Collection of Fonts
- 1. Adventor (ITC Avant Garde Gothic)
- 2. Bonum (ITC Bookman)
- 3. Chorus (ITC Zapf Chancery) 
- 4. Cursor (Courier) 
- 5. Heros (Helvetica)
- 6. Pagella (Palatino)
- 7. Schola (Century Schoolbook)
- 8. Termes (Times New Roman)
-
+7. **PT Fonts** - by ParaType for the project "Public Types of Russian Federation"
+8. **QT Fonts** - 151 fonts by [Qualitype](http://luc.devroye.org/fonts-26839.html) 
+9. **STIX Fonts project** - visually compatible with the Times New Roman family
+10. The [**TeX Gyre**](https://www.gust.org.pl/projects/e-foundry/tex-gyre) (TG) Collection of Fonts
+     1. Adventor (ITC Avant Garde Gothic)
+     2. Bonum (ITC Bookman)
+     3. Chorus (ITC Zapf Chancery) 
+     4. Cursor (Courier) 
+     5. Heros (Helvetica)
+     6. Pagella (Palatino)
+     7. Schola (Century Schoolbook)
+     8. Termes (Times New Roman)
+ 
 
 | Apple       | Microsoft       |
 | ----------- | --------------- |
@@ -435,13 +437,14 @@ There is no such thing as a bad font. There are only bad uses for fonts.
 1. [Beautiful Web Type](https://beautifulwebtype.com/). 39 typaces. Pairings, features.
 2. [indestructible type*](https://indestructibletype.com/Home.html) by Owen Earl. 7 typefaces.
 3. [Fontshare](https://www.fontshare.com/) by Indian Type Foundry. 100 fonts, 59 pairs.
-4. [Open Foundry](https://open-foundry.com/fonts). 31 variable fonts.
-5. [The League Of Moveable Type](https://www.theleagueofmoveabletype.com/). 17 typefaces.
-6. [Free Faces](https://www.freefaces.gallery/). 77 typefaces.
+4. [Open Foundry](https://open-foundry.com/fonts) 31 variable fonts.
+5. [The League Of Moveable Type](https://www.theleagueofmoveabletype.com/) 17 typefaces.
+6. [Free Faces](https://www.freefaces.gallery/) 77 typefaces.
 7. [UNCUT.wtf](https://uncut.wtf/). 150 typefaces.
-8. [Collletttivo](https://www.collletttivo.it/). 12 typefaces.
+8. [Collletttivo](https://www.collletttivo.it/) 12 typefaces.
 9. [Brick](https://brick.im/fonts/) 60 typefaces.
 10. [The Velvetyne Type Foundry (VTF)](https://velvetyne.fr/)
+11. [Paratype](https://www.paratype.com/catalog?freefonts=true) 12 font families
 
 
 ## Noteworthy Free Fonts
@@ -583,20 +586,22 @@ There is no such thing as a bad font. There are only bad uses for fonts.
 5. [CreativeTacos](https://creativetacos.com/category/free-fonts/). 3300 fonts
 6. [DaFont](https://www.dafont.com/). 82,320 fonts.
 7. [Dafont Free](https://www.dafontfree.io/). 14,265 fonts.
-8. [Font Library](https://fontlibrary.org/en/catalogue). 1,366 fonts.
-9.  [Fontasy](http://fontasy.org/) 1105 fonts
-10. [FontCubes](http://www.fontcubes.com/)
-11. [FontM](https://fontm.com/)
-12. [FontPalace](https://www.fontpalace.com/)
-13. [FontPark](https://fontpark.com/)
-14. [FontReach](https://www.fontreach.com/). 2,700 fonts.
-15. [FontRiver](https://www.fontriver.com/). 60,000 fonts.
-16. [Fontsly](https://fontsly.com/)
-17. [FontSpace](https://www.fontspace.com/)
-18. [FontSpring](https://www.fontspring.com/)
-19. [FontSquirrel](https://www.fontsquirrel.com/)
-20. [FontStruct](https://fontstruct.com/gallery)
-21. [FontZone](https://fontzone.net/)
+8. [Font.Download](https://font.download/) 200,000+
+Free Fonts
+9. [Font Library](https://fontlibrary.org/en/catalogue). 1,366 fonts.
+10. [Fontasy](http://fontasy.org/) 1105 fonts
+11. [FontCubes](http://www.fontcubes.com/)
+12. [FontM](https://fontm.com/)
+13. [FontPalace](https://www.fontpalace.com/)
+14. [FontPark](https://fontpark.com/)
+15. [FontReach](https://www.fontreach.com/). 2,700 fonts.
+16. [FontRiver](https://www.fontriver.com/). 60,000 fonts.
+17. [Fontsly](https://fontsly.com/)
+18. [FontSpace](https://www.fontspace.com/)
+19. [FontSpring](https://www.fontspring.com/)
+20. [FontSquirrel](https://www.fontsquirrel.com/)
+21. [FontStruct](https://fontstruct.com/gallery)
+22. [FontZone](https://fontzone.net/)
 23. [FreebiesBug](https://freebiesbug.com/free-fonts/) 
 24. [Online Web Fonts](https://www.onlinewebfonts.com/fonts) - font files from websites
 25. [Urban Fonts](https://www.urbanfonts.com/free-fonts.htm)
