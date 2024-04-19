@@ -330,6 +330,26 @@ FF Meta clone
 
 <!--
 
+## Key rules 
+
+- The typographic quality of your document is determined largely by how the body text looks.
+- The appearance of the body text is determined primarily by these four typographic choices:
+1. Font choice - avoid default fonts.
+2. Point size - 10–12 pt for print. 15–25 px on web.
+3. Line spacing - 120–145% of the point size.
+4. Line length - 45–90 characters per line. 
+
+### Visual Hierarchy
+
+There are a variety of elements that work together to create a typographic hierarchy, including:
+
+1. Size & Weight
+2. Positioning & Alignment
+3. Color 
+4. Contrast
+5. Case
+6. Typeface
+
 
 ## Marketplaces
 
