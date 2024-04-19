@@ -136,9 +136,10 @@ Designed in the 1750s by John Baskerville (1706–1775) in Birmingham, England.
 9. Avenir by Adrian Frutiger 
 10. Spartan
 11. Twentieth Century by Monotype
-12. Product Sans
-13. Century Gothic
-14. Tasse is a revival of Steile Futura.
+12. ITC Avant Garde Gothic
+13. Product Sans
+14. Century Gothic
+15. Tasse is a revival of Steile Futura.
 
 
 
