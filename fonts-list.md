@@ -293,6 +293,23 @@ FF Meta clone
 - Bona Nova
 
 
+## Font File Formats
+
+1. **TrueType (.ttf):** Developed by Apple and Microsoft in the late 1980s, TrueType fonts are widely used and supported by both operating systems. They contain both the font outlines and the font instructions for rendering glyphs.
+
+2. **OpenType (.otf):** A more versatile and modern font format developed by Adobe and Microsoft. OpenType fonts can contain more glyphs (characters), support more languages, include advanced typographic features, and have better cross-platform compatibility. OpenType fonts can also be either TrueType-based or PostScript-based.
+
+3. **PostScript Type 1 (.pfb, .pfm):** Developed by Adobe, PostScript fonts were widely used in the past. They contain vector outlines of characters and were commonly used for printing. However, they've largely been replaced by OpenType fonts due to their limitations.
+
+4. **Web Open Font Format (WOFF, WOFF2):** These formats are specifically optimized for web use. WOFF and WOFF2 are compressed font formats that help improve web page loading times by reducing file sizes. They are based on OpenType or TrueType fonts and are widely supported by modern web browsers.
+
+5. **Embedded OpenType (EOT):** Another font format developed by Microsoft specifically for Internet Explorer. EOT fonts were created to address some security and licensing issues for web fonts but have been largely replaced by WOFF and WOFF2 formats.
+
+6. **SVG Fonts (.svg):** Based on Scalable Vector Graphics (SVG), these fonts use XML to describe glyphs, and each character is defined using vector graphics. SVG fonts are less common and have been largely superseded by other formats due to limitations in features and compatibility.
+
+7. **Variable Fonts:** Variable fonts contain multiple variations of a typeface (weight, width, slant, etc.) within a single file. They enable real-time adjustment of these attributes along a continuous spectrum, allowing for infinite possibilities of styles and weights. They offer dynamic control over attributes like weight, width, slant, and optical size, allowing smoother transitions between styles and enabling designers to fine-tune typography for various screen sizes, resolutions, and environments. They also reduce the number of HTTP requests and file downloads on the web, enhancing performance by delivering multiple font styles in a single file.
+
+
 ## Notes
 
 * Amasis was designed by typeface designer Ron Carpenter for the Monotype foundry in 1990. It has five weights, from Light to Black, with a true italic companion for each. Amasis has been used as a default font for the Nook e-reader.

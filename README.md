@@ -5,29 +5,30 @@ Become a Type Snob in 10 minutes. 💝
 > If you have any suggestion (correction or addition) please mention it in the [Discussion](https://github.com/subidit/typophilia/discussions) forum.
 
 ## Contents
-
-* [Influential Typefaces](#influential-typefaces)
-* [Typography Terms](#typography-terms)
-* [Type Anatomy](#type-anatomy)
-* [Font Variants](#font-variants)
-* [Font File Formats](#font-file-formats)
-* [Default Fonts](#default-fonts)
-* [Fonts in American Election](#fonts-in-american-election)
-* [Type Classification](#type-classification)
-* [Notable Type Foundries](#notable-type-foundries)
-* [Type Designers](#type-designers)
-* [Timeline](#timeline)
-* [Open-Source Projects](#open-source-projects)
-* [Custom Corporate Fonts](#custom-corporate-fonts)
-* [Noteworthy Free Fonts](#noteworthy-free-fonts)
-* [Fonts for code](#fonts-for-code)
-* [Free Typefaces by Foundries](#free-typefaces-by-foundries)
-* [Aggregators](#aggregators)
-* [Web Tools](#web-tools)
-* **More**
-  * [Top 100 typefaces](/100typefaces.md)
-  * [Most adopted fonts](/adaptations.md)
-  * [Fonts used in road signs](/transport-signage.md)
+<!-- no toc -->
+- [Influential Typefaces](#influential-typefaces)
+- [Typography Terms](#typography-terms)
+- [Type Anatomy](#type-anatomy)
+- [Font Variants](#font-variants)
+- [Default Fonts](#default-fonts)
+- [Fonts in American Election](#fonts-in-american-election)
+- [Type Classification](#type-classification)
+- [Notable Type Foundries](#notable-type-foundries)
+- [Type Designers](#type-designers)
+- [Timeline](#timeline)
+- [Printing Technology Eras](#printing-technology-eras)
+- [Often Disliked](#often-disliked)
+- [Open-Source Projects](#open-source-projects)
+- [Superfamilies](#superfamilies)
+- [Custom Corporate Fonts](#custom-corporate-fonts)
+- [Government typefaces](#government-typefaces)
+- [Noteworthy Free Fonts](#noteworthy-free-fonts)
+- [Fonts on GitHub (but not on google fonts)](#fonts-on-github-but-not-on-google-fonts)
+- [Fonts for code](#fonts-for-code)
+- [Free Typefaces by Foundries](#free-typefaces-by-foundries)
+- [Aggregators](#aggregators)
+- [Marketplaces](#marketplaces)
+- [Web Tools](#web-tools)
 
 
 
@@ -160,23 +161,6 @@ Source: _Thinking with Type_ by Ellen Lupton
 | Bold             |                     |
 | Extra/UltraBold  |                     |
 | Black/Heavy      |                     |
-
-
-## Font File Formats
-
-1. **TrueType (.ttf):** Developed by Apple and Microsoft in the late 1980s, TrueType fonts are widely used and supported by both operating systems. They contain both the font outlines and the font instructions for rendering glyphs.
-
-2. **OpenType (.otf):** A more versatile and modern font format developed by Adobe and Microsoft. OpenType fonts can contain more glyphs (characters), support more languages, include advanced typographic features, and have better cross-platform compatibility. OpenType fonts can also be either TrueType-based or PostScript-based.
-
-3. **PostScript Type 1 (.pfb, .pfm):** Developed by Adobe, PostScript fonts were widely used in the past. They contain vector outlines of characters and were commonly used for printing. However, they've largely been replaced by OpenType fonts due to their limitations.
-
-4. **Web Open Font Format (WOFF, WOFF2):** These formats are specifically optimized for web use. WOFF and WOFF2 are compressed font formats that help improve web page loading times by reducing file sizes. They are based on OpenType or TrueType fonts and are widely supported by modern web browsers.
-
-5. **Embedded OpenType (EOT):** Another font format developed by Microsoft specifically for Internet Explorer. EOT fonts were created to address some security and licensing issues for web fonts but have been largely replaced by WOFF and WOFF2 formats.
-
-6. **SVG Fonts (.svg):** Based on Scalable Vector Graphics (SVG), these fonts use XML to describe glyphs, and each character is defined using vector graphics. SVG fonts are less common and have been largely superseded by other formats due to limitations in features and compatibility.
-
-7. **Variable Fonts:** Variable fonts contain multiple variations of a typeface (weight, width, slant, etc.) within a single file. They enable real-time adjustment of these attributes along a continuous spectrum, allowing for infinite possibilities of styles and weights. They offer dynamic control over attributes like weight, width, slant, and optical size, allowing smoother transitions between styles and enabling designers to fine-tune typography for various screen sizes, resolutions, and environments. They also reduce the number of HTTP requests and file downloads on the web, enhancing performance by delivering multiple font styles in a single file.
 
 
 ## Default Fonts
@@ -500,6 +484,14 @@ The common typeface classifications are:
 41. Wix [Madefor](https://www.wix.com/typeface/madefor) by Dalton Maag
 42. YouTube Sans with design agency [Saffron](https://saffron-consultants.com/work/youtube)
 
+## Government typefaces
+
+1. [Public Sans](https://public-sans.digital.gov/) by U.S. Web Design System ([USWDS](https://designsystem.digital.gov/))
+2. [Canada1500](http://typodermicfonts.com/canada1500/)
+3. [Sweden Sans](https://sharingsweden.se/the-sweden-brand/brand-visual-identity/typography)
+4. [e-Ukraine](https://thedigital.gov.ua/fonts)
+5. [+Jakarta Sans](https://github.com/tokotype/PlusJakartaSans)
+
 
 ## Noteworthy Free Fonts
 
@@ -507,29 +499,25 @@ The common typeface classifications are:
 2. Mozilla's [Fira Type Family](https://mozilla.github.io/Fira/) on [GitHub](https://github.com/mozilla/Fira)
 3. [IBM Plex](https://www.ibm.com/plex/) on [GitHub](https://github.com/IBM/plex)
 4. GitHub's [Monaspace superfamily](https://monaspace.githubnext.com/) & [Mona Sans](https://github.com/mona-sans)
-5. [Public Sans](https://public-sans.digital.gov/) by U.S. Web Design System ([USWDS](https://designsystem.digital.gov/))
-6. [Inter](https://rsms.me/inter/) originally built for [Figma](https://www.figma.com/blog/the-birth-of-inter/)
-7. [Cooper Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/) from Smithsonian Design Musium on [GitHub](https://github.com/cooperhewitt/cooperhewitt-typeface)
+5. [Inter](https://rsms.me/inter/) originally built for [Figma](https://www.figma.com/blog/the-birth-of-inter/)
+6. [Cooper Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/) from Smithsonian Design Musium on [GitHub](https://github.com/cooperhewitt/cooperhewitt-typeface)
+7. [National Park Typeface](https://nationalparktypeface.com/)
 8. [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) by Braille Institute for low vision readers
-9. [National Park Typeface](https://nationalparktypeface.com/)
-10. [London Underground Dot-Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
-11. [Canada1500](http://typodermicfonts.com/canada1500/)
-12. [Sweden Sans](https://sharingsweden.se/the-sweden-brand/brand-visual-identity/typography)
-13. [Averia](http://iotic.com/averia/) - the average font
-14. [B612](https://b612-font.com/) - Aeronautical Font by Airbus for cockpit screens
-15. [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/) - lettering style found on technical drawings (More links to other fonts)
-16. [Redaction](https://www.redaction.us/)
-17. [Cantarell](https://cantarell.gnome.org/)
-18. [ZXX](https://www.librarystack.org/zxx/) - Illegible to OCR
-19. [QCMU](https://quantum-village.github.io/QCMU-font.html) - to make diagrams of quantum circuits!
-20. [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - censors bad language automatically
-21. [OpenDyslexic](https://opendyslexic.org/) - A typeface for Dyslexia
-22. [Shake](https://writewithparkinsons.com/) - A Typeface with Parkinson's
-23. FE-Schrift - forgery-impeding typeface for licence plates.
-24. [LAIKA](https://laikafont.ch/) – a dynamic typeface
-25. [Luciole](https://www.luciole-vision.com/luciole-en.html) - for visually impaired people
-26. [+Jakarta Sans](https://github.com/tokotype/PlusJakartaSans)
-27. [Universal Sans](https://universalsans.com/)
+9. [London Underground Dot-Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
+10. [Averia](http://iotic.com/averia/) - the average font
+11. [B612](https://b612-font.com/) - Aeronautical Font by Airbus for cockpit screens
+12. [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/) - lettering style found on technical drawings (More links to other fonts)
+13. [Redaction](https://www.redaction.us/)
+14. [Cantarell](https://cantarell.gnome.org/)
+15. [ZXX](https://www.librarystack.org/zxx/) - Illegible to OCR
+16. [QCMU](https://quantum-village.github.io/QCMU-font.html) - to make diagrams of quantum circuits!
+17. [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - censors bad language automatically
+18. [OpenDyslexic](https://opendyslexic.org/) - A typeface for Dyslexia
+19. [Shake](https://writewithparkinsons.com/) - A Typeface with Parkinson's
+20. FE-Schrift - forgery-impeding typeface for licence plates.
+21. [LAIKA](https://laikafont.ch/) – a dynamic typeface
+22. [Luciole](https://www.luciole-vision.com/luciole-en.html) - for visually impaired people
+23. [Universal Sans](https://universalsans.com/)
 
 
 ## Fonts on GitHub (but not on google fonts)
