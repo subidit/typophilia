@@ -637,3 +637,4 @@ Source: _Thinking with Type_ by Ellen Lupton
 32. **Tittle**: The dot on the ‘i’ and the ‘j’.
 33. **Vertex**: The point at the bottom (or top) of a character where two strokes meet, for example the ‘v’, ‘V’, ‘w’, ‘W’ etc.
 
+
