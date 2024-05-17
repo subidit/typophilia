@@ -5,138 +5,32 @@ Become a Type Snob in 10 minutes. 💝
 > If you have any suggestion (correction or addition) please mention it in the [Discussion](https://github.com/subidit/typophilia/discussions) forum.
 
 ## Contents
-<!-- no toc -->
-- [Influential Typefaces](#influential-typefaces)
-- [Typography Terms](#typography-terms)
-- [Type Anatomy](#type-anatomy)
-- [Font Variants](#font-variants)
+
+- [Typeface Variants](#typeface-variants-or-fonts)
 - [Default Fonts](#default-fonts)
 - [Fonts in American Election](#fonts-in-american-election)
 - [Type Classification](#type-classification)
 - [Notable Type Foundries](#notable-type-foundries)
 - [Type Designers](#type-designers)
 - [Timeline](#timeline)
-- [Printing Technology Eras](#printing-technology-eras)
 - [Often Disliked](#often-disliked)
 - [Open-Source Projects](#open-source-projects)
 - [Superfamilies](#superfamilies)
-- [Custom Corporate Fonts](#custom-corporate-fonts)
+- [Custom Corporate Typefaces](#custom-corporate-typefaces)
 - [Government typefaces](#government-typefaces)
 - [Noteworthy Free Fonts](#noteworthy-free-fonts)
 - [Fonts on GitHub (but not on google fonts)](#fonts-on-github-but-not-on-google-fonts)
-- [Fonts for code](#fonts-for-code)
-- [Free Typefaces by Foundries](#free-typefaces-by-foundries)
+- [Popular fonts for code](#popular-fonts-for-code)
+- [Free Typeface Catalogues by Foundries](#free-typeface-catalogues-by-foundries)
 - [Aggregators](#aggregators)
 - [Marketplaces](#marketplaces)
 - [Web Tools](#web-tools)
+- [Influential Typefaces](#influential-typefaces)
+- [Typography Terms](#typography-terms)
+- [Type Anatomy](#type-anatomy)
 
 
-
-## Influential Typefaces
-
-1. **BASKERVILLE** Designed by _John Baskerville_, 1757
-2. **BODONI** Designed by _Giambattista Bodoni_, 1790s
-3. ADOBE **CASLON** Designed by _Carol Twombly_, 1990, based on pages printed by _William Caslon_, 1734-70
-4. **CENTAUR** Designed by _Bruce Rogers_, 1912-14. The _italic_, by _Frederic Warde_, is based on the fifteenth-century hand of _Ludovico delgi Arrighi_.
-5. **CENTURY EXPANDED** Designed by _Morris Fuller Benton_, 1900
-6. **CLARENDON** Named for the Clarendon Press, Oxford, who commissioned it in 1845
-7. HTF **DIDOT** Designed by _Jonathan Hoefler_, 1992, inspired by the types of _Francois Ambroise Didot_, 1784
-8. **FEDRA SANS** Designed by _Peter Bilak_, 2001, who was asked to create a "de-Prostestantized Univers"
-9. **FILOSOFIA** Designed by _Zuzana Licko_, 1996, a revival of the types of Bodoni
-10. **FRUTIGER** Designed by _Adrian Frutiger_, 1976
-11. **FRANKLIN GOTHIC** Designed by _Morris Fuller Benton_, 1904
-12. **FUTURA** Designed by _Paul Renner_, 1927, who sought an "honest expression of technical processes."
-13. **GEORGIA** Designed by _Matthew Carter_, 1996, for display on screen
-14. **GILL SANS** Designed by _Eric Gill_, 1928. It has been described as Britain's Helvetica.
-15. ADOBE **GARAMOND** Designed by _Robert Slimbach_, 1989, based on pages printed by _Claude Garamond_ in the sixteenth century
-16. **GOTHAM** Designed by _Tobias Frere-Jones_, 2000, inspired by lettering found at Port Authority Bus Terminal, New York City
-17. **HELVETICA** Designed by _Max Miedinger_, 1957
-18. **HOEFLER TEXT** Designed by _Jonathan Hoefler_, c. 1995
-19. **INTERSTATE** Designed by _Tobias Frere-Jones_, 1993, inspired by U.S. highway signs
-20. ADOBE **JENSON** Designed by _Robert Slimbach_, 1995
-21. **META** Designed by _Erik Spiekermann_, 1991
-22. **MRS EAVES** Designed by _Zuzana Licko_, 1996, inspired by pages printed by _John Baskerville_
-23. **NEUTRAFACE** Designed by _Christian Schwartz_, House Industries, 2002, based on lettering created by the architect _Richard Neutra_ in the 1940s and 1950s
-24. **NOBEL** Designed by _Tobias Frere-Jones_, 1993, based on 1929 types by the Dutch typographer _Sjoerd Henrik de Roos_. Frere-Jones describes Nobel as "Futura cooked in a dirty pan."
-25. **NEWS GOTHIC** Designed by _Morris Fuller Benton_, 1908
-26. **QUADRAAT** Designed by _Fred Smeijers_, 1992
-27. **SABON** Designed by _Jan Tschichold_, 1966, inspired by the sixteenth-century types of _Claude Garamond_
-28. **SCALA** Designed by _Martin Majoor_, 1991
-29. **THESIS SERIF** Designed by _Lucas de Groot_, 1994
-30. **TRADE GOTHIC** Designed by _Jackson Burke_, 1948-60, inspired by nineteenth-century grotesques
-31. **UNIVERS** Designed by _Adrian Frutiger_, 1957
-32. **VERDANA** Designed by _Matthew Carter_, 1996, for display on screen
-33. **WALBAUM** Designed by _Justus Erich Walbaum_, 1800
-
-Source: _Thinking with Type_ by Ellen Lupton
-
-
-
-## Typography Terms
-
-1. **Grotesk**: The common German name for sans serif faces, as opposed to “Antiqua” which means serif face.
-2. **Antiqua**: The common German and Scandinavian names for serif faces, The Scandinavian name is “Antikva”.
-3. **Roman**: Standard type style or regular weight of an upright typeface
-4. **Diacritics**: A diacritic is an ancillary mark or sign added to a letter. Accents are one type of diacritics.
-5. **Dingbats**: Decorative symbols and characters that are generally not included in a font or character set, including boxes, bullets, arrows, pointers, and other characters. Often made up into their own font.
-6. **Oldstyle figures**: Numbers that have different heights, some aligning to the baseline, some below. Oldstyle figures harmonize well with lowercase letters. Using oldstyle figures helps keep the numbers from standing out too much and disturbing the overall flow of the typography on the page. Oldstyle figures can be _proportional_ or _tabular_.
-7. **Lining figures (LF)**: Numbers that rest on the baseline, and are usually the same height as capital letters. Lining figures can be tabular or proportional.
-8. **Font**: particular size or style of a typeface, say 10 point regular or 24 point italic.
-9. **Typeface**: the specific design of the letters, say Times New Roman or Baskerville.
-10. **Glyph**: individual symbols of the typeface, say letter, number, punctuation mark, accented variations, etc.
-11. **Baseline, Cap Line, x-Height**
-12. **Tracking** is Letter-Spacing.
-13. **Kerning** is spacing between two specific letters, eg. LT, VA or To.
-14. **Leading** is Line-Spacing.
-15. Fixed-width is **Monospaced**.
-16. Italics is _not_ same as Slanted or Oblique.
-17. **Ink trap** An ink trap is an intentional negative space built into the design of characters’ letterforms to literally trap ink at certain intersections of the strokes, where ink might pool or bleed and create an undesirable emboldening of the text. It is only needed for small point sizes and are usually only found on typefaces designed for printing on newsprint. But in modern typefaces often serve a more stylistic purpose rather than their traditional intent.
-18. **Widows & orphans** A widow is the one (or few) words that appears at the top of a new page. An orphan is a single word (or syllable) that sits at the bottom of a paragraph of text.
-19. Faux, fake, pseudo, or synthesized - When software attempts to emulate an italic style, bold (or other) weight, ordinals, or small caps in lieu of actual font files for those variants.
-
-
-
-## Type Anatomy
-
-> Examples depend on the typeface, may not be present in this font.
-
-1. **Aperture**: partially enclosed, somewhat rounded negative space (n, c, C, s, S, e)
-2. **Apex**: in the capital ‘A’.
-3. **Arm**: A horizontal or upward, sloping stroke that does not connect. (r, E, F, T, V)
-4. **Ascender**: partially enclosed, somewhat rounded negative space (b, d, f, h, k)
-5. **Axis / Stress**: An imaginary line drawn from top to bottom of a glyph bisecting the upper and lower strokes is the axis.
-6. **Ball / Teardrop Terminal** (‘f’)
-7. **Beak**: decorative stroke at the end of the arm (More pronounced serifs of E, F)
-8. **Bowl**: The curved part of the character that encloses the circular or curved parts (or counter) (d,b,o,g,D,B)
-9. **Counter**: The open or negative space in a fully or partly closed area within a letter. Bowl + Aperture letters.
-10. **Cross Stroke**: (f/t)
-11. **Crossbar**: horizontal stroke across the middle of uppercase ‘A’ and ‘H’.
-12. **Crotch**: (V/W/Y) - where two strokes meet and form an interior angle.
-13. **Descender**: Any part in a lowercase letter that extends below the baseline (g, j, p, q, y, etc.)
-14. **Double-storey**: A double-storey ‘a’ or ‘g’ has two counters.
-15. **Ear**: Typically found on the lowercase double storey ‘g’, an ear is a finishing stroke usually on the upper right side of the bowl.
-16. **Eye**: Enclosed space in a lowercase ‘e’.
-17. **Finial / Taper**
-18. **Flag**: The horizontal stroke at the top of the numeral ‘5’.
-19. **Gadzook**: An embellishment that connects the letters in a ligature but is not originally part of either letter.
-20. **Hook**: of ‘f’,‘J’ and ‘j’.
-21. **Leg**: (‘K’, ‘k’ and ‘R’)
-22. **Ligature**: (‘fi’, ‘fl’, ‘ff’, ‘ffl’)
-23. **Loop/Lobe**: In some double-storey ‘g’
-24. **Neck / Link**: The link connecting the top and bottom bowls of some lowercase ‘g’.
-25. **Overshoot** is the part of a letterform that extends above or below the vertical dimensions of flatter glyphs.
-26. **Shoulder**: arm that is connected on both ends (‘h’, ‘m’, ‘n’)
-27. **Spine**: The main curve in ‘S’ and ‘s’.
-28. **Spur**: Small protruding part on uppercase ‘G’.
-29. **Stem**
-30. **Swash**: An elegant extension on a letter form, either a modification of an existing part or an added-on part.
-31. **Tail**: of an uppercase ‘Q’.
-32. **Tittle**: The dot on the ‘i’ and the ‘j’.
-33. **Vertex**: The point at the bottom (or top) of a character where two strokes meet, for example the ‘v’, ‘V’, ‘w’, ‘W’ etc.
-
-
-
-## Font Variants
+## Typeface Variants or Fonts
 
 - Bold
 - Italics
@@ -176,6 +70,17 @@ Source: _Thinking with Type_ by Ellen Lupton
 | TeX               | Computer Modern |
 | Kindle            | Bookerly        |
 | Google Play Books | Literata        |
+
+
+> In early days Apple licensed fonts from Linotype and Microsoft from Monotype. Linotype and Monotype were the `Apple vs. Microsoft` of its era (i.e. hot metal typesetting days) and they had (metrically) similar fonts.
+
+| Apple       | Microsoft       |
+| ----------- | --------------- |
+| Linotype    | Monotype        |
+| Helvetica   | Arial           |
+| Times Roman | Times New Roman |
+| Courier     | Courier New     |
+
 
 
 ## Fonts in American Election
@@ -282,6 +187,7 @@ The common typeface classifications are:
 13. P22 Type Foundry
 14. Typotheque
 
+
 ## Type Designers
 
 1. **ADRIAN FRUTIGER** (Swiss) Univers, Frutiger, Avenir
@@ -346,7 +252,8 @@ The common typeface classifications are:
 └── 2016 - Variable fonts
 ```
 
-## Printing Technology Eras
+
+### Printing Technology Eras
 
 ```
 ┌── 3200 BC - Handwriting and calligraphy
@@ -390,7 +297,7 @@ The common typeface classifications are:
 6. **Nimbus Core** - URW++ clones of Courier, Helvetica and Times
 7. **PT Fonts** - by ParaType for the project "Public Types of Russian Federation"
 8. **QT Fonts** - 151 fonts by [Qualitype](http://luc.devroye.org/fonts-26839.html)
-9. **STIX Fonts project** - visually compatible with the Times New Roman family
+9. **STIX Fonts project** - Scientific and Technical Information Exchange, visually compatible with the Times New Roman family
 10. The [**TeX Gyre**](https://www.gust.org.pl/projects/e-foundry/tex-gyre) (TG) Collection of Fonts
     1. Adventor (ITC Avant Garde Gothic)
     2. Bonum (ITC Bookman)
@@ -400,16 +307,6 @@ The common typeface classifications are:
     6. Pagella (Palatino)
     7. Schola (Century Schoolbook)
     8. Termes (Times New Roman)
-
-> In early days Apple licensed fonts from Linotype and Microsoft from Monotype. Linotype and Monotype were the `Apple vs. Microsoft` of its era (i.e. hot metal typesetting days) and they had (metrically) similar fonts.
-
-| Apple       | Microsoft       |
-| ----------- | --------------- |
-| Linotype    | Monotype        |
-| Helvetica   | Arial           |
-| Times Roman | Times New Roman |
-| Courier     | Courier New     |
-
 
 
 ## Superfamilies
@@ -439,7 +336,7 @@ The common typeface classifications are:
 21. **Thesis** by Lucas de Groot, comprising TheSans, TheSerif, TheMix and TheAntiqua
 
 
-## Custom Corporate Fonts
+## Custom Corporate Typefaces
 
 1. [Airbnb Cereal](https://airbnb.design/cereal/) by Dalton Maag on [GitHub](https://github.com/iyadh/cereal-airbnb-font)
 2. Amazon [Ember](https://developer.amazon.com/en-US/alexa/branding/echo-guidelines/identity-guidelines/typography) for Echo & Bookerly for Kindle by Dalton Maag
@@ -537,7 +434,7 @@ The common typeface classifications are:
 13. [Helmet](https://github.com/carlstype/helmet) - a neo-grotesque display typeface.
 
 
-## Fonts for code
+## Popular fonts for code
 
 1. [Iosevka](https://typeof.net/Iosevka/)
 2. [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
@@ -556,7 +453,7 @@ The common typeface classifications are:
 15. [0xProto](https://github.com/0xType/0xProto)
 
 
-## Free Typefaces by Foundries
+## Free Typeface Catalogues by Foundries
 
 1. [Fontshare](https://www.fontshare.com/) by Indian Type Foundry. 100 fonts, 59 pairs.
 2. [indestructible type\*](https://indestructibletype.com/Home.html) by Owen Earl. 7 typefaces.
@@ -635,3 +532,108 @@ The common typeface classifications are:
 20. [Typefaceoff](https://typefaceoff.github.io/typefaceoff/) for facing off typefaces.
 21. [Font Library](https://fontlibrary.dev/?) - Google fonts by tags
 22. [GooFonts](https://goofonts.com/) - Google fonts tagged
+
+
+
+## Influential Typefaces
+
+1. **BASKERVILLE** Designed by _John Baskerville_, 1757
+2. **BODONI** Designed by _Giambattista Bodoni_, 1790s
+3. ADOBE **CASLON** Designed by _Carol Twombly_, 1990, based on pages printed by _William Caslon_, 1734-70
+4. **CENTAUR** Designed by _Bruce Rogers_, 1912-14. The _italic_, by _Frederic Warde_, is based on the fifteenth-century hand of _Ludovico delgi Arrighi_.
+5. **CENTURY EXPANDED** Designed by _Morris Fuller Benton_, 1900
+6. **CLARENDON** Named for the Clarendon Press, Oxford, who commissioned it in 1845
+7. HTF **DIDOT** Designed by _Jonathan Hoefler_, 1992, inspired by the types of _Francois Ambroise Didot_, 1784
+8. **FEDRA SANS** Designed by _Peter Bilak_, 2001, who was asked to create a "de-Prostestantized Univers"
+9. **FILOSOFIA** Designed by _Zuzana Licko_, 1996, a revival of the types of Bodoni
+10. **FRUTIGER** Designed by _Adrian Frutiger_, 1976
+11. **FRANKLIN GOTHIC** Designed by _Morris Fuller Benton_, 1904
+12. **FUTURA** Designed by _Paul Renner_, 1927, who sought an "honest expression of technical processes."
+13. **GEORGIA** Designed by _Matthew Carter_, 1996, for display on screen
+14. **GILL SANS** Designed by _Eric Gill_, 1928. It has been described as Britain's Helvetica.
+15. ADOBE **GARAMOND** Designed by _Robert Slimbach_, 1989, based on pages printed by _Claude Garamond_ in the sixteenth century
+16. **GOTHAM** Designed by _Tobias Frere-Jones_, 2000, inspired by lettering found at Port Authority Bus Terminal, New York City
+17. **HELVETICA** Designed by _Max Miedinger_, 1957
+18. **HOEFLER TEXT** Designed by _Jonathan Hoefler_, c. 1995
+19. **INTERSTATE** Designed by _Tobias Frere-Jones_, 1993, inspired by U.S. highway signs
+20. ADOBE **JENSON** Designed by _Robert Slimbach_, 1995
+21. **META** Designed by _Erik Spiekermann_, 1991
+22. **MRS EAVES** Designed by _Zuzana Licko_, 1996, inspired by pages printed by _John Baskerville_
+23. **NEUTRAFACE** Designed by _Christian Schwartz_, House Industries, 2002, based on lettering created by the architect _Richard Neutra_ in the 1940s and 1950s
+24. **NOBEL** Designed by _Tobias Frere-Jones_, 1993, based on 1929 types by the Dutch typographer _Sjoerd Henrik de Roos_. Frere-Jones describes Nobel as "Futura cooked in a dirty pan."
+25. **NEWS GOTHIC** Designed by _Morris Fuller Benton_, 1908
+26. **QUADRAAT** Designed by _Fred Smeijers_, 1992
+27. **SABON** Designed by _Jan Tschichold_, 1966, inspired by the sixteenth-century types of _Claude Garamond_
+28. **SCALA** Designed by _Martin Majoor_, 1991
+29. **THESIS SERIF** Designed by _Lucas de Groot_, 1994
+30. **TRADE GOTHIC** Designed by _Jackson Burke_, 1948-60, inspired by nineteenth-century grotesques
+31. **UNIVERS** Designed by _Adrian Frutiger_, 1957
+32. **VERDANA** Designed by _Matthew Carter_, 1996, for display on screen
+33. **WALBAUM** Designed by _Justus Erich Walbaum_, 1800
+
+Source: _Thinking with Type_ by Ellen Lupton
+
+
+
+## Typography Terms
+
+1. **Grotesk**: The common German name for sans serif faces, as opposed to “Antiqua” which means serif face.
+2. **Antiqua**: The common German and Scandinavian names for serif faces, The Scandinavian name is “Antikva”.
+3. **Roman**: Standard type style or regular weight of an upright typeface
+4. **Diacritics**: A diacritic is an ancillary mark or sign added to a letter. Accents are one type of diacritics.
+5. **Dingbats**: Decorative symbols and characters that are generally not included in a font or character set, including boxes, bullets, arrows, pointers, and other characters. Often made up into their own font.
+6. **Oldstyle figures**: Numbers that have different heights, some aligning to the baseline, some below. Oldstyle figures harmonize well with lowercase letters. Using oldstyle figures helps keep the numbers from standing out too much and disturbing the overall flow of the typography on the page. Oldstyle figures can be _proportional_ or _tabular_.
+7. **Lining figures (LF)**: Numbers that rest on the baseline, and are usually the same height as capital letters. Lining figures can be tabular or proportional.
+8. **Font**: particular size or style of a typeface, say 10 point regular or 24 point italic.
+9. **Typeface**: the specific design of the letters, say Times New Roman or Baskerville.
+10. **Glyph**: individual symbols of the typeface, say letter, number, punctuation mark, accented variations, etc.
+11. **Baseline, Cap Line, x-Height**
+12. **Tracking** is Letter-Spacing.
+13. **Kerning** is spacing between two specific letters, eg. LT, VA or To.
+14. **Leading** is Line-Spacing.
+15. Fixed-width is **Monospaced**.
+16. Italics is _not_ same as Slanted or Oblique.
+17. **Ink trap** An ink trap is an intentional negative space built into the design of characters’ letterforms to literally trap ink at certain intersections of the strokes, where ink might pool or bleed and create an undesirable emboldening of the text. It is only needed for small point sizes and are usually only found on typefaces designed for printing on newsprint. But in modern typefaces often serve a more stylistic purpose rather than their traditional intent.
+18. **Widows & orphans** A widow is the one (or few) words that appears at the top of a new page. An orphan is a single word (or syllable) that sits at the bottom of a paragraph of text.
+19. Faux, fake, pseudo, or synthesized - When software attempts to emulate an italic style, bold (or other) weight, ordinals, or small caps in lieu of actual font files for those variants.
+
+
+
+## Type Anatomy
+
+> Examples depend on the typeface, may not be present in this font.
+
+1. **Aperture**: partially enclosed, somewhat rounded negative space (n, c, C, s, S, e)
+2. **Apex**: in the capital ‘A’.
+3. **Arm**: A horizontal or upward, sloping stroke that does not connect. (r, E, F, T, V)
+4. **Ascender**: partially enclosed, somewhat rounded negative space (b, d, f, h, k)
+5. **Axis / Stress**: An imaginary line drawn from top to bottom of a glyph bisecting the upper and lower strokes is the axis.
+6. **Ball / Teardrop Terminal** (‘f’)
+7. **Beak**: decorative stroke at the end of the arm (More pronounced serifs of E, F)
+8. **Bowl**: The curved part of the character that encloses the circular or curved parts (or counter) (d,b,o,g,D,B)
+9. **Counter**: The open or negative space in a fully or partly closed area within a letter. Bowl + Aperture letters.
+10. **Cross Stroke**: (f/t)
+11. **Crossbar**: horizontal stroke across the middle of uppercase ‘A’ and ‘H’.
+12. **Crotch**: (V/W/Y) - where two strokes meet and form an interior angle.
+13. **Descender**: Any part in a lowercase letter that extends below the baseline (g, j, p, q, y, etc.)
+14. **Double-storey**: A double-storey ‘a’ or ‘g’ has two counters.
+15. **Ear**: Typically found on the lowercase double storey ‘g’, an ear is a finishing stroke usually on the upper right side of the bowl.
+16. **Eye**: Enclosed space in a lowercase ‘e’.
+17. **Finial / Taper**
+18. **Flag**: The horizontal stroke at the top of the numeral ‘5’.
+19. **Gadzook**: An embellishment that connects the letters in a ligature but is not originally part of either letter.
+20. **Hook**: of ‘f’,‘J’ and ‘j’.
+21. **Leg**: (‘K’, ‘k’ and ‘R’)
+22. **Ligature**: (‘fi’, ‘fl’, ‘ff’, ‘ffl’)
+23. **Loop/Lobe**: In some double-storey ‘g’
+24. **Neck / Link**: The link connecting the top and bottom bowls of some lowercase ‘g’.
+25. **Overshoot** is the part of a letterform that extends above or below the vertical dimensions of flatter glyphs.
+26. **Shoulder**: arm that is connected on both ends (‘h’, ‘m’, ‘n’)
+27. **Spine**: The main curve in ‘S’ and ‘s’.
+28. **Spur**: Small protruding part on uppercase ‘G’.
+29. **Stem**
+30. **Swash**: An elegant extension on a letter form, either a modification of an existing part or an added-on part.
+31. **Tail**: of an uppercase ‘Q’.
+32. **Tittle**: The dot on the ‘i’ and the ‘j’.
+33. **Vertex**: The point at the bottom (or top) of a character where two strokes meet, for example the ‘v’, ‘V’, ‘w’, ‘W’ etc.
+
