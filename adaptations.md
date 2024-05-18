@@ -131,7 +131,7 @@ Designed in the 1750s by John Baskerville (1706–1775) in Birmingham, England.
 4. Futura PT by ParaType
 5. Futura by URW++
 6. Futura Classic
-7. FuturaRenner (2011) free and open source
+7. Formera (aka FuturaRenner)
 8. Futura Now by Monotype
 9. Avenir by Adrian Frutiger 
 10. Spartan

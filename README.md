@@ -1,23 +1,29 @@
-# Typeface Trivia
+# Typeface Trivia <!-- omit from toc -->
 
 Become a Type Snob in 10 minutes. 💝
 
 > If you have any suggestion (correction or addition) please mention it in the [Discussion](https://github.com/subidit/typophilia/discussions) forum.
 
-## Contents
+## Contents <!-- omit from toc -->
 
-- [Typeface Variants](#typeface-variants-or-fonts)
+- [Typeface Variants or Fonts](#typeface-variants-or-fonts)
 - [Default Fonts](#default-fonts)
 - [Fonts in American Election](#fonts-in-american-election)
 - [Type Classification](#type-classification)
+  - [Vox-ATypI classification (depricated)](#vox-atypi-classification-depricated)
+    - [Classicals](#classicals)
+    - [Moderns](#moderns)
+    - [Lineal](#lineal)
+    - [Calligraphics](#calligraphics)
 - [Notable Type Foundries](#notable-type-foundries)
 - [Type Designers](#type-designers)
 - [Timeline](#timeline)
+  - [Printing Technology Eras](#printing-technology-eras)
 - [Often Disliked](#often-disliked)
 - [Open-Source Projects](#open-source-projects)
 - [Superfamilies](#superfamilies)
 - [Custom Corporate Typefaces](#custom-corporate-typefaces)
-- [Government typefaces](#government-typefaces)
+- [Government Organisation typefaces](#government-organisation-typefaces)
 - [Noteworthy Free Fonts](#noteworthy-free-fonts)
 - [Fonts on GitHub (but not on google fonts)](#fonts-on-github-but-not-on-google-fonts)
 - [Popular fonts for code](#popular-fonts-for-code)
@@ -95,6 +101,7 @@ Become a Type Snob in 10 minutes. 💝
 | 2020 | Inter              |
 
 
+
 ## Type Classification
 
 The common typeface classifications are:
@@ -116,9 +123,9 @@ The common typeface classifications are:
 ├── Moderns
 │   ├── Didone
 │   ├── Mechanistic [Slab Serif/Egyptian]
-│   └── Lineal [Sans-Serif/Grotesque/Gothic]
+│   └── Lineal [Sans-Serif]
 │       │
-│       ├── Grotesque
+│       ├── Grotesque [Gothic]
 │       ├── Neo-grotesque
 │       ├── Geometric
 │       └── Humanist
@@ -166,7 +173,7 @@ The common typeface classifications are:
    1. Linotype
    2. Ascender Corp
    3. Bitstream
-   4. FontFont (FF) (erstwhile fontshop.com)
+   4. FontFont (FF) (fontshop.com)
    5. Fontsmith
    6. URW Type Foundry
    7. Hoefler & Co.
@@ -186,41 +193,43 @@ The common typeface classifications are:
 12. Indian Type Foundry (ITF)
 13. P22 Type Foundry
 14. Typotheque
+15. Klim Type Foundry
 
 
 ## Type Designers
 
-1. **ADRIAN FRUTIGER** (Swiss) Univers, Frutiger, Avenir
-2. **ALBERT-JAN POOL** (Dutch) FF DIN, DIN 1451
-3. **CAROL TWOMBLY** (American) Trajan, Myriad, Adobe Caslon
-4. **CLAUDE GARAMOND** (French)
-5. **DONALD KNUTH** (American) Computer Modern
-6. **ED BENGUIAT** (American) Tiffany, Bookman, Panache, Souvenir, Benguiat and Benguiat Gothic.
-7. **EDWARD JOHNSTON** (British)
-8. **ERIC GILL** (British) Gill Sans, Perpetua, Joanna
-9. **ERIK SPIEKERMANN** (German) FF Meta, ITC Officina Sans, FF Info
-10. **FIRMIN DIDOT** (French)
-11. **FREDERIC GOUDY** (American) Copperplate Gothic, Goudy Old Style and Kennerley
-12. **GIAMBATTISTA BODONI** (Italian)
-13. **HERMANN ZAPF** (German) Optima, Palatino, ITC Zapf Chancery, ITC Zapf Dingbats, Zapfino
+1. **JOHANNES GUTENBERG** (German)
+2. **CLAUDE GARAMOND** (French)
+3. **JOHN BASKERVILLE** (British)
+4. **GIAMBATTISTA BODONI** (Italian)
+5. **FIRMIN DIDOT** (French)
+6. **JOHANN CHRISTIAN BAUER** (German) Fette Fraktur
+7. **FREDERIC GOUDY** (American) Copperplate Gothic, Goudy Old Style and Kennerley
+8. **EDWARD JOHNSTON** (British)
+9. **MORRIS FULLER BENTON** (American) Franklin Gothic, Century Schoolbook, News Gothic, Bank Gothic, Hobo
+10. **PAUL RENNER** (German) Futura
+11. **OSWALD BRUCE 'OZ' COOPER** (American) Cooper Black
+12. **ERIC GILL** (British) Gill Sans, Perpetua, Joanna
+13. **STANLEY MORISON** (British) Times New Roman (with Victor Lardent), revival of Baskerville
 14. **JAN TSCHICHOLD** (Swiss) Sabon, Zeus
-15. **JOHANN CHRISTIAN BAUER** (German) Fette Fraktur
-16. **JOHANNES GUTENBERG** (German)
-17. **JOHN BASKERVILLE** (British)
-18. **JONATHAN HOEFLER** (American) Hoefler Text, Requiem, Archer (with Frere-Jones)
+15. **MAX MIEDINGER** (Swiss) Helvetica (with Eduard Hoffmann)
+16. **HERMANN ZAPF** (German) Optima, Palatino, ITC Zapf Chancery, ITC Zapf Dingbats, Zapfino
+17. **ED BENGUIAT** (American) Tiffany, Bookman, Panache, Souvenir, Benguiat and Benguiat Gothic.
+18. **ADRIAN FRUTIGER** (Swiss) Univers, Frutiger, Avenir
 19. **MARGARET CALVERT** (British) Transport, Rail Alphabet, Motorway, Calvert
-20. **MARTIN MAJOOR** (Dutch) FF Scala (1991) Telefont (1994)
-21. **MATTHEW CARTER** (British) Georgia, Verdana, Tahoma, Bell Centennial, Skia
-22. **MAX MIEDINGER** (Swiss) Helvetica (with Eduard Hoffmann)
-23. **MORRIS FULLER BENTON** (American) Franklin Gothic, Century Schoolbook, News Gothic, Bank Gothic, Hobo
+20. **MATTHEW CARTER** (British) Georgia, Verdana, Tahoma, Bell Centennial, Skia
+21. **DONALD KNUTH** (American) Computer Modern
+22. **ERIK SPIEKERMANN** (German) FF Meta, ITC Officina Sans, FF Info
+23. **ROBERT SLIMBACH** (American) Minion, Adobe Garamond, Utopia, Garamond Premier
 24. **NEVILLE BRODY** (British) FF Blur, Industria, Arcadia
-25. **OSWALD BRUCE 'OZ' COOPER** (American) Cooper Black
-26. **PAUL RENNER** (German) Futura
-27. **ROBERT SLIMBACH** (American) Minion, Adobe Garamond, Utopia, Garamond Premier
-28. **STANLEY MORISON** (British) Times New Roman (with Victor Lardent), revival of Baskerville
+25. **CAROL TWOMBLY** (American) Trajan, Myriad, Adobe Caslon
+26. **ALBERT-JAN POOL** (Dutch) FF DIN, DIN 1451
+27. **MARTIN MAJOOR** (Dutch) FF Scala (1991) Telefont (1994)
+28. **ZUZANA LICKO** (Slovak-born American) Mrs Eaves (based on Baskerville) and Filosofia (based on Bodoni).
 29. **STEVE MATTESON** (American) Segoe, Aptos, Droid, Liberation font family, Noto and Open Sans
-30. **TOBIAS FRERE-JONES** (American) Gotham, Interstate, Archer (with Jonathan Hoefler)
-31. **ZUZANA LICKO** (Slovak-born American) Mrs Eaves (based on Baskerville) and Filosofia (based on Bodoni).
+30. **JONATHAN HOEFLER** (American) Hoefler Text, Requiem, Archer (with Frere-Jones)
+31. **TOBIAS FRERE-JONES** (American) Gotham, Interstate, Archer (with Jonathan Hoefler)
+
 
 
 ## Timeline
@@ -266,6 +275,8 @@ The common typeface classifications are:
 └── 1980s to present - Digital typography
 ```
 
+
+
 ## Often Disliked
 
 > There is no such thing as a bad font. There are only bad uses for fonts.
@@ -287,9 +298,11 @@ The common typeface classifications are:
 15. Trajan
 16. Zapfino
 
+
+
 ## Open-Source Projects
 
-1. **Bitstream Vera** (donated by Matthew Carter) clones of Arial and Charter
+1. **Bitstream Vera** - donated by Matthew Carter, clones of Arial and Charter
 2. **DejaVu fonts** - derived from Bitstream Vera (sans-serif) and Bitstream Charter (serif).
 3. **GNU FreeFont** - Based on URW++ Nimbus, similar to Times, Helvetica and Courier.
 4. **Liberation Fonts** - metrically compatible with Arial, Arial Narrow, Times New Roman and Courier New [link](https://github.com/liberationfonts/liberation-fonts)
@@ -309,31 +322,36 @@ The common typeface classifications are:
     8. Termes (Times New Roman)
 
 
+
 ## Superfamilies
 
 > A superfamily is the collective grouping of several explicitly related type families—such as a serif, sans, and slab—that all share the same underlying structure to their design.
 
-1. **Alegreya** - Serif, sans serif, and samll caps
-2. **Bespoke** - Sans, serif, slab, and stencil styes
-3. **Computer Modern** (by Donald E. Knuth for TeX default) cmr (antiqua), cmss (grotesque) and cmtt (monospaced)
-4. **Corporate ASE** (by Kurt Weidemann) antiqua, sans and Egyptienne
-5. **Droid** (by Steve Matteson) Droid Sans, Droid Serif and Droid Sans Mono.
-6. **Fira** - Sans, mono, and code ligatures
-7. **Gandhi** - Serif and sans
-8. **IBM Plex** (by Mike Abbink) IBM Plex Sans, IBM Plex Sans Condensed, IBM Plex Serif and IBM Plex Mono
-9. **Inria** - Serif and sans serif, also swashes.
-10. **KP** Serif & KP Sans-Serif
-11. **Liberation** (by Steve Matteson) Liberation Sans, Liberation Serif and Liberation Mono
-12. **Merriweather** + Sans
-13. **Noto** fonts (by Google) comprising Noto Sans, Noto Serif and Noto Mono, an expansion of the Droid family.
-14. **PT** Fonts (ParaType Russia) by Alexandra Korolkova et al, comprising PT Serif, PT Sans and PT Mono.
-15. **Quattrocento** + Sans
-16. **Roboto** (by Christian Robertson) Roboto, condensed, Roboto Slab and Roboto Mono
-17. **Rotis** (by Otl Aicher) rotis serif, rotis semi-serif, rotis semi-sans and rotis sans
-18. **Sassoon** (by Rosemary Sassoon and Adrian William) Sassoon Sans, Sassoon Book, Sassoon Primary, Sassoon Infant and Sassoon Sans Slope
-19. **Source** (Adobe) by Paul D. Hunt and Frank Grießhammer, comprising Source Sans Pro, Source Serif Pro and Source Code Pro
-20. **Stone** by Sumner Stone, comprising Stone Serif, Stone Sans and Stone Informal
-21. **Thesis** by Lucas de Groot, comprising TheSans, TheSerif, TheMix and TheAntiqua
+- **Stone** by Sumner Stone, comprising Stone Serif, Stone Sans and Stone Informal
+- **Rotis** by Otl Aicher, comprising rotis serif, rotis semi-serif, rotis semi-sans and rotis sans
+- **Corporate ASE** by Kurt Weidemann, comprising Antiqua, Sans and Egyptienne
+- **Thesis** by Lucas de Groot, comprising TheSans, TheSerif, TheMix and TheAntiqua
+- **FF Meta** by Erik Spiekermann, comprising FF Meta, FF Meta Plus, and FF Meta Serif
+- **Scala** by Martin Majoor, comprising FF Scala, FF Scala Sans, FF Scala Jewel, and FF Scala Hands 
+- **Sassoon** by Rosemary Sassoon and Adrian William Sassoon, comprising Sans, Sassoon Book, Sassoon Primary, Sassoon Infant and Sassoon Sans Slope
+- **Computer Modern** by Donald E. Knuth for TeX default, comprising cmr (antiqua), cmss (grotesque) and cmtt (monospaced)
+- **PT Fonts** (ParaType Russia) by Alexandra Korolkova et al, comprising PT Serif, PT Sans and PT Mono.
+- **Liberation** by Steve Matteson, comprising Liberation Sans, Liberation Serif and Liberation Mono
+- **Droid** (Google) by Steve Matteson, comprising Droid Sans, Droid Serif and Droid Sans Mono.
+- **DIN Next** by Akira Kobayashi and Monotype, comprising DIN Next, DIN Next Rounded, DIN Next Slab, and DIN Next Stencil
+- **Roboto** (Google) by Christian Robertson, comprising Roboto, condensed, Roboto Slab and Roboto Mono
+- **Source** (Adobe) by Paul D. Hunt and Frank Grießhammer, comprising Source Sans Pro, Source Serif Pro and Source Code Pro
+- **Merriweather** by Eben Sorkin, comprising Merriweather and Merriweather Sans
+- **Noto** (Google) comprising Noto Sans, Noto Serif and Noto Mono, an expansion of the Droid family.
+- **Fira** - Sans, mono, and code ligatures
+- **Alegreya** - Serif, sans serif, and samll caps
+- **Quattrocento** + Sans
+- **IBM Plex** by Mike Abbink, comprising IBM Plex Sans, IBM Plex Sans Condensed, IBM Plex Serif and IBM Plex Mono
+- **Inria** - Serif and sans serif, also swashes.
+- **Gandhi** - Serif and sans
+- **KP Fonts** Serif & KP Sans-Serif
+- **Bespoke** - Sans, serif, slab, and stencil styes
+
 
 
 ## Custom Corporate Typefaces
@@ -381,13 +399,18 @@ The common typeface classifications are:
 41. Wix [Madefor](https://www.wix.com/typeface/madefor) by Dalton Maag
 42. YouTube Sans with design agency [Saffron](https://saffron-consultants.com/work/youtube)
 
-## Government typefaces
+
+## Government Organisation typefaces
 
 1. [Public Sans](https://public-sans.digital.gov/) by U.S. Web Design System ([USWDS](https://designsystem.digital.gov/))
 2. [Canada1500](http://typodermicfonts.com/canada1500/)
 3. [Sweden Sans](https://sharingsweden.se/the-sweden-brand/brand-visual-identity/typography)
-4. [e-Ukraine](https://thedigital.gov.ua/fonts)
-5. [+Jakarta Sans](https://github.com/tokotype/PlusJakartaSans)
+4. [Cooper Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/) from Smithsonian Design Musium on [GitHub](https://github.com/cooperhewitt/cooperhewitt-typeface)
+5. [e-Ukraine](https://thedigital.gov.ua/fonts)
+6. [+Jakarta Sans](https://github.com/tokotype/PlusJakartaSans)
+7. [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) by Braille Institute for low vision readers
+8. [B612](https://b612-font.com/) - Aeronautical Font by Airbus for cockpit screens
+9. [National Park Typeface](https://nationalparktypeface.com/)
 
 
 ## Noteworthy Free Fonts
@@ -397,24 +420,20 @@ The common typeface classifications are:
 3. [IBM Plex](https://www.ibm.com/plex/) on [GitHub](https://github.com/IBM/plex)
 4. GitHub's [Monaspace superfamily](https://monaspace.githubnext.com/) & [Mona Sans](https://github.com/mona-sans)
 5. [Inter](https://rsms.me/inter/) originally built for [Figma](https://www.figma.com/blog/the-birth-of-inter/)
-6. [Cooper Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/) from Smithsonian Design Musium on [GitHub](https://github.com/cooperhewitt/cooperhewitt-typeface)
-7. [National Park Typeface](https://nationalparktypeface.com/)
-8. [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) by Braille Institute for low vision readers
-9. [London Underground Dot-Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
-10. [Averia](http://iotic.com/averia/) - the average font
-11. [B612](https://b612-font.com/) - Aeronautical Font by Airbus for cockpit screens
-12. [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/) - lettering style found on technical drawings (More links to other fonts)
-13. [Redaction](https://www.redaction.us/)
-14. [Cantarell](https://cantarell.gnome.org/)
-15. [ZXX](https://www.librarystack.org/zxx/) - Illegible to OCR
-16. [QCMU](https://quantum-village.github.io/QCMU-font.html) - to make diagrams of quantum circuits!
-17. [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - censors bad language automatically
-18. [OpenDyslexic](https://opendyslexic.org/) - A typeface for Dyslexia
-19. [Shake](https://writewithparkinsons.com/) - A Typeface with Parkinson's
-20. FE-Schrift - forgery-impeding typeface for licence plates.
-21. [LAIKA](https://laikafont.ch/) – a dynamic typeface
-22. [Luciole](https://www.luciole-vision.com/luciole-en.html) - for visually impaired people
-23. [Universal Sans](https://universalsans.com/)
+6. [London Underground Dot-Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
+7. [Averia](http://iotic.com/averia/) - the average font
+8. [Routed Gothic Font](https://webonastick.com/fonts/routed-gothic/) - lettering style found on technical drawings (More links to other fonts)
+9. [Redaction](https://www.redaction.us/)
+10. [Cantarell](https://cantarell.gnome.org/)
+11. [ZXX](https://www.librarystack.org/zxx/) - Illegible to OCR
+12. [QCMU](https://quantum-village.github.io/QCMU-font.html) - to make diagrams of quantum circuits!
+13. [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - censors bad language automatically
+14. [OpenDyslexic](https://opendyslexic.org/) - A typeface for Dyslexia
+15. [Shake](https://writewithparkinsons.com/) - A Typeface with Parkinson's
+16. FE-Schrift - forgery-impeding typeface for licence plates.
+17. [LAIKA](https://laikafont.ch/) – a dynamic typeface
+18. [Luciole](https://www.luciole-vision.com/luciole-en.html) - for visually impaired people
+19. [Universal Sans](https://universalsans.com/)
 
 
 ## Fonts on GitHub (but not on google fonts)
