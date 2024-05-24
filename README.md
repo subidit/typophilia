@@ -8,32 +8,32 @@ Become a Type Snob in 10 minutes. 💝
 
 - [Typeface Variants or Fonts](#typeface-variants-or-fonts)
 - [Default Fonts](#default-fonts)
-- [Fonts in American Election](#fonts-in-american-election)
+- [Fonts in U.S. Elections](#fonts-in-us-elections)
 - [Type Classification](#type-classification)
-  - [Vox-ATypI classification (depricated)](#vox-atypi-classification-depricated)
+  - [Vox-ATypI Classification (Deprecated)](#vox-atypi-classification-deprecated)
     - [Classicals](#classicals)
     - [Moderns](#moderns)
     - [Lineal](#lineal)
     - [Calligraphics](#calligraphics)
-- [Notable Type Foundries](#notable-type-foundries)
-- [Type Designers](#type-designers)
-- [Timeline](#timeline)
-  - [Printing Technology Eras](#printing-technology-eras)
-- [Often Disliked](#often-disliked)
-- [Open-Source Projects](#open-source-projects)
-- [Superfamilies](#superfamilies)
-- [Custom Corporate Typefaces](#custom-corporate-typefaces)
-- [Government Organisation typefaces](#government-organisation-typefaces)
-- [Noteworthy Free Fonts](#noteworthy-free-fonts)
-- [Fonts on GitHub (but not on google fonts)](#fonts-on-github-but-not-on-google-fonts)
-- [Popular fonts for code](#popular-fonts-for-code)
-- [Free Typeface Catalogues by Foundries](#free-typeface-catalogues-by-foundries)
-- [Aggregators](#aggregators)
-- [Marketplaces](#marketplaces)
-- [Web Tools](#web-tools)
-- [Influential Typefaces](#influential-typefaces)
-- [Typography Terms](#typography-terms)
-- [Type Anatomy](#type-anatomy)
+- [Renowned Type Foundries](#renowned-type-foundries)
+- [Prominent Type Designers](#prominent-type-designers)
+- [Typography Timeline](#typography-timeline)
+  - [Eras of Printing Technology](#eras-of-printing-technology)
+- [Often Disliked Fonts](#often-disliked-fonts)
+- [Open-Source Typeface Projects](#open-source-typeface-projects)
+- [Typeface Superfamilies](#typeface-superfamilies)
+- [Custom Corporate Fonts](#custom-corporate-fonts)
+- [Fonts by Government and Public Institutions](#fonts-by-government-and-public-institutions)
+- [Notable Free Fonts](#notable-free-fonts)
+- [Fonts on GitHub (Excluding Google Fonts)](#fonts-on-github-excluding-google-fonts)
+- [Popular Fonts for Coding](#popular-fonts-for-coding)
+- [Free Typeface Catalogs from Foundries](#free-typeface-catalogs-from-foundries)
+- [Font Aggregators](#font-aggregators)
+- [Font Marketplaces](#font-marketplaces)
+- [Typography Web Tools](#typography-web-tools)
+- [Influential Typefaces in Design](#influential-typefaces-in-design)
+- [Typography Glossary](#typography-glossary)
+- [Anatomy of Type](#anatomy-of-type)
 
 
 ## Typeface Variants or Fonts
@@ -89,7 +89,7 @@ Become a Type Snob in 10 minutes. 💝
 
 
 
-## Fonts in American Election
+## Fonts in U.S. Elections
 
 | Year | Font               |
 | ---- | ------------------ |
@@ -112,7 +112,7 @@ The common typeface classifications are:
 4. Display
 5. Script
 
-### Vox-ATypI classification (depricated)
+### Vox-ATypI Classification (Deprecated)
 
 ```
 ┌── Classicals [Oldstyle/Antiqua]
@@ -144,7 +144,7 @@ The common typeface classifications are:
 
 - **Humanist**: Centaur, Adobe Jenson, Trinité
 - **Garalde**: Garamond, Bembo, Sabon, Minion, Palatino, Caslon, Janson
-- **Transitional**: Baskerville, Times, Joanna, Mrs Eaves, Miller
+- **Transitional**: Baskerville, Times, Joanna, Mrs Eaves, Miller, Perpetua
 
 #### Moderns
 
@@ -156,18 +156,18 @@ The common typeface classifications are:
 
 - **Grotesque**: Akzidenz Grotesk, Franklin Gothic, Knockout
 - **Neo-grotesque**: Univers, Helvetica, DIN, Bell Centennial, Folio, Interstate
-- **Geometric**: Futura, Eurostile, Gotham, Neutraface, Twentieth Century, Kabel, Erbar
-- **Humanist**: Gill Sans, Optima, Johnston, Frutiger, Meta, Myriad
+- **Geometric**: Futura, Eurostile, Gotham, Neutraface, Avant Garde Gothic, Kabel, Erbar
+- **Humanist**: Gill Sans, Optima, Johnston, Frutiger, Meta, Myriad, Tahoma, Verdana, Trebuchet MS
 
 #### Calligraphics
 
 - **Glyphic**: Copperplate Gothic, Trajan, Lithos
-- **Script**: Mistral, Francesca, Zapfino
+- **Script**: Mistral, Francesca, Zapfino, Brush Script
 - **Graphic**: Banco and Klang
-- **Blackletter**: Fette Fraktur, Goudy Text, Old English
+- **Blackletter**: Fette Fraktur, Goudy Text, Old English, Textura, Schwabacher
 - **Gaelic**: Duibhlinn, Uncial
 
-## Notable Type Foundries
+## Renowned Type Foundries
 
 1. Monotype
    1. Linotype
@@ -192,11 +192,41 @@ The common typeface classifications are:
 11. Google Design
 12. Indian Type Foundry (ITF)
 13. P22 Type Foundry
-14. Typotheque
-15. Klim Type Foundry
+14. Paratype
+15. Typotheque
+16. Klim Type Foundry
+17. Hoefler & Co.
+18. Frere-Jones
+19. Grilli Type
+20. Lineto
+21. DSType Foundry
+22. Letters From Sweden
+23. Lost Type Co-op
+24. Foster Type
+25. DJR
+26. Dunwich Type
+27. Edition Studio
+28. Exljbris
+29. Fatype
+30. Florian Karsten
+31. HvD Fonts
+32. Just Another Foundry
+33. Kometa
+34. Milieu Grotesque
+35. Nodo
+36. Nonpareille
+37. Nouvelle Noire
+38. Or Type
+39. Pangram Pangram Foundry
+40. Pizza Typefaces
+41. Play Type
+42. Pretend Foundry
+43. Studio René Bieder
+44. General Type Studio
+45. Bruta Types
 
 
-## Type Designers
+## Prominent Type Designers
 
 1. **JOHANNES GUTENBERG** (German)
 2. **CLAUDE GARAMOND** (French)
@@ -232,7 +262,7 @@ The common typeface classifications are:
 
 
 
-## Timeline
+## Typography Timeline
 
 ```
 ┌── 1440 - Blackletter (Johannes Gutenberg)
@@ -246,23 +276,23 @@ The common typeface classifications are:
 │
 ├── 1816 - Sans Serif (William Caslon IV)
 ├── 1815 - Slab Serif (Vincent Figgins)
-├── 1898 - Akzidenz-Grotesk
+├── 1896 - Akzidenz-Grotesk
 ├── 1927 - Futura
 ├── 1957 - Univers, Helvetica
 │
-├── 1968 - Bitmap fonts
+├── 1965 - Bitmap fonts
 ├── 1974 - Vector or Outline fonts
 ├── 1976 - Frutiger
-├── 1982 - PostScript (Adobe)
+├── 1984 - PostScript (Adobe)
 ├── 1991 - TrueType (Apple)
-├── 1996 - OpenType (Microsoft)
+├── 1996 - OpenType (Microsoft and Adobe)
 ├── 1996 - CSS
 ├── 2009 - Web Open Font Format (WOFF)
 └── 2016 - Variable fonts
 ```
 
 
-### Printing Technology Eras
+### Eras of Printing Technology
 
 ```
 ┌── 3200 BC - Handwriting and calligraphy
@@ -270,14 +300,14 @@ The common typeface classifications are:
 ├── 1040 AD (China) - Movable type letterpress printing
 ├── 1450 AD (Europe) - Movable type letterpress printing
 ├── 1800s - Wooden font molds
-├── 1890s - Continuous casting (Linotype) (Hot metal typesetting)
+├── 1886 - Continuous casting (Linotype) (Hot metal typesetting)
 ├── 1950s - Phototypesetting (Cold type)
 └── 1980s to present - Digital typography
 ```
 
 
 
-## Often Disliked
+## Often Disliked Fonts
 
 > There is no such thing as a bad font. There are only bad uses for fonts.
 
@@ -300,7 +330,7 @@ The common typeface classifications are:
 
 
 
-## Open-Source Projects
+## Open-Source Typeface Projects
 
 1. **Bitstream Vera** - donated by Matthew Carter, clones of Arial and Charter
 2. **DejaVu fonts** - derived from Bitstream Vera (sans-serif) and Bitstream Charter (serif).
@@ -323,7 +353,7 @@ The common typeface classifications are:
 
 
 
-## Superfamilies
+## Typeface Superfamilies
 
 > A superfamily is the collective grouping of several explicitly related type families—such as a serif, sans, and slab—that all share the same underlying structure to their design.
 
@@ -354,7 +384,7 @@ The common typeface classifications are:
 
 
 
-## Custom Corporate Typefaces
+## Custom Corporate Fonts
 
 1. [Airbnb Cereal](https://airbnb.design/cereal/) by Dalton Maag on [GitHub](https://github.com/iyadh/cereal-airbnb-font)
 2. Amazon [Ember](https://developer.amazon.com/en-US/alexa/branding/echo-guidelines/identity-guidelines/typography) for Echo & Bookerly for Kindle by Dalton Maag
@@ -400,7 +430,7 @@ The common typeface classifications are:
 42. YouTube Sans with design agency [Saffron](https://saffron-consultants.com/work/youtube)
 
 
-## Government Organisation typefaces
+## Fonts by Government and Public Institutions
 
 1. [Public Sans](https://public-sans.digital.gov/) by U.S. Web Design System ([USWDS](https://designsystem.digital.gov/))
 2. [Canada1500](http://typodermicfonts.com/canada1500/)
@@ -413,7 +443,7 @@ The common typeface classifications are:
 9. [National Park Typeface](https://nationalparktypeface.com/)
 
 
-## Noteworthy Free Fonts
+## Notable Free Fonts
 
 1. Adobe's Source Type Family on [GitHub](https://github.com/adobe-fonts)
 2. Mozilla's [Fira Type Family](https://mozilla.github.io/Fira/) on [GitHub](https://github.com/mozilla/Fira)
@@ -436,7 +466,7 @@ The common typeface classifications are:
 19. [Universal Sans](https://universalsans.com/)
 
 
-## Fonts on GitHub (but not on google fonts)
+## Fonts on GitHub (Excluding Google Fonts)
 
 1. [Common Sans](https://github.com/StefanPeev/Common-Sans) A neo-grotesque sans serif font family
 2. [Open Sauce Fonts](https://github.com/marcologous/Open-Sauce-Fonts) Creative Sauce's internal type super family.
@@ -453,7 +483,7 @@ The common typeface classifications are:
 13. [Helmet](https://github.com/carlstype/helmet) - a neo-grotesque display typeface.
 
 
-## Popular fonts for code
+## Popular Fonts for Coding
 
 1. [Iosevka](https://typeof.net/Iosevka/)
 2. [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
@@ -472,7 +502,7 @@ The common typeface classifications are:
 15. [0xProto](https://github.com/0xType/0xProto)
 
 
-## Free Typeface Catalogues by Foundries
+## Free Typeface Catalogs from Foundries
 
 1. [Fontshare](https://www.fontshare.com/) by Indian Type Foundry. 100 fonts, 59 pairs.
 2. [indestructible type\*](https://indestructibletype.com/Home.html) by Owen Earl. 7 typefaces.
@@ -488,7 +518,7 @@ The common typeface classifications are:
 12. [Paratype](https://www.paratype.com/catalog?freefonts=true) 12 font families.
 
 
-## Aggregators
+## Font Aggregators
 
 1. [Google Fonts](https://fonts.google.com/) font files on [GitHub](https://github.com/google/fonts/tree/main/ofl)
 2. [Fontsource](https://fontsource.org/) 1695 families. NPM packages.
@@ -520,14 +550,14 @@ The common typeface classifications are:
 28. [Urban Fonts](https://www.urbanfonts.com/free-fonts.htm)
 
 
-## Marketplaces
+## Font Marketplaces
 
 - [Monotype Fonts](https://www.monotypefonts.com/)
 - [MyFonts](https://www.myfonts.com/) by Monotype
 - [Adobe Fonts](https://fonts.adobe.com/)
 
 
-## Web Tools
+## Typography Web Tools
 
 1. [Beautiful Web Type](https://beautifulwebtype.com/) 39 typefaces. Pairings, features.
 2. [Identifont](http://www.identifont.com/index.html) - Fonts by appearance, name, similarity, designer or publisher.
@@ -554,7 +584,7 @@ The common typeface classifications are:
 
 
 
-## Influential Typefaces
+## Influential Typefaces in Design
 
 1. **BASKERVILLE** Designed by _John Baskerville_, 1757
 2. **BODONI** Designed by _Giambattista Bodoni_, 1790s
@@ -594,7 +624,7 @@ Source: _Thinking with Type_ by Ellen Lupton
 
 
 
-## Typography Terms
+## Typography Glossary
 
 1. **Grotesk**: The common German name for sans serif faces, as opposed to “Antiqua” which means serif face.
 2. **Antiqua**: The common German and Scandinavian names for serif faces, The Scandinavian name is “Antikva”.
@@ -618,7 +648,7 @@ Source: _Thinking with Type_ by Ellen Lupton
 
 
 
-## Type Anatomy
+## Anatomy of Type
 
 > Examples depend on the typeface, may not be present in this font.
 
