@@ -415,7 +415,7 @@ The common typeface classifications are:
 27. Salesforce Sans by Monotype
 28. SAP's [72 Font family](https://experience.sap.com/fiori-design-web/downloads/)
 29. Samsung's Sharp Sans by [Sharp Type](https://sharptype.co/case-studies/samsung-sharp-sans/) for Galaxy & SamsungOne for One UI.
-30. Spotify Circular, a geometric sans-serif typeface.
+30. [Spotify Mix](https://newsroom.spotify.com/2024-05-22/introducing-spotify-mix-our-new-and-exclusive-font/)
 31. Supernotes' [SN Pro](https://supernotes.app/blog/posts/sn-pro-font-family/) - based on Nunito
 32. [TikTok Sans](https://newsroom.tiktok.com/en-us/introducing-tiktok-sans)
 33. Tripadvisor's Trip Sans by Colophon
