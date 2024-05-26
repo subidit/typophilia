@@ -34,6 +34,7 @@ Become a Type Snob in 10 minutes. 💝
 - [Influential Typefaces in Design](#influential-typefaces-in-design)
 - [Typography Glossary](#typography-glossary)
 - [Anatomy of Type](#anatomy-of-type)
+- [Trivia](#trivia)
 
 
 ## Typeface Variants or Fonts
@@ -142,7 +143,7 @@ The common typeface classifications are:
 
 #### Classicals
 
-- **Humanist**: Centaur, Adobe Jenson, Trinité
+- **Humanist**: Centaur, Adobe Jenson, Trinité, Golden Type, Cloister Old Style
 - **Garalde**: Garamond, Bembo, Sabon, Minion, Palatino, Caslon, Janson
 - **Transitional**: Baskerville, Times, Joanna, Mrs Eaves, Miller, Perpetua
 
@@ -251,7 +252,7 @@ The common typeface classifications are:
 21. **DONALD KNUTH** (American) Computer Modern
 22. **ERIK SPIEKERMANN** (German) FF Meta, ITC Officina Sans, FF Info
 23. **ROBERT SLIMBACH** (American) Minion, Adobe Garamond, Utopia, Garamond Premier
-24. **NEVILLE BRODY** (British) FF Blur, Industria, Arcadia
+24. **NEVILLE BRODY** (British) FF Blur, Industria, Arcadia, England Brody Typeface, TCCC Unity, SamsungOne Typeface
 25. **CAROL TWOMBLY** (American) Trajan, Myriad, Adobe Caslon
 26. **ALBERT-JAN POOL** (Dutch) FF DIN, DIN 1451
 27. **MARTIN MAJOOR** (Dutch) FF Scala (1991) Telefont (1994)
@@ -393,41 +394,44 @@ The common typeface classifications are:
 5. [Balsamiq Sans Font](https://balsamiq.com/givingback/opensource/font/) on [GitHub](https://github.com/balsamiq/balsamiqsans)
 6. BBC Reith by Dalton Maag
 7. [Cal Sans](https://github.com/calcom/font) used by cal.com
-8. Canva Sans by [Colophon Foundry](https://www.colophon-foundry.org/custom-projects/canva).
+8. Canva Sans by [Colophon Foundry](https://www.colophon-foundry.org/custom-projects/canva)
 9. Cisco Sans on [GitHub](https://github.com/CiscoDevNet/CiscoUIKit/tree/master/dist/fonts/CiscoSans)
-10. Dropbox's [Sharp Grotesk](https://sharptype.co/case-studies/dropbox/) by Sharp Type
-11. Duolingo's Feather Bold by Monotype
-12. Durex's One Night Sans by Colophon Foundry
-13. eBay's Market Sans
-14. [Goldman Sans](https://design.gs.com/foundation/typography/goldman-sans)
-15. [HackerNoon Font](https://github.com/hackernoon/font)
-16. HP Simplified by Dalton Maag Ltd
-17. [iA-Fonts](https://ia.net/topics/a-typographic-christmas) on [GitHub](https://github.com/iaolo/iA-Fonts)
-18. Intel's [Clear Sans](https://github.com/intel/clear-sans) & [One Mono](https://github.com/intel/intel-one-mono)
-19. [Instagram Sans](https://about.instagram.com/brand/type) by Colophon
-20. [JetBrains Mono](https://www.jetbrains.com/lp/mono/) on [GitHub](https://github.com/JetBrains/JetBrainsMono)
-21. Meta's Optimistic Font by Dalton Maag and [Saffron](https://saffron-consultants.com/work/meta)
-22. [Netflix Sans](https://www.daltonmaag.com/portfolio/custom-fonts/netflix-sans.html) by Dalton Maag Ltd.
-23. Nokia Pure by Dalton Maag Ltd replaced Nokia Sans created by Erik Spiekermann.
-24. PayPal Sans by [Klim Type Foundry](https://klim.co.nz/custom-fonts/paypal-sans/)
-25. [Reddit Sans](https://github.com/reddit/redditsans)
-26. [Red Hat fonts](https://www.redhat.com/en/about/brand/standards/typography) on [GitHub](https://github.com/RedHatOfficial/RedHatFont) by [MCKL](https://mckltype.com/red-hat)
-27. Salesforce Sans by Monotype
-28. SAP's [72 Font family](https://experience.sap.com/fiori-design-web/downloads/)
-29. Samsung's Sharp Sans by [Sharp Type](https://sharptype.co/case-studies/samsung-sharp-sans/) for Galaxy & SamsungOne for One UI.
-30. [Spotify Mix](https://newsroom.spotify.com/2024-05-22/introducing-spotify-mix-our-new-and-exclusive-font/)
-31. Supernotes' [SN Pro](https://supernotes.app/blog/posts/sn-pro-font-family/) - based on Nunito
-32. [TikTok Sans](https://newsroom.tiktok.com/en-us/introducing-tiktok-sans)
-33. Tripadvisor's Trip Sans by Colophon
-34. [Twilio Sans Mono](https://github.com/twilio/twilio-sans-mono) by Sharp Type
-35. Twitter's [Chirp](https://blog.twitter.com/en_us/topics/company/2021/imperfect-by-design) based on Grilli Type's GT America.
-36. Uber Move by [MCKL](https://mckltype.com/custom/uber)
-37. Ubisoft Sans by Colophon
-38. [Ubuntu Font Family](https://design.ubuntu.com/font) by Dalton Maag
-39. Vercel's [Geist](https://vercel.com/font/sans)
-40. Vodafone typeface by Dalton Maag
-41. Wix [Madefor](https://www.wix.com/typeface/madefor) by Dalton Maag
-42. YouTube Sans with design agency [Saffron](https://saffron-consultants.com/work/youtube)
+10. Coca Cola's TCCC Unity by [Brody Associates](https://brody-associates.com/) 
+11. Discord Ginto Nord for branding and gg sans for UI
+12. Dropbox's [Sharp Grotesk](https://sharptype.co/case-studies/dropbox/) by Sharp Type
+13. Duolingo's Feather Bold by Monotype
+14. Durex's One Night Sans by Colophon 
+15. eBay's Market Sans
+16. [Goldman Sans](https://design.gs.com/foundation/typography/goldman-sans)
+17. [HackerNoon Font](https://github.com/hackernoon/font)
+18. HP Simplified by Dalton Maag 
+19. [iA-Fonts](https://ia.net/topics/a-typographic-christmas) on [GitHub](https://github.com/iaolo/iA-Fonts)
+20. Intel's [Clear Sans](https://github.com/intel/clear-sans) & [One Mono](https://github.com/intel/intel-one-mono)
+21. [Instagram Sans](https://about.instagram.com/brand/type) by Colophon
+22. [JetBrains Mono](https://www.jetbrains.com/lp/mono/) on [GitHub](https://github.com/JetBrains/JetBrainsMono)
+23. Meta's Optimistic Font by Dalton Maag and [Saffron](https://saffron-consultants.com/work/meta)
+24. [Netflix Sans](https://www.daltonmaag.com/portfolio/custom-fonts/netflix-sans.html) by Dalton Maag
+25. Nokia Pure by Dalton Maag Ltd replaced Nokia Sans created by Erik Spiekermann
+26. PayPal Sans by [Klim Type Foundry](https://klim.co.nz/custom-fonts/paypal-sans/)
+27. Pinterest Sans by [Grilli Type](https://www.grillitype.com/commissions/pinterest)
+28. [Reddit Sans](https://github.com/reddit/redditsans)
+29. [Red Hat fonts](https://www.redhat.com/en/about/brand/standards/typography) on [GitHub](https://github.com/RedHatOfficial/RedHatFont) by [MCKL](https://mckltype.com/red-hat)
+30. Salesforce Sans by Monotype
+31. SAP's [72 Font family](https://experience.sap.com/fiori-design-web/downloads/)
+32. Samsung's Sharp Sans by [Sharp Type](https://sharptype.co/case-studies/samsung-sharp-sans/) for Galaxy & SamsungOne for One UI
+33. [Spotify Mix](https://newsroom.spotify.com/2024-05-22/introducing-spotify-mix-our-new-and-exclusive-font/) by [Dinamo](https://abcdinamo.com/)
+34. Supernotes' [SN Pro](https://supernotes.app/blog/posts/sn-pro-font-family/) - based on Nunito
+35. [TikTok Sans](https://newsroom.tiktok.com/en-us/introducing-tiktok-sans)
+36. Tripadvisor's Trip Sans by Colophon
+37. [Twilio Sans Mono](https://github.com/twilio/twilio-sans-mono) by Sharp Type
+38. Twitter's [Chirp](https://blog.twitter.com/en_us/topics/company/2021/imperfect-by-design) by Grilli Type
+39. Uber Move by [MCKL](https://mckltype.com/custom/uber)
+40. Ubisoft Sans by Colophon
+41. [Ubuntu Font Family](https://design.ubuntu.com/font) by Dalton Maag
+42. Vercel's [Geist](https://vercel.com/font/sans)
+43. Vodafone typeface by Dalton Maag
+44. Wix [Madefor](https://www.wix.com/typeface/madefor) by Dalton Maag
+45. YouTube Sans with design agency [Saffron](https://saffron-consultants.com/work/youtube)
 
 
 ## Fonts by Government and Public Institutions
@@ -441,6 +445,8 @@ The common typeface classifications are:
 7. [Atkinson Hyperlegible](https://brailleinstitute.org/freefont) by Braille Institute for low vision readers
 8. [B612](https://b612-font.com/) - Aeronautical Font by Airbus for cockpit screens
 9. [National Park Typeface](https://nationalparktypeface.com/)
+10. [SORA typeface](https://github.com/sora-xor/sora-font) - neutral sans serif typeface
+
 
 
 ## Notable Free Fonts
@@ -479,8 +485,15 @@ The common typeface classifications are:
 9. [Overused Grotesk](https://github.com/RandomMaerks/Overused-Grotesk) - classic neo-grotesk Swiss design
 10. [Aspekta](https://github.com/ivodolenc/aspekta) - modern sans-serif collection
 11. [basement grotesque](https://github.com/basementstudio/basement-grotesque)
-12. [SORA typeface](https://github.com/sora-xor/sora-font) - neutral sans serif typeface
-13. [Helmet](https://github.com/carlstype/helmet) - a neo-grotesque display typeface.
+12. [Helmet](https://github.com/carlstype/helmet) - a neo-grotesque display typeface.
+13. [Outfit Fonts](https://github.com/Outfitio/Outfit-Fonts) - geometric sans
+14. [Mohave Typefaces](https://github.com/tokotype/Mohave-Typefaces) - Titling Display Fonts
+15. [Aspekta](https://github.com/ivodolenc/aspekta) - modern sans-serif collection
+16. [Sprat](https://github.com/EthanNakache/Sprat-type) - display typeface based on an alphabet by Eric Gill. 
+17. [Oxanium](https://sev.dev/fonts/oxanium/) - a square, futuristic font family.
+18. [Formera](https://github.com/noirblancrouge/Formera) - Futura Renner
+19. [Some Time Later](https://github.com/ctrlcctrlv/some-time-later) - Font inspired by the title and time cards in the Nickelodeon cartoon SpongeBob SquarePants.
+20. [Type With Pride](https://github.com/Fontself/TypeWithPride) - inspired by the Rainbow Flag
 
 
 ## Popular Fonts for Coding
@@ -500,6 +513,7 @@ The common typeface classifications are:
 13. [MonoLisa](https://www.monolisa.dev/)
 14. [mononoki](https://madmalik.github.io/mononoki/)
 15. [0xProto](https://github.com/0xType/0xProto)
+16. [Agave](https://github.com/blobject/agave)
 
 
 ## Free Typeface Catalogs from Foundries
@@ -555,6 +569,7 @@ The common typeface classifications are:
 - [Monotype Fonts](https://www.monotypefonts.com/)
 - [MyFonts](https://www.myfonts.com/) by Monotype
 - [Adobe Fonts](https://fonts.adobe.com/)
+- [Type Network](https://typenetwork.com/)
 
 
 ## Typography Web Tools
@@ -687,3 +702,11 @@ Source: _Thinking with Type_ by Ellen Lupton
 33. **Vertex**: The point at the bottom (or top) of a character where two strokes meet, for example the ‘v’, ‘V’, ‘w’, ‘W’ etc.
 
 
+## Trivia
+
+- The name Noto is short for No Tofu, where tofu is a term often used to describe the little squares that show when a font is not supported by a computer.
+- The Coca-Cola Company’s first ever proprietary typeface, TCCC Unity, stands for The Coca-Cola Company.
+- Neutraface was inspired by Austrian-American architect Richard Neutra, nothing with being neutral.
+- The Doves Type was revived after searching the riverbed of the Thames near Hammersmith Bridge.
+- The mimicry typeface Wonton font is also known as Chinese, chopstick, chop suey, or kung-fu font. Subtle! 
+- The surviving matrices based on which Janson typeface is developed, may not be made by Anton Janson but by Miklós (Nicholas) Tótfalusi Kis. 
