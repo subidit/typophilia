@@ -2,8 +2,6 @@
 
 Become a Type Snob in 10 minutes. 💝
 
-> If you have any suggestion (correction or addition) please mention it in the [Discussion](https://github.com/subidit/typophilia/discussions) forum.
-
 ## Contents <!-- omit from toc -->
 
 - [Typeface Variants or Fonts](#typeface-variants-or-fonts)
@@ -36,49 +34,34 @@ Become a Type Snob in 10 minutes. 💝
 - [Anatomy of Type](#anatomy-of-type)
 - [Trivia](#trivia)
 
-
 ## Typeface Variants or Fonts
 
-- Bold
-- Italics
-- Small Caps (SC)
-- Normal/Roman/Medium/Text/Book/Regular
-- Condensed / Narrow
-- Extended
-- Display / Titling
-- Rounded
-- Outline / Inline
-- Shadowed
-- Mono / Code
-
-| by WEIGHT        | by WIDTH            |
-| ---------------- | ------------------- |
-| Thin/Hairline    | Condensed           |
-| Extra/UltraLight | SemiCondensed (SCd) |
-| Light            | Normal/Roman        |
-| Regular/Book     | SemiExpanded        |
-| Medium/Text      | Expanded/Extended   |
-| Semi/DemiBold    |                     |
-| Bold             |                     |
-| Extra/UltraBold  |                     |
-| Black/Heavy      |                     |
+| DESIGN            | WEIGHT             | WIDTH               |
+| ----------------- | ------------------ | ------------------- |
+| Serif             | Thin / Hairline    | Condensed           |
+| Sans-serif        | Extra / UltraLight | SemiCondensed (SCd) |
+| Mono / Code       | Light              | Normal / Regular    |
+| Italics / Slanted | Book / Text        | SemiExpanded        |
+| Small Caps (sc)   | Medium             | Expanded / Extended |
+| Display / Titling | Semi / DemiBold    |                     |
+| Rounded           | Bold               |                     |
+| Outline / Inline  | Extra / UltraBold  |                     |
+| Shadowed          | Black / Heavy      |                     |
 
 
 ## Default Fonts
 
-| Application       | Font Name       |
-| ----------------- | --------------- |
-| Windows           | Segoe UI        |
-| MacOS             | San Francisco   |
-| iOS               | San Francisco   |
-| Android           | Roboto          |
-| MS Office         | Aptos, Calibri  |
-| Google Docs       | Arial           |
-| TeX               | Computer Modern |
-| Kindle            | Bookerly        |
-| Google Play Books | Literata        |
+| Application | Font Name       | Previously used                          |
+| ----------- | --------------- | ---------------------------------------- |
+| Windows     | Segoe UI        | Tahoma, Arial                            |
+| MacOS       | San Francisco   | Helvetica Neue, Lucida Grande, Chicago   |
+| iOS         | San Francisco   | Helvetica Neue, Helvetica                |
+| Android     | Product Sans    | Roboto, Droid Sans                       |
+| MS Office   | Aptos           | Calibri, Cambria, Arial, Times New Roman |
+| Google Docs | Arial           |                                          |
+| TeX         | Computer Modern |                                          |
 
-
+> [!NOTE]
 > In early days Apple licensed fonts from Linotype and Microsoft from Monotype. Linotype and Monotype were the `Apple vs. Microsoft` of its era (i.e. hot metal typesetting days) and they had (metrically) similar fonts.
 
 | Apple       | Microsoft       |
