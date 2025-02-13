@@ -394,27 +394,28 @@ The common typeface classifications are:
 22. [JetBrains Mono](https://www.jetbrains.com/lp/mono/) on [GitHub](https://github.com/JetBrains/JetBrainsMono)
 23. Meta's Optimistic Font by Dalton Maag and [Saffron](https://saffron-consultants.com/work/meta)
 24. [Netflix Sans](https://www.daltonmaag.com/portfolio/custom-fonts/netflix-sans.html) by Dalton Maag
-25. Nokia Pure by Dalton Maag Ltd replaced Nokia Sans created by Erik Spiekermann
-26. PayPal Sans by [Klim Type Foundry](https://klim.co.nz/custom-fonts/paypal-sans/)
-27. Pinterest Sans by [Grilli Type](https://www.grillitype.com/commissions/pinterest)
-28. [Reddit Sans](https://github.com/reddit/redditsans)
-29. [Red Hat fonts](https://www.redhat.com/en/about/brand/standards/typography) on [GitHub](https://github.com/RedHatOfficial/RedHatFont) by [MCKL](https://mckltype.com/red-hat)
-30. Salesforce Sans by Monotype
-31. SAP's [72 Font family](https://experience.sap.com/fiori-design-web/downloads/)
-32. Samsung's Sharp Sans by [Sharp Type](https://sharptype.co/case-studies/samsung-sharp-sans/) for Galaxy & SamsungOne for One UI
-33. [Spotify Mix](https://newsroom.spotify.com/2024-05-22/introducing-spotify-mix-our-new-and-exclusive-font/) by [Dinamo](https://abcdinamo.com/)
-34. Supernotes' [SN Pro](https://supernotes.app/blog/posts/sn-pro-font-family/) - based on Nunito
-35. [TikTok Sans](https://newsroom.tiktok.com/en-us/introducing-tiktok-sans)
-36. Tripadvisor's Trip Sans by Colophon
-37. [Twilio Sans Mono](https://github.com/twilio/twilio-sans-mono) by Sharp Type
-38. Twitter's [Chirp](https://blog.twitter.com/en_us/topics/company/2021/imperfect-by-design) by Grilli Type
-39. Uber Move by [MCKL](https://mckltype.com/custom/uber)
-40. Ubisoft Sans by Colophon
-41. [Ubuntu Font Family](https://design.ubuntu.com/font) by Dalton Maag
-42. Vercel's [Geist](https://vercel.com/font/sans)
-43. Vodafone typeface by Dalton Maag
-44. Wix [Madefor](https://www.wix.com/typeface/madefor) by Dalton Maag
-45. YouTube Sans with design agency [Saffron](https://saffron-consultants.com/work/youtube)
+25. Nokia Pure by Dalton Maag Ltd replaced Nokia Sans created by Erik Spiekermann.
+26. OpenAI Sans by Dinamo. 
+27. PayPal Sans by [Klim Type Foundry](https://klim.co.nz/custom-fonts/paypal-sans/)
+28. Pinterest Sans by [Grilli Type](https://www.grillitype.com/commissions/pinterest)
+29. [Reddit Sans](https://github.com/reddit/redditsans)
+30. [Red Hat fonts](https://www.redhat.com/en/about/brand/standards/typography) on [GitHub](https://github.com/RedHatOfficial/RedHatFont) by [MCKL](https://mckltype.com/red-hat)
+31. Salesforce Sans by Monotype
+32. SAP's [72 Font family](https://experience.sap.com/fiori-design-web/downloads/)
+33. Samsung's Sharp Sans by [Sharp Type](https://sharptype.co/case-studies/samsung-sharp-sans/) for Galaxy & SamsungOne for One UI
+34. [Spotify Mix](https://newsroom.spotify.com/2024-05-22/introducing-spotify-mix-our-new-and-exclusive-font/) by [Dinamo](https://abcdinamo.com/)
+35. Supernotes' [SN Pro](https://supernotes.app/blog/posts/sn-pro-font-family/) - based on Nunito
+36. [TikTok Sans](https://newsroom.tiktok.com/en-us/introducing-tiktok-sans)
+37. Tripadvisor's Trip Sans by Colophon
+38. [Twilio Sans Mono](https://github.com/twilio/twilio-sans-mono) by Sharp Type
+39. Twitter's [Chirp](https://blog.twitter.com/en_us/topics/company/2021/imperfect-by-design) by Grilli Type
+40. Uber Move by [MCKL](https://mckltype.com/custom/uber)
+41. Ubisoft Sans by Colophon
+42. [Ubuntu Font Family](https://design.ubuntu.com/font) by Dalton Maag
+43. Vercel's [Geist](https://vercel.com/font/sans)
+44. Vodafone typeface by Dalton Maag
+45. Wix [Madefor](https://www.wix.com/typeface/madefor) by Dalton Maag
+46. YouTube Sans with design agency [Saffron](https://saffron-consultants.com/work/youtube)
 
 
 ## Fonts by Government and Public Institutions
