@@ -509,7 +509,7 @@ The common typeface classifications are:
 5. [Open Foundry](https://open-foundry.com/fonts) 31 variable fonts.
 6. [The League Of Moveable Type](https://www.theleagueofmoveabletype.com/) 17 typefaces.
 7. [Free Faces](https://www.freefaces.gallery/) 77 typefaces.
-8. [Collletttivo](https://www.collletttivo.it/) 12 typefaces.
+8. [ImpallariType](https://www.impallari.com/fonts/) 19 typefaces.
 9. [Brick](https://brick.im/fonts/) 60 typefaces.
 10. [The Velvetyne Type Foundry (VTF)](https://velvetyne.fr/)
 11. [Collletttivo](https://www.collletttivo.it/) 12 typefaces.
